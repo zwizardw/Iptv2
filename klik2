@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="**************NEKI **************" tvg-logo="" group-title="Croatia",************** IPTV LIVE **************
+#EXTINF:-1 tvg-id="" tvg-name="************** Hrvatska IPTV **************" tvg-logo="" group-title="Croatia",************** Hrvatska **************
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/87
 #EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1"
 http://195.29.70.67/PLTV/88888888/224/3221226130/04.m3u8
 #EXTINF:-1 tvg-id="htv1" tvg-name="HRT 2"
@@ -50,8 +51,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/47561/47561_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/48521/48521_264_live.m3u8
 #EXTINF:-1 tvg-id="htv1" tvg-name="CRO TV"
 http://92.204.40.139:8081/crotv/televizijahrvatskedijaspore/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="************** Hrvatska IPTV **************" tvg-logo="" group-title="Croatia",************** Hrvatska **************
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/87
 #EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1" tvg-logo="https://tvprofil.com/img/kanali-logo/htv1-logo.png" group-title="Croatia",HRT 1
 https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/88
 #EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2" tvg-logo="https://tvprofil.com/img/kanali-logo/htv2-logo.png" group-title="Croatia",HRT 2
