@@ -1,6 +1,33 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="************** Hrvatska IPTV **************"
 https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/87
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/107
+#EXTINF:-1 tvg-id="" tvg-name="HRT 1 HD" tvg-logo="" group-title="Hrvatska",HRT 1 HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/108
+#EXTINF:-1 tvg-id="HTV2" tvg-name="HRT 2 HD" tvg-logo="" group-title="Hrvatska",HRT 2 HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/109
+#EXTINF:-1 tvg-id="" tvg-name="HRT 3 HD" tvg-logo="" group-title="Hrvatska",HRT 3 HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/110
+#EXTINF:-1 tvg-id="" tvg-name="HRT 4 HD" tvg-logo="" group-title="Hrvatska",HRT 4 HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/111
+#EXTINF:-1 tvg-id="" tvg-name="RTL TELEVIZIJA HD" tvg-logo="" group-title="Hrvatska",RTL TELEVIZIJA HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/114
+#EXTINF:-1 tvg-id="" tvg-name="RTL 2" tvg-logo="" group-title="Hrvatska",RTL 2
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/115
+#EXTINF:-1 tvg-id="" tvg-name="NOVA HD TV" tvg-logo="" group-title="Hrvatska",NOVA HD TV
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/116
+#EXTINF:-1 tvg-id="" tvg-name="DOMA TV" tvg-logo="" group-title="Hrvatska",DOMA TV
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/117
+#EXTINF:-1 tvg-id="RTL Living_max" tvg-name="RTL Living" tvg-logo="" group-title="Hrvatska",RTL Living
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/327
+#EXTINF:-1 tvg-id="RTL Crime_max" tvg-name="RTL Crime" tvg-logo="" group-title="Hrvatska",RTL Crime
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/330
+#EXTINF:-1 tvg-id="RTL PASSION" tvg-name="RTL Passion" tvg-logo="" group-title="Hrvatska",RTL Passion
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/329
+#EXTINF:-1 tvg-id="" tvg-name="Z1" tvg-logo="" group-title="Hrvatska",Z1
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/113
+#EXTINF:-1 tvg-id="" tvg-name="CMC" tvg-logo="" group-title="Hrvatska",CMC
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/122
 #EXTINF:0 tvg-id="htv1" tvg-name="HRT 1"
 http://195.29.70.67/PLTV/88888888/224/3221226130/04.m3u8
 #EXTINF:0 tvg-id="htv1" tvg-name="HRT 2"
@@ -119,22 +146,98 @@ https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/117
 https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/118
 #EXTINF:-1 tvg-id="" tvg-name="Aurora TV" tvg-logo="https://tvprofil.com/img/kanali-logo/aurora-tv-192x192.png" group-title="Croatia",Aurora TV
 https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/119
-#EXTINF:-1 tvg-id="" tvg-name="*************Montenegro *************" tvg-logo="" group-title="Montenegro",*************Montenegro *************
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/121
-#EXTINF:-1 tvg-id="tvcg1" tvg-name="RTCG 1" tvg-logo="https://tvprofil.com/img/kanali-logo/RTCG1-logo.jpg" group-title="Montenegro",RTCG 1
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/122
-#EXTINF:-1 tvg-id="tvcg2" tvg-name="RTCG 2" tvg-logo="https://tvprofil.com/img/kanali-logo/RTCG2-logo.jpg" group-title="Montenegro",RTCG 2
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/123
-#EXTINF:-1 tvg-id="tvcg-sat" tvg-name="RTCG Sat" tvg-logo="https://tvprofil.com/img/kanali-logo/RTCG-Sat-logo.jpg" group-title="Montenegro",RTCG Sat
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/124
-#EXTINF:-1 tvg-id="nova-m" tvg-name="Nova M" tvg-logo="https://tvprofil.com/img/kanali-logo/NovaM_logo.png" group-title="Montenegro",Nova M
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/126
-#EXTINF:-1 tvg-id="pink-m" tvg-name="Pink M" tvg-logo="http://190.2.141.78:25461/logo_channels/pinkm.png" group-title="Montenegro",Pink M
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/127
-#EXTINF:-1 tvg-id="tv-vijesti" tvg-name="TV Vijesti" tvg-logo="https://tvprofil.com/img/kanali-logo/TV_Vijesti_CG_logo.png" group-title="Montenegro",TV Vijesti
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/128
 #EXTINF:-1 tvg-id="" tvg-name="************** Sport **************" tvg-logo="" group-title="Sport",************** Sport **************
 https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/129
+#EXTINF:-1 tvg-id="Nova Sport HD" tvg-name="NOVA SPORT HD [ SRB ]" tvg-logo="" group-title="Sport",NOVA SPORT HD [ SRB ]
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/227
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB HD [ SRB ]" tvg-logo="" group-title="Sport",SPORT KLUB HD [ SRB ]
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/137
+#EXTINF:-1 tvg-id="Sport Klub 1" tvg-name="SPORT KLUB 1 HD [ SRB ]" tvg-logo="" group-title="Sport",SPORT KLUB 1 HD [ SRB ]
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/138
+#EXTINF:-1 tvg-id="Sport Klub 2" tvg-name="SPORT KLUB 2 HD [ SRB ]" tvg-logo="" group-title="Sport",SPORT KLUB 2 HD [ SRB ]
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/139
+#EXTINF:-1 tvg-id="Sport Klub 3" tvg-name="SPORT KLUB 3 HD [ SRB ]" tvg-logo="" group-title="Sport",SPORT KLUB 3 HD [ SRB ]
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/140
+#EXTINF:-1 tvg-id="Sport Klub 4K_max" tvg-name="Sport Klub 4 HD" tvg-logo="" group-title="Sport",Sport Klub 4 HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/297
+#EXTINF:-1 tvg-id="Sport Klub 5" tvg-name="Sport Klub 5" tvg-logo="" group-title="Sport",Sport Klub 5
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/298
+#EXTINF:-1 tvg-id="Sport Klub 6" tvg-name="Sport Klub 6" tvg-logo="" group-title="Sport",Sport Klub 6
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/299
+#EXTINF:-1 tvg-id="Sport Klub start_max" tvg-name="Sport Klub Special" tvg-logo="" group-title="Sport",Sport Klub Special
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/313
+#EXTINF:-1 tvg-id="Eurosport 1 (SR)" tvg-name="EUROSPORT 1 HD [ SRB ]" tvg-logo="" group-title="Sport",EUROSPORT 1 HD [ SRB ]
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/146
+#EXTINF:-1 tvg-id="Eurosport 2 (SR)" tvg-name="EUROSPORT 2 HD [ SRB ]" tvg-logo="" group-title="Sport",EUROSPORT 2 HD [ SRB ]
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/147
+#EXTINF:-1 tvg-id="SOS Kanal Plus" tvg-name="SOS KANAL" tvg-logo="" group-title="Sport",SOS KANAL
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/148
+#EXTINF:-1 tvg-id="Arenasport 1 HD_max" tvg-name="ARENA SPORT 1 HD [ HR ]" tvg-logo="" group-title="Sport",ARENA SPORT 1 HD [ HR ]
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/149
+#EXTINF:-1 tvg-id="Arenasport 2 HD_max" tvg-name="ARENA SPORT 2 HD [ HR ]" tvg-logo="" group-title="Sport",ARENA SPORT 2 HD [ HR ]
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/150
+#EXTINF:-1 tvg-id="Arenasport 3 HD_max" tvg-name="ARENA SPORT 3 HD [ HR ]" tvg-logo="" group-title="Sport",ARENA SPORT 3 HD [ HR ]
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/151
+#EXTINF:-1 tvg-id="Arenasport 4 HD_max" tvg-name="ARENA SPORT 4 HD [ HR ]" tvg-logo="" group-title="Sport",ARENA SPORT 4 HD [ HR ]
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/152
+#EXTINF:-1 tvg-id="Arenasport 5 HD_max" tvg-name="ARENA SPORT 5 HD [ HR ]" tvg-logo="" group-title="Sport",ARENA SPORT 5 HD [ HR ]
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/153
+#EXTINF:-1 tvg-id="Arenasport 6 HD_max" tvg-name="ARENA SPORT 6 HD [ HR ]" tvg-logo="" group-title="Sport",ARENA SPORT 6 HD [ HR ]
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/154
+#EXTINF:-1 tvg-id="Arena Sport 7 HD" tvg-name="Arena Sport 7 HD HR" tvg-logo="" group-title="Sport",Arena Sport 7 HD HR
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/300
+#EXTINF:-1 tvg-id="Arena Sport 8 HD" tvg-name="Arena Sport 8 HD HR" tvg-logo="" group-title="Sport",Arena Sport 8 HD HR
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/301
+#EXTINF:-1 tvg-id="Arena Sport 9 HD" tvg-name="Arena Sport 9 HD HR" tvg-logo="" group-title="Sport",Arena Sport 9 HD HR
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/302
+#EXTINF:-1 tvg-id="Arena Sport  10 HD" tvg-name="Arena Sport 10 HD HR" tvg-logo="" group-title="Sport",Arena Sport 10 HD HR
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/303
+#EXTINF:-1 tvg-id="NBA TV HD" tvg-name="NBA TV" tvg-logo="" group-title="Srbija",NBA TV
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/255
+#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="Arena Sport 1 HD SRB" tvg-logo="" group-title="Sport",Arena Sport 1 HD SRB
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/275
+#EXTINF:-1 tvg-id="Arena Sport 2 HD" tvg-name="Arena Sport 2 HD SRB" tvg-logo="" group-title="Sport",Arena Sport 2 HD SRB
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/276
+#EXTINF:-1 tvg-id="Arena Sport 3 HD" tvg-name="Arena Sport 3 HD SRB" tvg-logo="" group-title="Sport",Arena Sport 3 HD SRB
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/277
+#EXTINF:-1 tvg-id="Arena Sport 4 HD" tvg-name="Arena Sport 4 HD SRB" tvg-logo="" group-title="Sport",Arena Sport 4 HD SRB
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/278
+#EXTINF:-1 tvg-id="Arena Sport 5 HD" tvg-name="Arena Sport 5 HD SRB" tvg-logo="" group-title="Sport",Arena Sport 5 HD SRB
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/279
+#EXTINF:-1 tvg-id="Arena Sport 1 HD BiH" tvg-name="Arena Sport 1 HD BiH" tvg-logo="" group-title="Sport",Arena Sport 1 HD BiH
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/325
+#EXTINF:-1 tvg-id="Fight Network (SN)" tvg-name="FIGHT NETWORK HD" tvg-logo="" group-title="Sport",FIGHT NETWORK HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/157
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="" group-title="Sport",UFC Fight Pass
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/259
+#EXTINF:-1 tvg-id="Fight Channel" tvg-name="Fight Channel" tvg-logo="" group-title="Sport",Fight Channel
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/264
+#EXTINF:-1 tvg-id="Arena Fight" tvg-name="Arena Fight" tvg-logo="" group-title="Sport",Arena Fight
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/270
+#EXTINF:-1 tvg-id="Kreator TV_max" tvg-name="Kreator TV" tvg-logo="" group-title="Sport",Kreator TV
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/272
+#EXTINF:-1 tvg-id="SPORTSKA TV" tvg-name="Sportska TV" tvg-logo="" group-title="Sport",Sportska TV
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/288
+#EXTINF:-1 tvg-id="HNTV" tvg-name="HNTV" tvg-logo="" group-title="Sport",HNTV
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/332
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 HD" tvg-logo="" group-title="Sport",Sky Sport 1 HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/289
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2 HD" tvg-logo="" group-title="Sport",Sky Sport 2 HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/290
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundes Liga 1 HD" tvg-logo="" group-title="Sport",Sky Bundes Liga 1 HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/291
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT HD" tvg-logo="" group-title="Sport",EUROSPORT HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/155
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="Sport",DAZN 1 HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/320
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="Sport",DAZN 2 HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/321
+#EXTINF:-1 tvg-id="" tvg-name="Sport Digital" tvg-logo="" group-title="Sport",Sport Digital
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/331
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Sport HD" tvg-logo="" group-title="Sport",Viasat Sport HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/334
+#EXTINF:-1 tvg-id="SK Esports" tvg-name="Sport Klub Esports" tvg-logo="" group-title="Sport",Sport Klub Esports
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/363
 #EXTINF:-1 tvg-id="eurosport" tvg-name="Eurosport 1 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Eurosport_2015_logo.png" group-title="Sport",Eurosport 1 HD
 https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/130
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Eurosport_2_2015_logo.png" group-title="Sport",Eurosport 2 HD
@@ -271,70 +374,104 @@ https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/180
 https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/181
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Sport",NBA TV
 https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/182
-#EXTINF:-1 tvg-id="" tvg-name="*************Dokumentarni*************" tvg-logo="" group-title="Dokumentarni",*************Dokumentarni*************
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/193
-#EXTINF:-1 tvg-id="discovery-europe" tvg-name="Discovery Channel" tvg-logo="https://tvprofil.com/img/kanali-logo/Discovery_Channel_logo.png" group-title="Dokumentarni",Discovery Channel
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/194
-#EXTINF:-1 tvg-id="national-geographic-hd" tvg-name="National Geographic" tvg-logo="https://tvprofil.com/img/kanali-logo/nat-geographic-logo.png" group-title="Dokumentarni",National Geographic
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/195
-#EXTINF:-1 tvg-id="ng-wild-hd" tvg-name="Nat Geo Wild" tvg-logo="https://tvprofil.com/img/kanali-logo/nat_geo_wild_hd_logo.png" group-title="Dokumentarni",Nat Geo Wild
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/196
-#EXTINF:-1 tvg-id="viasat-explorer" tvg-name="Viasat Explore" tvg-logo="https://tvprofil.com/img/kanali-logo/viasat-explore.png" group-title="Dokumentarni",Viasat Explore
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/197
-#EXTINF:-1 tvg-id="history-channel" tvg-name="History Channel" tvg-logo="https://tvprofil.com/img/kanali-logo/history_de.png" group-title="Dokumentarni",History Channel
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/198
-#EXTINF:-1 tvg-id="history-channel-2" tvg-name="History Channel 2" tvg-logo="https://tvprofil.com/img/kanali-logo/H2_logo.png" group-title="Dokumentarni",History Channel 2
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/199
-#EXTINF:-1 tvg-id="viasat-history" tvg-name="Viasat History" tvg-logo="https://tvprofil.com/img/kanali-logo/viasat-history.png" group-title="Dokumentarni",Viasat History
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/200
-#EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel" tvg-logo="https://tvprofil.com/img/kanali-logo/travel-channel-logo.png" group-title="Dokumentarni",Travel Channel
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/201
-#EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viasat Nature" tvg-logo="https://tvprofil.com/img/kanali-logo/viasat-nature.png" group-title="Dokumentarni",Viasat Nature
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/202
-#EXTINF:-1 tvg-id="discovery-animal" tvg-name="Animal Planet" tvg-logo="https://tvprofil.com/img/kanali-logo/animal-planet-logo.png" group-title="Dokumentarni",Animal Planet
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/203
-#EXTINF:-1 tvg-id="rts-trezor" tvg-name="RTS Trezor" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS_Trezor_logo.png" group-title="Dokumentarni",RTS Trezor
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/204
-#EXTINF:-1 tvg-id="24kitchen" tvg-name="24 Kitchen" tvg-logo="https://tvprofil.com/img/kanali-logo/24-kitchen-logo.png" group-title="Dokumentarni",24 Kitchen
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/205
-#EXTINF:-1 tvg-id="crime-investigation" tvg-name="Crime & Investigation" tvg-logo="https://tvprofil.com/img/kanali-logo/crime-investigation-channel-logo.png" group-title="Dokumentarni",Crime & Investigation
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/206
-#EXTINF:-1 tvg-id="da-vinci-learning" tvg-name="Da Vinci Learning" tvg-logo="http://190.2.141.78:25461/logo_channels/davincilearning.png" group-title="Dokumentarni",Da Vinci Learning
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/207
-#EXTINF:-1 tvg-id="" tvg-name="Discovery ID" tvg-logo="https://tvprofil.com/img/kanali-logo/Investigation_Discovery_Logo.png" group-title="Dokumentarni",Discovery ID
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/208
-#EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Discovery_Science_logo.png" group-title="Dokumentarni",Discovery Science HD
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/209
-#EXTINF:-1 tvg-id="htv1" tvg-name="DTX" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Discovery_Turbo_Xtra_Logo.png" group-title="Dokumentarni",DTX
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/210
-#EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC" tvg-logo="https://tvprofil.com/img/kanali-logo/tlc-logo.png" group-title="Dokumentarni",TLC
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/211
-#EXTINF:-1 tvg-id="cbs-reality" tvg-name="CBS Reality" tvg-logo="https://tvprofil.com/img/kanali-logo/CBS-REALITY.png" group-title="Dokumentarni",CBS Reality
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/212
-#EXTINF:-1 tvg-id="" tvg-name="Woman TV" tvg-logo="http://kickmedia.tv/Woman/Woman_logo_last.png" group-title="Dokumentarni",Woman TV
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/21048
-#EXTINF:-1 tvg-id="" tvg-name="Doku TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/DOKUTV_logo.png" group-title="Dokumentarni",Doku TV
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/21049
-#EXTINF:-1 tvg-id="docubox-hd" tvg-name="DocuBOX" tvg-logo="https://tvprofil.com/img/kanali-logo/DocuBox_logo.png" group-title="Dokumentarni",DocuBOX
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/213
-#EXTINF:-1 tvg-id="bbc-earth" tvg-name="BBC Earth" tvg-logo="https://tvprofil.com/img/kanali-logo/BBCearth_logo.png" group-title="Dokumentarni",BBC Earth
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/215
-#EXTINF:-1 tvg-id="food-network" tvg-name="Food Network" tvg-logo="http://190.2.141.78:25461/logo_channels/food_network_us.png" group-title="Dokumentarni",Food Network
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/217
-#EXTINF:-1 tvg-id="entertainment" tvg-name="E!" tvg-logo="https://tvprofil.com/img/kanali-logo/e_entertainment_de.png" group-title="Dokumentarni",E!
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/218
-#EXTINF:-1 tvg-id="htv1" tvg-name="Fine Living" tvg-logo="https://tvprofil.com/img/kanali-logo/fine-living-logo.png" group-title="Dokumentarni",Fine Living
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/219
-#EXTINF:-1 tvg-id="pink-kuvar" tvg-name="Pink Kuvar" tvg-logo="https://tvprofil.com/img/kanali-logo/Pink_Kuvar_logo.png" group-title="Dokumentarni",Pink Kuvar
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/220
-#EXTINF:-1 tvg-id="pink-lol" tvg-name="Pink LOL" tvg-logo="https://tvprofil.com/img/kanali-logo/LOL.png" group-title="Dokumentarni",Pink LOL
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/221
-#EXTINF:-1 tvg-id="pink-style" tvg-name="Pink Style" tvg-logo="https://tvprofil.com/img/kanali-logo/pinkStyle.png" group-title="Dokumentarni",Pink Style
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/222
-#EXTINF:-1 tvg-id="pink-pedia" tvg-name="Pink Pedia" tvg-logo="https://tvprofil.com/img/kanali-logo/pinkPedia.png" group-title="Dokumentarni",Pink Pedia
-https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/223
 #EXTINF:-1 tvg-id="" tvg-name="************** Film **************" tvg-logo="" group-title="Filmski",************** Film **************
 https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/224
+#EXTINF:-1 tvg-id="HBO HD (SN)" tvg-name="HBO HD" tvg-logo="" group-title="Srbija",HBO HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/252
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 HD" tvg-logo="" group-title="Srbija",HBO 2 HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/253
+#EXTINF:-1 tvg-id="HBO 3 HD" tvg-name="HBO 3 HD" tvg-logo="" group-title="Srbija",HBO 3 HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/254
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax 1 HD" tvg-logo="" group-title="Srbija",Cinemax 1 HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/266
+#EXTINF:-1 tvg-id="Cinemax 2 HD" tvg-name="Cinemax 2 HD" tvg-logo="" group-title="Srbija",Cinemax 2 HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/267
+#EXTINF:-1 tvg-id="FilmBox Extra HD (SN)" tvg-name="FILMBOX EXTRA HD" tvg-logo="" group-title="Srbija",FILMBOX EXTRA HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/30
+#EXTINF:-1 tvg-id="FilmBox Stars" tvg-name="FILMBOX STARS HD" tvg-logo="" group-title="Srbija",FILMBOX STARS HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/287
+#EXTINF:-1 tvg-id="" tvg-name="CineStar Premiere 1 " tvg-logo="" group-title="Srbija",CineStar Premiere 1 
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/268
+#EXTINF:-1 tvg-id="" tvg-name="CineStar Premiere 2" tvg-logo="" group-title="Srbija",CineStar Premiere 2
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/269
+#EXTINF:-1 tvg-id="Cinestar TV Comedy (SN)" tvg-name="CineStarTV Comedy" tvg-logo="" group-title="Srbija",CineStarTV Comedy
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/245
+#EXTINF:-1 tvg-id="CineStar TV 2 HD" tvg-name="CineStar TV2" tvg-logo="" group-title="Srbija",CineStar TV2
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/63
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD" tvg-logo="" group-title="Srbija",Fox HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/203
+#EXTINF:-1 tvg-id="FOX MOVIES HD (SN)" tvg-name="FOX MOVIES FHD" tvg-logo="" group-title="Srbija",FOX MOVIES FHD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/346
+#EXTINF:-1 tvg-id="Fox Life HD (SN)" tvg-name="FOX LIFE FHD" tvg-logo="" group-title="Srbija",FOX LIFE FHD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/347
+#EXTINF:-1 tvg-id="Fox Crime HD (SN)" tvg-name="Fox Crime HD" tvg-logo="" group-title="Srbija",Fox Crime HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/274
+#EXTINF:-1 tvg-id="Pickbox HD (RS)" tvg-name="PickBox" tvg-logo="" group-title="Srbija",PickBox
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/294
+#EXTINF:-1 tvg-id="Cinemania HD" tvg-name="Cinemania HD" tvg-logo="" group-title="Srbija",Cinemania HD
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/336
+#EXTINF:-1 tvg-id="TV 1000 (SN)" tvg-name="TV 1000" tvg-logo="" group-title="Srbija",TV 1000
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/335
+#EXTINF:-1 tvg-id="M1 Film HD_max" tvg-name="M1 Film" tvg-logo="" group-title="Srbija",M1 Film
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/295
+#EXTINF:-1 tvg-id="M1 Gold HD_max" tvg-name="M1 Gold" tvg-logo="" group-title="Srbija",M1 Gold
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/296
+#EXTINF:-1 tvg-id="Superstar TV" tvg-name="SUPERSTAR TV" tvg-logo="http://deluxe.homelinux.com:40123/picons/superstartv.png" group-title="Srbija",SUPERSTAR TV
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/34
+#EXTINF:-1 tvg-id="Superstar 2" tvg-name="SuperStar 2" tvg-logo="" group-title="Srbija",SuperStar 2
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/265
+#EXTINF:-1 tvg-id="" tvg-name="FILM KLUB" tvg-logo="" group-title="Srbija",FILM KLUB
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/28
+#EXTINF:-1 tvg-id="" tvg-name="PRVA PLUS" tvg-logo="" group-title="Srbija",PRVA PLUS
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/25
+#EXTINF:-1 tvg-id="" tvg-name="RTS DRAMA" tvg-logo="" group-title="Srbija",RTS DRAMA
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/27
+#EXTINF:-1 tvg-id="RTS Trezor" tvg-name="RTS Trezor" tvg-logo="" group-title="Srbija",RTS Trezor
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/322
+#EXTINF:-1 tvg-id="AMC (SN)" tvg-name="AMC [ SRB ]" tvg-logo="" group-title="Srbija",AMC [ SRB ]
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/29
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN [ SRB ]" tvg-logo="" group-title="Srbija",AXN [ SRB ]
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/35
+#EXTINF:-1 tvg-id="AXN Spin" tvg-name="AXN SPIN" tvg-logo="" group-title="Srbija",AXN SPIN
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/36
+#EXTINF:-1 tvg-id="" tvg-name="AGRO TV" tvg-logo="" group-title="Srbija",AGRO TV
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/37
+#EXTINF:-1 tvg-id="RED TV (Pink 2 HD)" tvg-name="RED TV " tvg-logo="" group-title="Srbija",RED TV 
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/38
+#EXTINF:-1 tvg-id="Pink Premium HD" tvg-name="PINK PREMIUM" tvg-logo="" group-title="Srbija",PINK PREMIUM
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/39
+#EXTINF:-1 tvg-id="" tvg-name="PINK ACTION" tvg-logo="" group-title="Srbija",PINK ACTION
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/40
+#EXTINF:-1 tvg-id="" tvg-name="PINK THRILLER" tvg-logo="" group-title="Srbija",PINK THRILLER
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/41
+#EXTINF:-1 tvg-id="" tvg-name="PINK MOVIES" tvg-logo="" group-title="Srbija",PINK MOVIES
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/42
+#EXTINF:-1 tvg-id="" tvg-name="PINK SCI-FI & FANTASY" tvg-logo="" group-title="Srbija",PINK SCI-FI & FANTASY
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/43
+#EXTINF:-1 tvg-id="" tvg-name="PINK CRIME & MYSTERY" tvg-logo="" group-title="Srbija",PINK CRIME & MYSTERY
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/44
+#EXTINF:-1 tvg-id="" tvg-name="PINK ROMANCE" tvg-logo="" group-title="Srbija",PINK ROMANCE
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/45
+#EXTINF:-1 tvg-id="" tvg-name="PINK HORROR" tvg-logo="" group-title="Srbija",PINK HORROR
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/46
+#EXTINF:-1 tvg-id="" tvg-name="PINK CLASSIC" tvg-logo="" group-title="Srbija",PINK CLASSIC
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/47
+#EXTINF:-1 tvg-id="" tvg-name="PINK COMEDY" tvg-logo="" group-title="Srbija",PINK COMEDY
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/48
+#EXTINF:-1 tvg-id="" tvg-name="PINK WESTERN" tvg-logo="" group-title="Srbija",PINK WESTERN
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/49
+#EXTINF:-1 tvg-id="" tvg-name="PINK WORLD CINEMA" tvg-logo="" group-title="Srbija",PINK WORLD CINEMA
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/50
+#EXTINF:-1 tvg-id="" tvg-name="PINK FILM" tvg-logo="" group-title="Srbija",PINK FILM
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/51
+#EXTINF:-1 tvg-id="" tvg-name="KLASIK TV" tvg-logo="" group-title="Hrvatska",KLASIK TV
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/221
+#EXTINF:-1 tvg-id="Woman HD" tvg-name="Woman" tvg-logo="" group-title="Srbija",Woman
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/319
+#EXTINF:-1 tvg-id="" tvg-name="PINK SERIJE" tvg-logo="" group-title="Srbija",PINK SERIJE
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/52
+#EXTINF:-1 tvg-id="" tvg-name="PINK SOAP" tvg-logo="" group-title="Srbija",PINK SOAP
+http://amiga.sytes.net:31161/X-UI_Ubertrag/ewNG9Dfj0Q/53
 #EXTINF:-1 tvg-id="hbo" tvg-name="HBO Adria HD" tvg-logo="https://tvprofil.com/img/kanali-logo/hbo-logo.png" group-title="Filmski",HBO Adria HD
 https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/225
 #EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO 2 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/HBO2_b_p.png" group-title="Filmski",HBO 2 HD
@@ -459,6 +596,82 @@ https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/284
 https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/282
 #EXTINF:-1 tvg-id="" tvg-name="Lud Zbunjen Normalan 24/7" tvg-logo="https://mojtv.hr/thumb.ashx?path=/images/2017-06/ccbe229b-9d5e-4182-8c7b-5934c6.jpg&w=491&h=250" group-title="Filmski",Lud Zbunjen Normalan 24/7
 https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/21496
+#EXTINF:-1 tvg-id="" tvg-name="*************Montenegro *************" tvg-logo="" group-title="Montenegro",*************Montenegro *************
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/121
+#EXTINF:-1 tvg-id="tvcg1" tvg-name="RTCG 1" tvg-logo="https://tvprofil.com/img/kanali-logo/RTCG1-logo.jpg" group-title="Montenegro",RTCG 1
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/122
+#EXTINF:-1 tvg-id="tvcg2" tvg-name="RTCG 2" tvg-logo="https://tvprofil.com/img/kanali-logo/RTCG2-logo.jpg" group-title="Montenegro",RTCG 2
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/123
+#EXTINF:-1 tvg-id="tvcg-sat" tvg-name="RTCG Sat" tvg-logo="https://tvprofil.com/img/kanali-logo/RTCG-Sat-logo.jpg" group-title="Montenegro",RTCG Sat
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/124
+#EXTINF:-1 tvg-id="nova-m" tvg-name="Nova M" tvg-logo="https://tvprofil.com/img/kanali-logo/NovaM_logo.png" group-title="Montenegro",Nova M
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/126
+#EXTINF:-1 tvg-id="pink-m" tvg-name="Pink M" tvg-logo="http://190.2.141.78:25461/logo_channels/pinkm.png" group-title="Montenegro",Pink M
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/127
+#EXTINF:-1 tvg-id="tv-vijesti" tvg-name="TV Vijesti" tvg-logo="https://tvprofil.com/img/kanali-logo/TV_Vijesti_CG_logo.png" group-title="Montenegro",TV Vijesti
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/128
+#EXTINF:-1 tvg-id="" tvg-name="*************Dokumentarni*************" tvg-logo="" group-title="Dokumentarni",*************Dokumentarni*************
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/193
+#EXTINF:-1 tvg-id="discovery-europe" tvg-name="Discovery Channel" tvg-logo="https://tvprofil.com/img/kanali-logo/Discovery_Channel_logo.png" group-title="Dokumentarni",Discovery Channel
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/194
+#EXTINF:-1 tvg-id="national-geographic-hd" tvg-name="National Geographic" tvg-logo="https://tvprofil.com/img/kanali-logo/nat-geographic-logo.png" group-title="Dokumentarni",National Geographic
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/195
+#EXTINF:-1 tvg-id="ng-wild-hd" tvg-name="Nat Geo Wild" tvg-logo="https://tvprofil.com/img/kanali-logo/nat_geo_wild_hd_logo.png" group-title="Dokumentarni",Nat Geo Wild
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/196
+#EXTINF:-1 tvg-id="viasat-explorer" tvg-name="Viasat Explore" tvg-logo="https://tvprofil.com/img/kanali-logo/viasat-explore.png" group-title="Dokumentarni",Viasat Explore
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/197
+#EXTINF:-1 tvg-id="history-channel" tvg-name="History Channel" tvg-logo="https://tvprofil.com/img/kanali-logo/history_de.png" group-title="Dokumentarni",History Channel
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/198
+#EXTINF:-1 tvg-id="history-channel-2" tvg-name="History Channel 2" tvg-logo="https://tvprofil.com/img/kanali-logo/H2_logo.png" group-title="Dokumentarni",History Channel 2
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/199
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="Viasat History" tvg-logo="https://tvprofil.com/img/kanali-logo/viasat-history.png" group-title="Dokumentarni",Viasat History
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/200
+#EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel" tvg-logo="https://tvprofil.com/img/kanali-logo/travel-channel-logo.png" group-title="Dokumentarni",Travel Channel
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/201
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viasat Nature" tvg-logo="https://tvprofil.com/img/kanali-logo/viasat-nature.png" group-title="Dokumentarni",Viasat Nature
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/202
+#EXTINF:-1 tvg-id="discovery-animal" tvg-name="Animal Planet" tvg-logo="https://tvprofil.com/img/kanali-logo/animal-planet-logo.png" group-title="Dokumentarni",Animal Planet
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/203
+#EXTINF:-1 tvg-id="rts-trezor" tvg-name="RTS Trezor" tvg-logo="https://tvprofil.com/img/kanali-logo/RTS_Trezor_logo.png" group-title="Dokumentarni",RTS Trezor
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/204
+#EXTINF:-1 tvg-id="24kitchen" tvg-name="24 Kitchen" tvg-logo="https://tvprofil.com/img/kanali-logo/24-kitchen-logo.png" group-title="Dokumentarni",24 Kitchen
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/205
+#EXTINF:-1 tvg-id="crime-investigation" tvg-name="Crime & Investigation" tvg-logo="https://tvprofil.com/img/kanali-logo/crime-investigation-channel-logo.png" group-title="Dokumentarni",Crime & Investigation
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/206
+#EXTINF:-1 tvg-id="da-vinci-learning" tvg-name="Da Vinci Learning" tvg-logo="http://190.2.141.78:25461/logo_channels/davincilearning.png" group-title="Dokumentarni",Da Vinci Learning
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/207
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID" tvg-logo="https://tvprofil.com/img/kanali-logo/Investigation_Discovery_Logo.png" group-title="Dokumentarni",Discovery ID
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/208
+#EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Discovery_Science_logo.png" group-title="Dokumentarni",Discovery Science HD
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/209
+#EXTINF:-1 tvg-id="htv1" tvg-name="DTX" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Discovery_Turbo_Xtra_Logo.png" group-title="Dokumentarni",DTX
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/210
+#EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC" tvg-logo="https://tvprofil.com/img/kanali-logo/tlc-logo.png" group-title="Dokumentarni",TLC
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/211
+#EXTINF:-1 tvg-id="cbs-reality" tvg-name="CBS Reality" tvg-logo="https://tvprofil.com/img/kanali-logo/CBS-REALITY.png" group-title="Dokumentarni",CBS Reality
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/212
+#EXTINF:-1 tvg-id="" tvg-name="Woman TV" tvg-logo="http://kickmedia.tv/Woman/Woman_logo_last.png" group-title="Dokumentarni",Woman TV
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/21048
+#EXTINF:-1 tvg-id="" tvg-name="Doku TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/DOKUTV_logo.png" group-title="Dokumentarni",Doku TV
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/21049
+#EXTINF:-1 tvg-id="docubox-hd" tvg-name="DocuBOX" tvg-logo="https://tvprofil.com/img/kanali-logo/DocuBox_logo.png" group-title="Dokumentarni",DocuBOX
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/213
+#EXTINF:-1 tvg-id="bbc-earth" tvg-name="BBC Earth" tvg-logo="https://tvprofil.com/img/kanali-logo/BBCearth_logo.png" group-title="Dokumentarni",BBC Earth
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/215
+#EXTINF:-1 tvg-id="food-network" tvg-name="Food Network" tvg-logo="http://190.2.141.78:25461/logo_channels/food_network_us.png" group-title="Dokumentarni",Food Network
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/217
+#EXTINF:-1 tvg-id="entertainment" tvg-name="E!" tvg-logo="https://tvprofil.com/img/kanali-logo/e_entertainment_de.png" group-title="Dokumentarni",E!
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/218
+#EXTINF:-1 tvg-id="htv1" tvg-name="Fine Living" tvg-logo="https://tvprofil.com/img/kanali-logo/fine-living-logo.png" group-title="Dokumentarni",Fine Living
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/219
+#EXTINF:-1 tvg-id="pink-kuvar" tvg-name="Pink Kuvar" tvg-logo="https://tvprofil.com/img/kanali-logo/Pink_Kuvar_logo.png" group-title="Dokumentarni",Pink Kuvar
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/220
+#EXTINF:-1 tvg-id="pink-lol" tvg-name="Pink LOL" tvg-logo="https://tvprofil.com/img/kanali-logo/LOL.png" group-title="Dokumentarni",Pink LOL
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/221
+#EXTINF:-1 tvg-id="pink-style" tvg-name="Pink Style" tvg-logo="https://tvprofil.com/img/kanali-logo/pinkStyle.png" group-title="Dokumentarni",Pink Style
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/222
+#EXTINF:-1 tvg-id="pink-pedia" tvg-name="Pink Pedia" tvg-logo="https://tvprofil.com/img/kanali-logo/pinkPedia.png" group-title="Dokumentarni",Pink Pedia
+https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/223
 #EXTINF:-1 tvg-id="" tvg-name="************** Bosnia **************" tvg-logo="" group-title="BIH",************** Bosnia **************
 https://tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/6
 #EXTINF:-1 tvg-id="bht1" tvg-name="BHT 1" tvg-logo="https://tvprofil.com/img/kanali-logo/bht1.jpg" group-title="BIH",BHT 1
