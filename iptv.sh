@@ -29,56 +29,56 @@
 #DESCRIPTION Z1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//amiga.sytes.net%3a31161/X-UI_Ubertrag/ewNG9Dfj0Q/122:CMC
 #DESCRIPTION CMC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.67/PLTV/88888888/224/3221226130/04.m3u8:Channel 31
-#DESCRIPTION Channel 31
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.67/PLTV/88888888/224/3221226140/04.m3u8:Channel 33
-#DESCRIPTION Channel 33
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8:Channel 35
-#DESCRIPTION Channel 35
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.67/PLTV/88888888/224/3221226281/04.m3u8:Channel 37
-#DESCRIPTION Channel 37
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8:Channel 39
-#DESCRIPTION Channel 39
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.105.201.182%3a8081/maxtv/hrt1hd/playlist.m3u8:Channel 41
-#DESCRIPTION Channel 41
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.105.201.182%3a8081/maxtv/hrt2hd/playlist.m3u8:Channel 43
-#DESCRIPTION Channel 43
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.105.201.182%3a8081/maxtv/hrt3hd/playlist.m3u8:Channel 45
-#DESCRIPTION Channel 45
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.105.201.182%3a8081/maxtv/hrt4hd/playlist.m3u8:Channel 47
-#DESCRIPTION Channel 47
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.105.201.182%3a8081/maxtv/hrt5hd/playlist.m3u8:Channel 49
-#DESCRIPTION Channel 49
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.105.201.182%3a8081/maxtv/novahd/playlist.m3u8:Channel 51
-#DESCRIPTION Channel 51
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.105.201.182%3a8081/maxtv/domahd/playlist.m3u8:Channel 53
-#DESCRIPTION Channel 53
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.105.201.182%3a8081/maxtv/rtlhd/playlist.m3u8:Channel 55
-#DESCRIPTION Channel 55
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.105.201.182%3a8081/maxtv/rtl2hd/playlist.m3u8:Channel 57
-#DESCRIPTION Channel 57
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.201.163.244%3a8080/hls/hdmi.m3u8:Channel 59
-#DESCRIPTION Channel 59
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//185.62.75.22%3a1935/trend/myStream:Channel 61
-#DESCRIPTION Channel 61
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.105.201.182%3a8081/maxtv/cmchd/playlist.m3u8:Channel 63
-#DESCRIPTION Channel 63
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video.radio-banovina.hr/live/myStream:Channel 65
-#DESCRIPTION Channel 65
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0:Channel 67
-#DESCRIPTION Channel 67
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0:Channel 69
-#DESCRIPTION Channel 69
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0:Channel 71
-#DESCRIPTION Channel 71
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/48519/48519_264_live.m3u8:Channel 73
-#DESCRIPTION Channel 73
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/47561/47561_264_live.m3u8:Channel 75
-#DESCRIPTION Channel 75
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/48521/48521_264_live.m3u8:Channel 77
-#DESCRIPTION Channel 77
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.204.40.139%3a8081/crotv/televizijahrvatskedijaspore/playlist.m3u8:Channel 79
-#DESCRIPTION Channel 79
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.67/PLTV/88888888/224/3221226130/04.m3u8:HRT 1
+#DESCRIPTION HRT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.67/PLTV/88888888/224/3221226140/04.m3u8:HRT 2
+#DESCRIPTION HRT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8:HRT 3
+#DESCRIPTION HRT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.67/PLTV/88888888/224/3221226281/04.m3u8:HRT 4
+#DESCRIPTION HRT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8:RTL
+#DESCRIPTION RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.105.201.182%3a8081/maxtv/hrt1hd/playlist.m3u8:HRT 1
+#DESCRIPTION HRT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.105.201.182%3a8081/maxtv/hrt2hd/playlist.m3u8:HRT 2
+#DESCRIPTION HRT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.105.201.182%3a8081/maxtv/hrt3hd/playlist.m3u8:HRT 3
+#DESCRIPTION HRT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.105.201.182%3a8081/maxtv/hrt4hd/playlist.m3u8:HRT 4
+#DESCRIPTION HRT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.105.201.182%3a8081/maxtv/hrt5hd/playlist.m3u8:HRT 5 INT
+#DESCRIPTION HRT 5 INT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.105.201.182%3a8081/maxtv/novahd/playlist.m3u8:NOVA
+#DESCRIPTION NOVA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.105.201.182%3a8081/maxtv/domahd/playlist.m3u8:DOMA TV
+#DESCRIPTION DOMA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.105.201.182%3a8081/maxtv/rtlhd/playlist.m3u8:RTL
+#DESCRIPTION RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.105.201.182%3a8081/maxtv/rtl2hd/playlist.m3u8:RTL 2
+#DESCRIPTION RTL 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.201.163.244%3a8080/hls/hdmi.m3u8:SLAVONSKA TV
+#DESCRIPTION SLAVONSKA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//185.62.75.22%3a1935/trend/myStream:TREND
+#DESCRIPTION TREND
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.105.201.182%3a8081/maxtv/cmchd/playlist.m3u8:CMC
+#DESCRIPTION CMC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video.radio-banovina.hr/live/myStream:BANOVINA TV
+#DESCRIPTION BANOVINA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0:N1 HR
+#DESCRIPTION N1 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0:N1 BIH
+#DESCRIPTION N1 BIH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0:N1 SR
+#DESCRIPTION SR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/48519/48519_264_live.m3u8:UNA HR
+#DESCRIPTION UNA HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/47561/47561_264_live.m3u8:UNA SR
+#DESCRIPTION UNA SR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/48521/48521_264_live.m3u8:UNA BIH
+#DESCRIPTION UNA BIH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.204.40.139%3a8081/crotv/televizijahrvatskedijaspore/playlist.m3u8:CRO TV
+#DESCRIPTION CRO TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/88:HRT 1
 #DESCRIPTION HRT 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/89:HRT 2
