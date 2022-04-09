@@ -1,8 +1,4 @@
-#NAME •••••| ciefpsettings IPTV |•••••
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tinyurl.com/2w7zfv4b/22infotv52623/iptv14535/87:Channel 2
-#DESCRIPTION Channel 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//amiga.sytes.net%3a31161/X-UI_Ubertrag/ewNG9Dfj0Q/107:Channel 3
-#DESCRIPTION Channel 3
+#NAME •••••| IPTV |•••••
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//amiga.sytes.net%3a31161/X-UI_Ubertrag/ewNG9Dfj0Q/108:HRT 1 HD
 #DESCRIPTION HRT 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//amiga.sytes.net%3a31161/X-UI_Ubertrag/ewNG9Dfj0Q/109:HRT 2 HD
