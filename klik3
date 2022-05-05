@@ -1,1 +1,1117 @@
 #EXTM3U
+#EXTINF:0,RTS 1 
+http://185.107.58.203:8000/live?channelId=259&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,RTS 1 L2 (RS)
+http://185.107.58.203:8000/live?channelId=260&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,RTS 2 (RS) FHD 
+http://185.107.58.203:8000/live?channelId=261&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,RTS 1
+http://185.107.58.203:8000/live?channelId=8511&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,RTS 2 
+http://185.107.58.203:8000/live?channelId=8512&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,RTS 2 HD (L2)
+http://185.107.58.203:8000/live?channelId=444&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,B92
+http://185.107.71.33:8000/live?channelId=286&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,PINK VESTI
+http://185.107.58.203:8000/live?channelId=8497&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,INSAJDER (RS) 
+http://185.107.58.203:8000/live?channelId=299&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,PINK RED
+http://185.107.58.203:8000/live?channelId=305&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,PINK Vesti 
+http://185.107.58.203:8000/live?channelId=306&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Kurir TV
+http://185.107.71.33:8000/live?channelId=5774&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Balkan TV 1 HD 
+http://185.107.71.33:8000/live?channelId=5779&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Balkan TV HD 2
+http://185.107.71.33:8000/live?channelId=5780&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,TSD TV 
+http://185.107.58.203:8000/live?channelId=8509&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,TANJUG 
+http://185.107.58.203:8000/live?channelId=8510&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,PRVA TV (RS)
+http://185.107.58.203:8000/live?channelId=270&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,PINK 
+http://185.107.58.203:8000/live?channelId=304&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,HAPPY 
+http://185.107.71.33:8000/live?channelId=287&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,PAROVI LIVE
+http://185.107.71.33:8000/live?channelId=1541&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ZADRUGA 24 H  
+http://185.107.71.33:8000/live?channelId=297&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ZADRUGA 1 
+http://185.107.58.203:8000/live?channelId=1539&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ZADRUGA 2 
+http://185.107.58.203:8000/live?channelId=1540&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ZADRUGA 3 
+http://185.107.71.33:8000/live?channelId=2306&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ZADRUGA 4  
+http://185.107.71.33:8000/live?channelId=2307&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,GRAND TV 
+http://185.107.58.203:8000/live?channelId=2311&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,GRAND 2
+http://185.107.58.203:8000/live?channelId=2312&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+#EXTINF:0,SPORT KLUB HD HR LOCAL
+http://185.107.58.203:8000/live?channelId=338&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SPORT KLUB 1 HD (HR)
+http://185.107.71.33:8000/live?channelId=339&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SPORT KLUB 2 HD (MULTIAUDIO HR / RS) 
+http://185.107.58.203:8000/live?channelId=340&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SPORT KLUB 3 HD (MULTIAUDIO HR/RS/SLO)
+http://185.107.58.203:8000/live?channelId=341&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SPORT KLUB 4 HD (MULTIAUDIO HR/RR)
+http://185.107.58.203:8000/live?channelId=342&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SPORT KLUB 5 HD (MULTIAUDIO HR/RS)
+http://185.107.58.203:8000/live?channelId=343&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SPORT KLUB 1 HD (RS)
+http://185.107.58.203:8000/live?channelId=344&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SPORT KLUB 2 HD (RS)
+http://185.107.58.203:8000/live?channelId=345&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SPORT KLUB 3 HD (RS)
+http://185.107.71.33:8000/live?channelId=346&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SPORT KLUB 4 HD (RS)
+http://185.107.58.203:8000/live?channelId=347&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SPORT KLUB 6 (MULTIAUDIO HR/RS) 
+http://185.107.58.203:8000/live?channelId=348&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SPORT KLUB 7 (RS)
+http://185.107.58.203:8000/live?channelId=349&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SPORT KLUB 8 (RS)
+http://185.107.58.203:8000/live?channelId=350&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SPORT KLUB 9 (RS)
+http://185.107.58.203:8000/live?channelId=351&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SPORT KLUB 10 (RS)
+http://185.107.58.203:8000/live?channelId=352&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,PREMIER LIGA BIH 
+http://185.107.71.33:8000/live?channelId=404&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,EUROSPORT 1 (RS)
+http://185.107.71.33:8000/live?channelId=405&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,EUROSPORT 2 (RS)
+http://185.107.71.33:8000/live?channelId=406&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,BACKUPArena Sport 1 HR (L2)
+http://185.107.71.33:8000/live?channelId=8221&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,BACKUPArena Sport 2 HR (L2)
+http://185.107.71.33:8000/live?channelId=8222&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,BACKUPArena Sport 3 HR (L2)
+http://185.107.71.33:8000/live?channelId=8223&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,BACKUPArena Sport 4 HR (L2)
+http://185.107.71.33:8000/live?channelId=8224&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,BACKUPArena Sport 5 HR (L2)
+http://185.107.71.33:8000/live?channelId=8225&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,BACKUPArena Sport 6 HD HR
+http://185.107.71.33:8000/live?channelId=8226&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,BACKUPArena Sport 1 SR (L2)
+http://185.107.71.33:8000/live?channelId=8227&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,BACKUPArena Sport 2 SR (L2)
+http://185.107.71.33:8000/live?channelId=8228&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,BACKUPArena Sport 3 SR (L2)
+http://185.107.71.33:8000/live?channelId=8229&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,BACKUPArena Sport 4 SR (L2)
+http://185.107.71.33:8000/live?channelId=8230&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,BACKUPArena Sport 5 SR (L2)
+http://185.107.71.33:8000/live?channelId=8231&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Arena Sport 7 HD HR
+http://185.107.71.33:8000/live?channelId=8329&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Arena Sport 8 HD HR
+http://185.107.71.33:8000/live?channelId=8330&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Arena Sport 9 HD HR
+http://185.107.71.33:8000/live?channelId=8331&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Arena Sport 10 HD HR
+http://185.107.71.33:8000/live?channelId=8332&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Arena Sport BIH
+http://185.107.58.203:8000/live?channelId=8333&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+#EXTINF:0,Arena Sport 1 Premium
+http://185.107.58.203:8000/live?channelId=8396&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Arena Sport 2 Premium 
+http://185.107.58.203:8000/live?channelId=8397&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Arena Sport 3 Premium 
+http://185.107.58.203:8000/live?channelId=8398&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+#EXTINF:0,ARENA SPORT PREMIUM 1 (BACKUP)
+http://185.107.58.203:8000/live?channelId=8467&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ARENA SPORT PREMIUM 2 (BACKUP)
+http://185.107.58.203:8000/live?channelId=8468&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ARENA SPORT PREMIUM 3 (BACKUP)
+http://185.107.58.203:8000/live?channelId=8469&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+#EXTINF:0,ARENA SPORT 7 BACKUP
+http://185.107.58.203:8000/live?channelId=8498&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ARENA SPORT 8 BACKUP
+http://185.107.58.203:8000/live?channelId=8499&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ARENA SPORT 9 BACKUP
+http://185.107.58.203:8000/live?channelId=8500&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ARENA SPORT 10 BACKUP
+http://185.107.58.203:8000/live?channelId=8501&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ARENA SPORT 3 SLO
+http://185.107.58.203:8000/live?channelId=8514&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ARENA SPORT 4 SLO
+http://185.107.58.203:8000/live?channelId=8515&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ARENA SPORT 1 (HR)ARENA SPORT 1 (HR)
+http://185.107.71.33:8000/live?channelId=27&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ARENA SPORT 2 (HR)ARENA SPORT 2 (HR)
+http://185.107.58.203:8000/live?channelId=28&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ARENA SPORT 3 (HR)ARENA SPORT 3 (HR)
+http://185.107.58.203:8000/live?channelId=29&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ARENA SPORT 4 (HR)ARENA SPORT 4 (HR)
+http://185.107.58.203:8000/live?channelId=30&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ARENA SPORT 5 (HR)ARENA SPORT 5 (HR)
+http://185.107.58.203:8000/live?channelId=31&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ARENA SPORT 6 (HR)ARENA SPORT 6 (HR)
+http://185.107.58.203:8000/live?channelId=32&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+#EXTINF:0,====== GERMANY ======
+http://185.107.58.203:8000/live?channelId=89&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Sky Krimi (DE)Sky Krimi (DE)
+http://185.107.58.203:8000/live?channelId=193&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Sport Bundesliga 2 HD (During Games only)
+http://185.107.58.203:8000/live?channelId=213&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Sport Bundesliga 6 HD (During Games only)
+http://185.107.58.203:8000/live?channelId=221&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Sport Bundesliga 7 HD (During Games only)
+http://185.107.58.203:8000/live?channelId=223&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Universal TV FHD (DE)Universal TV FHD (DE)
+http://185.107.58.203:8000/live?channelId=232&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+#EXTINF:0,SOS KANAL (RS)
+http://185.107.71.33:8000/live?channelId=278&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+
+
+
+#EXTINF:0,DE: Sky Sport Bundesliga 1 HD
+http://185.107.58.203:8000/live?channelId=407&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Sport Bundesliga 3 HD (During Games only)
+http://185.107.71.33:8000/live?channelId=408&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Sport Bundesliga 4 HD (During Games only)
+http://185.107.71.33:8000/live?channelId=409&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Sport Bundesliga 5 HD (During Games only)
+http://185.107.71.33:8000/live?channelId=410&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DAZN SPORT 1 HD DE (DE)
+http://185.107.71.33:8000/live?channelId=411&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DAZN SPORT 2 HD DE (DE)
+http://185.107.71.33:8000/live?channelId=412&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SKY SPORT 1 (DE)
+http://185.107.71.33:8000/live?channelId=413&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SKY SPORT AUSTRIA 
+http://185.107.71.33:8000/live?channelId=414&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: SPORT1DE: SPORT1
+http://185.107.71.33:8000/live?channelId=415&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+#EXTINF:0,SOS
+http://185.107.58.203:8000/live?channelId=417&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+
+#EXTINF:0,>>>>>DOKUMENTARNI<<<<<
+http://185.107.71.33:8000/live?channelId=613&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ANIMAL PLANET (HR)ANIMAL PLANET (HR)
+http://185.107.71.33:8000/live?channelId=614&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DOKU TV (HR)
+http://185.107.71.33:8000/live?channelId=615&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DOCU BOXDOCU BOX
+http://185.107.71.33:8000/live?channelId=616&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DISCOVERY SCIDISCOVERY SCI
+http://185.107.71.33:8000/live?channelId=617&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DISCOVERY ID (HR)
+http://185.107.71.33:8000/live?channelId=618&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DISCOVERY CHANNELDISCOVERY CHANNEL
+http://185.107.71.33:8000/live?channelId=620&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DAVINCI LEARING
+http://185.107.71.33:8000/live?channelId=621&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DISCOVERY SCI HD (HR)
+http://185.107.71.33:8000/live?channelId=624&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,FINE LIVING (HR)
+http://185.107.71.33:8000/live?channelId=625&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,VIASAT NATURE (HR)VIASAT NATURE (HR)
+http://185.107.71.33:8000/live?channelId=626&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,VIASAT HISTORY (HR)VIASAT HISTORY (HR)
+http://185.107.71.33:8000/live?channelId=627&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,VIASAT EXPLORE (HR)VIASAT EXPLORE (HR)
+http://185.107.71.33:8000/live?channelId=628&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,NGC WILD HD (HR)
+http://185.107.71.33:8000/live?channelId=629&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,NATIONAL GEOGRAPHIC (HR)NATIONAL GEOGRAPHIC (HR)
+http://185.107.71.33:8000/live?channelId=630&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,NATIONAL GEOGRAPHIC WILD (HR)
+http://185.107.71.33:8000/live?channelId=631&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,CBS REALITY 
+http://185.107.71.33:8000/live?channelId=633&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,CRIME & INVESTIGATION
+http://185.107.58.203:8000/live?channelId=634&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,TRAVEL 
+http://185.107.71.33:8000/live?channelId=635&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,TLC EUROPE 
+http://185.107.71.33:8000/live?channelId=636&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,BBC EARTH HDBBC EARTH HD
+http://185.107.71.33:8000/live?channelId=639&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,LOV I RIBOLOV (HR)
+http://185.107.71.33:8000/live?channelId=642&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+#EXTINF:0,SKY SPORT F1 HD (UK)
+http://185.107.58.203:8000/live?channelId=651&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DAZN 1 HD (ENG)
+http://185.107.71.33:8000/live?channelId=652&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+#EXTINF:0,RTL DE
+http://185.107.71.33:8000/live?channelId=659&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,RTL 2 DE
+http://185.107.71.33:8000/live?channelId=660&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SUPER RTL DE
+http://185.107.71.33:8000/live?channelId=661&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,VOX (DE)
+http://185.107.71.33:8000/live?channelId=662&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ORF 1 (DE)
+http://185.107.71.33:8000/live?channelId=663&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ORF 2 (DE)
+http://185.107.71.33:8000/live?channelId=664&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DAS ERSTE DE (DE)
+http://185.107.71.33:8000/live?channelId=665&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+#EXTINF:0,ZDF HD (DE)
+http://185.107.71.33:8000/live?channelId=679&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,PRO 7 (DE)
+http://185.107.71.33:8000/live?channelId=681&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SAT EINS (DE)
+http://185.107.71.33:8000/live?channelId=683&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,N 24 (DE)
+http://185.107.71.33:8000/live?channelId=684&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DMAX (DE)
+http://185.107.71.33:8000/live?channelId=685&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+#EXTINF:0,ARENA SPORT 1 HD RS)
+http://185.107.71.33:8000/live?channelId=692&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ARENA SPORT  2 HD (RS)
+http://185.107.71.33:8000/live?channelId=693&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ARENA SPORT  3 HD (RS)
+http://185.107.71.33:8000/live?channelId=694&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ARENA SPORT  4 HD (RS)
+http://185.107.58.203:8000/live?channelId=695&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ARENA SPORT 5 HD (RS)
+http://185.107.71.33:8000/live?channelId=696&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+#EXTINF:0,***** Suisse Channel *****
+http://185.107.58.203:8000/live?channelId=979&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,TAQUILLA 1 (ES)
+http://185.107.58.203:8000/live?channelId=1007&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,TAQUILLA 2 (ES)
+http://185.107.58.203:8000/live?channelId=1008&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,TAQUILLA 3 (ES)
+http://185.107.58.203:8000/live?channelId=1009&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,TAQUILLA 4 (ES)
+http://185.107.58.203:8000/live?channelId=1010&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,TAQUILLA 5 (ES)
+http://185.107.71.33:8000/live?channelId=1011&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,TAQUILLA 6 (ES)
+http://185.107.71.33:8000/live?channelId=1012&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: SPORTDIGITALDE: SPORTDIGITAL
+http://185.107.71.33:8000/live?channelId=1038&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Pruga TVPruga TV
+http://185.107.71.33:8000/live?channelId=1039&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,FR: Eurosport 1 HD
+http://185.107.71.33:8000/live?channelId=1040&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sport 1+ HD
+http://185.107.71.33:8000/live?channelId=1042&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Sport HD 1
+http://185.107.71.33:8000/live?channelId=1043&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Sport HD 2
+http://185.107.71.33:8000/live?channelId=1044&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Sport FHD 3 (only on match time)
+http://185.107.71.33:8000/live?channelId=1045&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Sport FHD 4 (only on match time)
+http://185.107.71.33:8000/live?channelId=1046&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Sport HD 5 (only on match time)
+http://185.107.71.33:8000/live?channelId=1047&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Sport HD 6 (only on match time)
+http://185.107.71.33:8000/live?channelId=1048&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Sport HD 7 (only on match time)
+http://185.107.71.33:8000/live?channelId=1049&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Sport HD 8 (only on match time)
+http://185.107.71.33:8000/live?channelId=1050&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Sport HD 9 (only on match time)
+http://185.107.71.33:8000/live?channelId=1051&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Sport HD 10 (only on match time)
+http://185.107.71.33:8000/live?channelId=1052&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Sport HD 11 (only on match time)
+http://185.107.71.33:8000/live?channelId=1053&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Bundesliga HD 8 (only on match time)
+http://185.107.71.33:8000/live?channelId=1055&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Bundesliga HD 9 (only on match time)
+http://185.107.71.33:8000/live?channelId=1056&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Bundesliga HD 10 (only on match time)
+http://185.107.71.33:8000/live?channelId=1057&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Sport 1 HD FHD
+http://185.107.71.33:8000/live?channelId=1058&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,De: Sky Sport 2 HD FHD
+http://185.107.71.33:8000/live?channelId=1059&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Sport 3 FHD (only on match time)
+http://185.107.71.33:8000/live?channelId=1060&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Sport 4 FHD (only on match time)
+http://185.107.71.33:8000/live?channelId=1061&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Sport 5 FHD (only on match time)
+http://185.107.71.33:8000/live?channelId=1062&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+#EXTINF:0,SPORT KLUB 2 HD (HR)
+http://185.107.71.33:8000/live?channelId=1120&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SPORT KLUB 3 HD (HR)
+http://185.107.71.33:8000/live?channelId=1121&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SPORT KLUB 4 HD (HR)
+http://185.107.71.33:8000/live?channelId=1122&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SPORT KLUB 5 HD (HR)
+http://185.107.71.33:8000/live?channelId=1123&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SPORT KLUB 1 HD (RS) LOCAL
+http://185.107.71.33:8000/live?channelId=1124&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+
+
+#EXTINF:0,DE: ZDF HD
+http://185.107.71.33:8000/live?channelId=2130&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Pro7 HD
+http://185.107.71.33:8000/live?channelId=2131&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sat.1 HD
+http://185.107.71.33:8000/live?channelId=2132&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sixx HD
+http://185.107.71.33:8000/live?channelId=2133&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: TLC HD
+http://185.107.71.33:8000/live?channelId=2134&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sat1 Gold HD
+http://185.107.71.33:8000/live?channelId=2135&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Super RTL HD
+http://185.107.71.33:8000/live?channelId=2136&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Nitro HD
+http://185.107.71.33:8000/live?channelId=2137&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: ProSieben Maxx HD
+http://185.107.71.33:8000/live?channelId=2138&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: One HD
+http://185.107.71.33:8000/live?channelId=2139&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: NTV HD
+http://185.107.71.33:8000/live?channelId=2140&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: WDR HD
+http://185.107.71.33:8000/live?channelId=2141&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: MDR HD
+http://185.107.71.33:8000/live?channelId=2142&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: HR Fernsehen
+http://185.107.71.33:8000/live?channelId=2143&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: SWR Fernsehen
+http://185.107.71.33:8000/live?channelId=2144&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: BR Fernsehen
+http://185.107.71.33:8000/live?channelId=2145&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Welt HD
+http://185.107.71.33:8000/live?channelId=2146&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Servus TV Deutschland HD
+http://185.107.71.33:8000/live?channelId=2147&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Comedy Central HD
+http://185.107.71.33:8000/live?channelId=2148&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Dmax HD
+http://185.107.71.33:8000/live?channelId=2149&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Motorvision HD
+http://185.107.71.33:8000/live?channelId=2150&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Disney Channel HD
+http://185.107.71.33:8000/live?channelId=2151&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Cinema Action HD
+http://185.107.71.33:8000/live?channelId=2152&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Hits HD
+http://185.107.71.33:8000/live?channelId=2153&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky 1 HD
+http://185.107.71.33:8000/live?channelId=2154&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: FOX HD
+http://185.107.71.33:8000/live?channelId=2155&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Spiegel TV Wissen HD
+http://185.107.71.33:8000/live?channelId=2156&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Nat Geo Wild HD
+http://185.107.71.33:8000/live?channelId=2157&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Atlantic HD
+http://185.107.71.33:8000/live?channelId=2158&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: TNT Serie HD
+http://185.107.71.33:8000/live?channelId=2159&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Kinowelt TV HD
+http://185.107.71.33:8000/live?channelId=2160&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Discovery HD
+http://185.107.71.33:8000/live?channelId=2161&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Animal Planet HD
+http://185.107.71.33:8000/live?channelId=2162&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Universal HD
+http://185.107.71.33:8000/live?channelId=2163&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: History HD
+http://185.107.71.33:8000/live?channelId=2164&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Nostalgie
+http://185.107.71.33:8000/live?channelId=2165&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Sky Cinema Emotion
+http://185.107.71.33:8000/live?channelId=2166&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Kabel Eins Classic HD
+http://185.107.71.33:8000/live?channelId=2167&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Pro7 Fun HD
+http://185.107.71.33:8000/live?channelId=2168&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Planet HD
+http://185.107.71.33:8000/live?channelId=2169&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: RTL Living HD
+http://185.107.71.33:8000/live?channelId=2170&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Romance TV HD
+http://185.107.71.33:8000/live?channelId=2171&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: A&E HD
+http://185.107.71.33:8000/live?channelId=2172&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: RTL Crime HD
+http://185.107.71.33:8000/live?channelId=2173&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: 13th Street HD
+http://185.107.71.33:8000/live?channelId=2174&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: Syfy HD
+http://185.107.71.33:8000/live?channelId=2175&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: AXN HD
+http://185.107.71.33:8000/live?channelId=2176&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE: TNT Film HD
+http://185.107.71.33:8000/live?channelId=2177&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+
+#EXTINF:0,ARD HD (DE)
+http://185.107.71.33:8000/live?channelId=2831&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ZDF INFO HD (DE)
+http://185.107.71.33:8000/live?channelId=2832&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,ZDF Neo HD (DE)
+http://185.107.71.33:8000/live?channelId=2833&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,3SAT (DE)
+http://185.107.71.33:8000/live?channelId=2834&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,RTL LUX (DE)
+http://185.107.71.33:8000/live?channelId=2835&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,KABEL 1 DOKU HD (DE)
+http://185.107.71.33:8000/live?channelId=2836&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,National Geographic HD (DE)
+http://185.107.71.33:8000/live?channelId=2837&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Spiegel_Geschichte
+http://185.107.71.33:8000/live?channelId=2838&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,TAGESSCHAU 24 (DE)
+http://185.107.71.33:8000/live?channelId=2839&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+#EXTINF:0,Arte HD (DE)
+http://185.107.71.33:8000/live?channelId=2846&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+#EXTINF:0,PARTIZAN TVPARTIZAN TV
+http://185.107.71.33:8000/live?channelId=3991&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+#EXTINF:0,SRF 1 HD (DE)
+http://185.107.71.33:8000/live?channelId=4081&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,SRF 2 HD (DE)
+http://185.107.71.33:8000/live?channelId=4082&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+
+
+#EXTINF:0,Swiss: SRF 1 HD
+http://185.107.71.33:8000/live?channelId=6075&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: SRF 2 HD
+http://185.107.71.33:8000/live?channelId=6076&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: TV 25 HD
+http://185.107.71.33:8000/live?channelId=6077&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: SRF Info FHD
+http://185.107.71.33:8000/live?channelId=6078&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: 4  HD
+http://185.107.71.33:8000/live?channelId=6079&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: 3  HD
+http://185.107.71.33:8000/live?channelId=6080&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: Teleclub Zoom HD
+http://185.107.71.33:8000/live?channelId=6081&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: Teleclub Cinema FHD
+http://185.107.71.33:8000/live?channelId=6082&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: Teleclub Action FHD
+http://185.107.71.33:8000/live?channelId=6083&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: RTS Un HD
+http://185.107.71.33:8000/live?channelId=6084&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: RTS Deux HD
+http://185.107.71.33:8000/live?channelId=6085&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: RSI LA 2 HD
+http://185.107.71.33:8000/live?channelId=6086&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: RSI LA 1 HD
+http://185.107.71.33:8000/live?channelId=6087&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: TeleBärn
+http://185.107.71.33:8000/live?channelId=6088&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: W9 Suisse HD
+http://185.107.71.33:8000/live?channelId=6089&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: Comedy Central
+http://185.107.71.33:8000/live?channelId=6090&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: TeleBielingue
+http://185.107.71.33:8000/live?channelId=6091&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: Tele Ostschweiz
+http://185.107.71.33:8000/live?channelId=6092&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: Rouge TV
+http://185.107.71.33:8000/live?channelId=6093&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: TeleTicino
+http://185.107.71.33:8000/live?channelId=6094&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: MTV Schweiz HD
+http://185.107.71.33:8000/live?channelId=6095&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: Tele S
+http://185.107.71.33:8000/live?channelId=6096&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: Tele 1
+http://185.107.71.33:8000/live?channelId=6097&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: Telebasel
+http://185.107.71.33:8000/live?channelId=6098&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: S1TV HD
+http://185.107.71.33:8000/live?channelId=6099&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: Tele M1
+http://185.107.71.33:8000/live?channelId=6100&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: lemanbleu
+http://185.107.71.33:8000/live?channelId=6101&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: TVM3
+http://185.107.71.33:8000/live?channelId=6102&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: M6 Suisse HD
+http://185.107.71.33:8000/live?channelId=6103&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: Kanal 9
+http://185.107.71.33:8000/live?channelId=6104&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: VIVA Schweiz HD
+http://185.107.71.33:8000/live?channelId=6105&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: Tele Z
+http://185.107.71.33:8000/live?channelId=6106&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: 6+ HD
+http://185.107.71.33:8000/live?channelId=6107&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: SWISS 1 HD
+http://185.107.71.33:8000/live?channelId=6108&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss: Tele Top ZH
+http://185.107.71.33:8000/live?channelId=6109&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | 1 HD
+http://185.107.71.33:8000/live?channelId=6110&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | 3  HD
+http://185.107.71.33:8000/live?channelId=6111&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | 4  FHD
+http://185.107.71.33:8000/live?channelId=6112&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | 5  FHD
+http://185.107.71.33:8000/live?channelId=6113&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | 5  HD
+http://185.107.71.33:8000/live?channelId=6114&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | 6  FHD
+http://185.107.71.33:8000/live?channelId=6115&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | M6 Suisse HD
+http://185.107.71.33:8000/live?channelId=6116&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Kanal 9
+http://185.107.71.33:8000/live?channelId=6117&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | QS24 HD
+http://185.107.71.33:8000/live?channelId=6118&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Tele Ticino HD
+http://185.107.71.33:8000/live?channelId=6119&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Tele Z HD
+http://185.107.71.33:8000/live?channelId=6120&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | TVM 3
+http://185.107.71.33:8000/live?channelId=6121&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Teleclub Discovery Channel
+http://185.107.71.33:8000/live?channelId=6122&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Disney Channel
+http://185.107.71.33:8000/live?channelId=6123&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Nickelodeon
+http://185.107.71.33:8000/live?channelId=6124&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Comedy Central / VIVA
+http://185.107.71.33:8000/live?channelId=6125&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | MySports Preview HD
+http://185.107.71.33:8000/live?channelId=6126&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | MySports FHD
+http://185.107.71.33:8000/live?channelId=6127&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Puls 8 FHD
+http://185.107.71.33:8000/live?channelId=6128&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Red Bull TV
+http://185.107.71.33:8000/live?channelId=6129&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Puls 8 HD
+http://185.107.71.33:8000/live?channelId=6130&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | RSI LA 1 FHD
+http://185.107.71.33:8000/live?channelId=6131&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | RSI LA 2 FHD
+http://185.107.71.33:8000/live?channelId=6132&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | RTS Deux FHD
+http://185.107.71.33:8000/live?channelId=6133&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | RTS Un FHD
+http://185.107.71.33:8000/live?channelId=6134&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | S1 FHD
+http://185.107.71.33:8000/live?channelId=6135&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Schweiz 5 FHD
+http://185.107.71.33:8000/live?channelId=6136&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | TLC FHD
+http://185.107.71.33:8000/live?channelId=6137&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | TV24
+http://185.107.71.33:8000/live?channelId=6138&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | TV25
+http://185.107.71.33:8000/live?channelId=6139&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Wetter TV
+http://185.107.71.33:8000/live?channelId=6140&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | ORF 1 HD
+http://185.107.71.33:8000/live?channelId=6141&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | ORF 2 HD
+http://185.107.71.33:8000/live?channelId=6142&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Servus TV
+http://185.107.71.33:8000/live?channelId=6143&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | NDR HD
+http://185.107.71.33:8000/live?channelId=6144&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | SRF 1 FHD
+http://185.107.71.33:8000/live?channelId=6145&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | SRF 1 HD
+http://185.107.71.33:8000/live?channelId=6146&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | SRF 2 FHD
+http://185.107.71.33:8000/live?channelId=6147&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | SRF 2 HD
+http://185.107.71.33:8000/live?channelId=6148&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | SRF Info HD
+http://185.107.71.33:8000/live?channelId=6149&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Star TV FHD
+http://185.107.71.33:8000/live?channelId=6150&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | TC Action
+http://185.107.71.33:8000/live?channelId=6151&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | TC Action FHD
+http://185.107.71.33:8000/live?channelId=6152&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | TC Animal Planet HD
+http://185.107.71.33:8000/live?channelId=6153&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | TC Cinema FHD
+http://185.107.71.33:8000/live?channelId=6154&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | TC Emotion
+http://185.107.71.33:8000/live?channelId=6155&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | TC Emotion FHD
+http://185.107.71.33:8000/live?channelId=6156&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | TC Sport 1
+http://185.107.71.33:8000/live?channelId=6157&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | TC Sport 1 FHD
+http://185.107.71.33:8000/live?channelId=6158&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | TC Sport 2 FHD
+http://185.107.71.33:8000/live?channelId=6159&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | TC ZOOM
+http://185.107.71.33:8000/live?channelId=6160&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Tele Baern FHD
+http://185.107.71.33:8000/live?channelId=6161&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Tele M1 FHD
+http://185.107.71.33:8000/live?channelId=6162&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Tele Top FHD
+http://185.107.71.33:8000/live?channelId=6163&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Tele Z FHD
+http://185.107.71.33:8000/live?channelId=6164&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Tele1 FHD
+http://185.107.71.33:8000/live?channelId=6165&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Telebasel FHD
+http://185.107.71.33:8000/live?channelId=6166&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | TV24 FHD
+http://185.107.71.33:8000/live?channelId=6167&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | TV25 FHD
+http://185.107.71.33:8000/live?channelId=6168&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | 3  FHD
+http://185.107.71.33:8000/live?channelId=6169&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Comedy Central/Viva FHD
+http://185.107.71.33:8000/live?channelId=6170&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,Swiss | Disney Channel HD
+http://185.107.71.33:8000/live?channelId=6171&uid=4796&deviceMac=00:1A:79:54:D5:00
+
+#EXTINF:0,DE:: Das Erste HD
+http://185.107.58.203:8000/live?channelId=8009&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: ZDF HD
+http://185.107.58.203:8000/live?channelId=8010&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: ZDF info HD
+http://185.107.58.203:8000/live?channelId=8011&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: ZDF neo HD
+http://185.107.58.203:8000/live?channelId=8012&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Tagesschau 24
+http://185.107.58.203:8000/live?channelId=8013&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: ONE
+http://185.107.58.203:8000/live?channelId=8014&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sat 1 HD+
+http://185.107.58.203:8000/live?channelId=8015&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: SAT.1 HEVC
+http://185.107.58.203:8000/live?channelId=8016&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sat 1 HD
+http://185.107.58.203:8000/live?channelId=8017&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: SAT 1 Emotions
+http://185.107.58.203:8000/live?channelId=8018&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: SAT 1 Gold HD+
+http://185.107.58.203:8000/live?channelId=8019&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: SAT.1 Gold HEVC
+http://185.107.58.203:8000/live?channelId=8020&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: SAT 1 Gold HD
+http://185.107.58.203:8000/live?channelId=8021&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: RTL HD+
+http://185.107.58.203:8000/live?channelId=8022&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: RTL HEVC
+http://185.107.58.203:8000/live?channelId=8023&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: RTL HD
+http://185.107.58.203:8000/live?channelId=8024&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: RTL Crime
+http://185.107.58.203:8000/live?channelId=8025&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: RTL Living
+http://185.107.58.203:8000/live?channelId=8026&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: RTL Passion
+http://185.107.58.203:8000/live?channelId=8027&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: RTL PLUS 
+http://185.107.58.203:8000/live?channelId=8028&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Pro 7 HD+
+http://185.107.58.203:8000/live?channelId=8029&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: ProSieben HEVC
+http://185.107.58.203:8000/live?channelId=8030&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Pro 7 HD
+http://185.107.58.203:8000/live?channelId=8031&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Pro 7 Maxx HD+
+http://185.107.58.203:8000/live?channelId=8032&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Pro7 MAXX HEVC
+http://185.107.58.203:8000/live?channelId=8033&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Pro 7 Maxx HD
+http://185.107.58.203:8000/live?channelId=8034&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Pro 7 Fun HD+
+http://185.107.58.203:8000/live?channelId=8035&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Kabel 1 HD+
+http://185.107.58.203:8000/live?channelId=8036&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: kabel eins HEVC
+http://185.107.58.203:8000/live?channelId=8037&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Kabel 1 HD
+http://185.107.58.203:8000/live?channelId=8038&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Kabel 1 Classics
+http://185.107.58.203:8000/live?channelId=8039&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: RTL 2 HD+
+http://185.107.58.203:8000/live?channelId=8040&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: RTLII HEVC
+http://185.107.58.203:8000/live?channelId=8041&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: RTL 2 HD
+http://185.107.58.203:8000/live?channelId=8042&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: VOX HD+
+http://185.107.58.203:8000/live?channelId=8043&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: VOX HEVC
+http://185.107.58.203:8000/live?channelId=8044&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: VOX HD
+http://185.107.58.203:8000/live?channelId=8045&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: VOXup
+http://185.107.58.203:8000/live?channelId=8046&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: RTL NITRO HD+
+http://185.107.58.203:8000/live?channelId=8047&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: NITRO HEVC
+http://185.107.58.203:8000/live?channelId=8048&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: NITRO HD
+http://185.107.58.203:8000/live?channelId=8049&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: TLC HEVC
+http://185.107.58.203:8000/live?channelId=8050&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: TLC HD
+http://185.107.58.203:8000/live?channelId=8051&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sixx HD+
+http://185.107.58.203:8000/live?channelId=8052&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: SIXX HEVC
+http://185.107.58.203:8000/live?channelId=8053&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sixx HD
+http://185.107.58.203:8000/live?channelId=8054&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Comedy Central HD+
+http://185.107.58.203:8000/live?channelId=8055&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Comedy Central HEVC
+http://185.107.58.203:8000/live?channelId=8056&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: TELE 5 HD
+http://185.107.58.203:8000/live?channelId=8057&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: TELE 5 HEVC
+http://185.107.58.203:8000/live?channelId=8058&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Phoenix
+http://185.107.58.203:8000/live?channelId=8059&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: 3 sat HD
+http://185.107.58.203:8000/live?channelId=8060&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: arte HD
+http://185.107.58.203:8000/live?channelId=8061&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,--REGIONALEN-- 
+http://185.107.58.203:8000/live?channelId=8062&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: SWR BW HD
+http://185.107.58.203:8000/live?channelId=8063&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: WDR HD
+http://185.107.58.203:8000/live?channelId=8064&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Heimatkanal
+http://185.107.58.203:8000/live?channelId=8065&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: HR
+http://185.107.58.203:8000/live?channelId=8066&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: MDR
+http://185.107.58.203:8000/live?channelId=8067&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: NDR HD
+http://185.107.58.203:8000/live?channelId=8068&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: rbb HD
+http://185.107.58.203:8000/live?channelId=8069&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: BR
+http://185.107.58.203:8000/live?channelId=8070&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sonnenklar TV
+http://185.107.58.203:8000/live?channelId=8071&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Classica
+http://185.107.58.203:8000/live?channelId=8072&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,-- SKYCINEMA-- 
+http://185.107.58.203:8000/live?channelId=8073&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema Premieren  HD+
+http://185.107.58.203:8000/live?channelId=8074&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema Premieren HEVC
+http://185.107.58.203:8000/live?channelId=8075&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema premieren
+http://185.107.58.203:8000/live?channelId=8076&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema  Premieren 24 HD+
+http://185.107.58.203:8000/live?channelId=8077&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema Premieren +24 HEVC
+http://185.107.58.203:8000/live?channelId=8078&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema  Premieren  24 HD
+http://185.107.58.203:8000/live?channelId=8079&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema Best Of HD+
+http://185.107.58.203:8000/live?channelId=8080&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema Best Of HEVC
+http://185.107.58.203:8000/live?channelId=8081&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema  Thriller  HD+
+http://185.107.58.203:8000/live?channelId=8082&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema Thriller HEVC
+http://185.107.58.203:8000/live?channelId=8083&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema  Thriller  HD
+http://185.107.58.203:8000/live?channelId=8084&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema Action HD+
+http://185.107.58.203:8000/live?channelId=8085&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema Action HEVC
+http://185.107.58.203:8000/live?channelId=8086&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema Action HD
+http://185.107.58.203:8000/live?channelId=8087&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema Action
+http://185.107.58.203:8000/live?channelId=8088&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema Family HD+
+http://185.107.58.203:8000/live?channelId=8089&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema Family HEVC
+http://185.107.58.203:8000/live?channelId=8090&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema Family HD
+http://185.107.58.203:8000/live?channelId=8091&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema Family
+http://185.107.58.203:8000/live?channelId=8092&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema Fun
+http://185.107.58.203:8000/live?channelId=8093&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema Classics
+http://185.107.58.203:8000/live?channelId=8094&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema Emotion / Serien Shows  HD
+http://185.107.58.203:8000/live?channelId=8095&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema Special HD+
+http://185.107.58.203:8000/live?channelId=8096&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Cinema Special HEVC 
+http://185.107.58.203:8000/live?channelId=8097&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,--UNTERHALTUNG-- 
+http://185.107.58.203:8000/live?channelId=8098&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky one HD+
+http://185.107.58.203:8000/live?channelId=8099&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky one HD
+http://185.107.58.203:8000/live?channelId=8100&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Serien & Shows HEVC
+http://185.107.58.203:8000/live?channelId=8101&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Atlantic HD+
+http://185.107.58.203:8000/live?channelId=8102&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Atlantic HD
+http://185.107.58.203:8000/live?channelId=8103&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Krimi HD+
+http://185.107.58.203:8000/live?channelId=8104&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Krimi HD
+http://185.107.58.203:8000/live?channelId=8105&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Fox HD+
+http://185.107.58.203:8000/live?channelId=8106&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Fox HD
+http://185.107.58.203:8000/live?channelId=8107&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: TNT Film HD+
+http://185.107.58.203:8000/live?channelId=8108&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: TNT Film HD
+http://185.107.58.203:8000/live?channelId=8109&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: TNT Serie HD+
+http://185.107.58.203:8000/live?channelId=8110&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: TNT Serie HD
+http://185.107.58.203:8000/live?channelId=8111&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: TNT Comedy HD+
+http://185.107.58.203:8000/live?channelId=8112&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: TNT Comedy HD
+http://185.107.58.203:8000/live?channelId=8113&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: 13th Street HD+
+http://185.107.58.203:8000/live?channelId=8114&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: 13th Street HD
+http://185.107.58.203:8000/live?channelId=8115&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Universal TV HD+
+http://185.107.58.203:8000/live?channelId=8116&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Universal TV HD
+http://185.107.58.203:8000/live?channelId=8117&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: SYFY HD+
+http://185.107.58.203:8000/live?channelId=8118&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: SYFY HD
+http://185.107.58.203:8000/live?channelId=8119&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: E! Entertainm. HEVC
+http://185.107.58.203:8000/live?channelId=8120&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: E Entertainment HD
+http://185.107.58.203:8000/live?channelId=8121&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: SILVERLINE HD 
+http://185.107.58.203:8000/live?channelId=8122&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Romance TV
+http://185.107.58.203:8000/live?channelId=8123&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,--DOKUKULTUR-- 
+http://185.107.58.203:8000/live?channelId=8124&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Waidwerk HD+
+http://185.107.58.203:8000/live?channelId=8125&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: HGTV
+http://185.107.58.203:8000/live?channelId=8126&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Dmax HD+
+http://185.107.58.203:8000/live?channelId=8127&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: DMAX HEVC
+http://185.107.58.203:8000/live?channelId=8128&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Dmax HD
+http://185.107.58.203:8000/live?channelId=8129&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: DMAX Austria
+http://185.107.58.203:8000/live?channelId=8130&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: N24 DOKU Austria
+http://185.107.58.203:8000/live?channelId=8131&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Nat Geo HD+
+http://185.107.58.203:8000/live?channelId=8132&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: NatGeo HEVC
+http://185.107.58.203:8000/live?channelId=8133&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Nat Geo HD
+http://185.107.58.203:8000/live?channelId=8134&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Nat Geo Wild HD+
+http://185.107.58.203:8000/live?channelId=8135&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Nat Geo Wild HEVC
+http://185.107.58.203:8000/live?channelId=8136&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Nat Geo Wild HD
+http://185.107.58.203:8000/live?channelId=8137&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Discovery HD+
+http://185.107.58.203:8000/live?channelId=8138&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Discovery HEVC
+http://185.107.58.203:8000/live?channelId=8139&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Discovery HD
+http://185.107.58.203:8000/live?channelId=8140&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: History HD+
+http://185.107.58.203:8000/live?channelId=8141&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: History HEVC
+http://185.107.58.203:8000/live?channelId=8142&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: History HD
+http://185.107.58.203:8000/live?channelId=8143&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: WELT HEVC
+http://185.107.58.203:8000/live?channelId=8144&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Welt HD
+http://185.107.58.203:8000/live?channelId=8145&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: N-tv HD
+http://185.107.58.203:8000/live?channelId=8146&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: n-tv HEVC
+http://185.107.58.203:8000/live?channelId=8147&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Kabel Eins Doku HD+
+http://185.107.58.203:8000/live?channelId=8148&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Kabel Eins Doku HEVC
+http://185.107.58.203:8000/live?channelId=8149&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: kabel 1 Doku Austria
+http://185.107.58.203:8000/live?channelId=8150&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: N24 DOKU
+http://185.107.58.203:8000/live?channelId=8151&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Welt der Wunder
+http://185.107.58.203:8000/live?channelId=8152&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Spiegel Geschichte HD
+http://185.107.58.203:8000/live?channelId=8153&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Spiegel Geschichte HEVC
+http://185.107.58.203:8000/live?channelId=8154&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Spiegel TV Wissen
+http://185.107.58.203:8000/live?channelId=8155&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Animal Planet
+http://185.107.58.203:8000/live?channelId=8156&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: ANIXE
+http://185.107.58.203:8000/live?channelId=8157&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Crime Investigation
+http://185.107.58.203:8000/live?channelId=8158&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Genius family
+http://185.107.58.203:8000/live?channelId=8159&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,--Kids--
+http://185.107.58.203:8000/live?channelId=8160&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Boomerang
+http://185.107.58.203:8000/live?channelId=8161&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Cartoon Network
+http://185.107.58.203:8000/live?channelId=8162&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Disney Channel HD 
+http://185.107.58.203:8000/live?channelId=8163&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Disney Channel HEVC
+http://185.107.58.203:8000/live?channelId=8164&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Fix & Foxi
+http://185.107.58.203:8000/live?channelId=8165&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Disney XD
+http://185.107.58.203:8000/live?channelId=8166&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Junior
+http://185.107.58.203:8000/live?channelId=8167&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Nick Jr.
+http://185.107.58.203:8000/live?channelId=8168&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: KiKa HD
+http://185.107.58.203:8000/live?channelId=8169&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: KiKA HEVC
+http://185.107.58.203:8000/live?channelId=8170&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: NICK/MTV
+http://185.107.58.203:8000/live?channelId=8171&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: NICKELODEON AT
+http://185.107.58.203:8000/live?channelId=8172&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: TOGGO plus
+http://185.107.58.203:8000/live?channelId=8173&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Nicktoons
+http://185.107.58.203:8000/live?channelId=8174&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Super RTL HD
+http://185.107.58.203:8000/live?channelId=8175&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: SUPER RTL HEVC
+http://185.107.58.203:8000/live?channelId=8176&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: SUPER RTL HD
+http://185.107.58.203:8000/live?channelId=8177&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,#### GERMANY SELECT ####
+http://185.107.58.203:8000/live?channelId=8178&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Select Programmübersicht
+http://185.107.58.203:8000/live?channelId=8179&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Select 1 HD
+http://185.107.58.203:8000/live?channelId=8180&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Select 2 HD
+http://185.107.58.203:8000/live?channelId=8181&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Select 3 HD
+http://185.107.58.203:8000/live?channelId=8182&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Select 4 HD
+http://185.107.58.203:8000/live?channelId=8183&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Select 5 HD
+http://185.107.58.203:8000/live?channelId=8184&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Select 6 HD
+http://185.107.58.203:8000/live?channelId=8185&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Select 7 HD
+http://185.107.58.203:8000/live?channelId=8186&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Select 8 HD
+http://185.107.58.203:8000/live?channelId=8187&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Select 9 HD
+http://185.107.58.203:8000/live?channelId=8188&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Sky Select 10 HD
+http://185.107.58.203:8000/live?channelId=8189&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,--MAXSELECT--
+http://185.107.58.203:8000/live?channelId=8190&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: MAX KINO COLLECTION
+http://185.107.58.203:8000/live?channelId=8191&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: MAX SELECT 1 HD
+http://185.107.58.203:8000/live?channelId=8192&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: MAX SELECT 2 HD
+http://185.107.58.203:8000/live?channelId=8193&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: MAX SELECT 3 HD
+http://185.107.58.203:8000/live?channelId=8194&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: MAX SELECT 4 HD
+http://185.107.58.203:8000/live?channelId=8195&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: MAX SELECT HD 5
+http://185.107.58.203:8000/live?channelId=8196&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: MAX SELECT 6 HD
+http://185.107.58.203:8000/live?channelId=8197&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Max Select 2 4K
+http://185.107.58.203:8000/live?channelId=8198&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Max Select 3 4K
+http://185.107.58.203:8000/live?channelId=8199&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Max Select 4 4K
+http://185.107.58.203:8000/live?channelId=8200&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Max Select 5 4K
+http://185.107.58.203:8000/live?channelId=8201&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,--HYPERCINEMA-- 
+http://185.107.58.203:8000/live?channelId=8202&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: HyperCinema INFO
+http://185.107.58.203:8000/live?channelId=8203&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: HyperCinema 1
+http://185.107.58.203:8000/live?channelId=8204&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: HyperCinema 2
+http://185.107.58.203:8000/live?channelId=8205&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: HyperCinema 3
+http://185.107.58.203:8000/live?channelId=8206&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: HyperCinema 4
+http://185.107.58.203:8000/live?channelId=8207&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: HyperCinema 5
+http://185.107.58.203:8000/live?channelId=8208&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: HyperCinema 6
+http://185.107.58.203:8000/live?channelId=8209&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: HyperCinema 7
+http://185.107.58.203:8000/live?channelId=8210&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: HyperCinema 8
+http://185.107.58.203:8000/live?channelId=8211&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: HyperCinema 9
+http://185.107.58.203:8000/live?channelId=8212&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: HyperCinema 10
+http://185.107.58.203:8000/live?channelId=8213&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: HyperCinema Boxset
+http://185.107.58.203:8000/live?channelId=8214&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,--Musik--
+http://185.107.58.203:8000/live?channelId=8215&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Schlager Deluxe
+http://185.107.58.203:8000/live?channelId=8216&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Deluxe Music
+http://185.107.58.203:8000/live?channelId=8217&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Deluxe Music HD
+http://185.107.58.203:8000/live?channelId=8218&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: Deluxe Music HEVC
+http://185.107.58.203:8000/live?channelId=8219&uid=4796&deviceMac=00:1A:79:54:D5:00
+#EXTINF:0,DE:: MTV 
+http://185.107.58.203:8000/live?channelId=8220&uid=4796&deviceMac=00:1A:79:54:D5:00
+
