@@ -1,1117 +1,3125 @@
 #EXTM3U
-#EXTINF:0,RTS 1 
-http://185.107.58.203:8000/live?channelId=259&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,RTS 1 L2 (RS)
-http://185.107.58.203:8000/live?channelId=260&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,RTS 2 (RS) FHD 
-http://185.107.58.203:8000/live?channelId=261&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,RTS 1
-http://185.107.58.203:8000/live?channelId=8511&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,RTS 2 
-http://185.107.58.203:8000/live?channelId=8512&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,RTS 2 HD (L2)
-http://185.107.58.203:8000/live?channelId=444&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,B92
-http://185.107.71.33:8000/live?channelId=286&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,PINK VESTI
-http://185.107.58.203:8000/live?channelId=8497&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,INSAJDER (RS) 
-http://185.107.58.203:8000/live?channelId=299&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,PINK RED
-http://185.107.58.203:8000/live?channelId=305&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,PINK Vesti 
-http://185.107.58.203:8000/live?channelId=306&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Kurir TV
-http://185.107.71.33:8000/live?channelId=5774&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Balkan TV 1 HD 
-http://185.107.71.33:8000/live?channelId=5779&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Balkan TV HD 2
-http://185.107.71.33:8000/live?channelId=5780&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,TSD TV 
-http://185.107.58.203:8000/live?channelId=8509&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,TANJUG 
-http://185.107.58.203:8000/live?channelId=8510&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,PRVA TV (RS)
-http://185.107.58.203:8000/live?channelId=270&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,PINK 
-http://185.107.58.203:8000/live?channelId=304&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,HAPPY 
-http://185.107.71.33:8000/live?channelId=287&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,PAROVI LIVE
-http://185.107.71.33:8000/live?channelId=1541&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ZADRUGA 24 H  
-http://185.107.71.33:8000/live?channelId=297&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ZADRUGA 1 
-http://185.107.58.203:8000/live?channelId=1539&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ZADRUGA 2 
-http://185.107.58.203:8000/live?channelId=1540&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ZADRUGA 3 
-http://185.107.71.33:8000/live?channelId=2306&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ZADRUGA 4  
-http://185.107.71.33:8000/live?channelId=2307&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,GRAND TV 
-http://185.107.58.203:8000/live?channelId=2311&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,GRAND 2
-http://185.107.58.203:8000/live?channelId=2312&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-#EXTINF:0,SPORT KLUB HD HR LOCAL
-http://185.107.58.203:8000/live?channelId=338&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SPORT KLUB 1 HD (HR)
-http://185.107.71.33:8000/live?channelId=339&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SPORT KLUB 2 HD (MULTIAUDIO HR / RS) 
-http://185.107.58.203:8000/live?channelId=340&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SPORT KLUB 3 HD (MULTIAUDIO HR/RS/SLO)
-http://185.107.58.203:8000/live?channelId=341&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SPORT KLUB 4 HD (MULTIAUDIO HR/RR)
-http://185.107.58.203:8000/live?channelId=342&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SPORT KLUB 5 HD (MULTIAUDIO HR/RS)
-http://185.107.58.203:8000/live?channelId=343&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SPORT KLUB 1 HD (RS)
-http://185.107.58.203:8000/live?channelId=344&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SPORT KLUB 2 HD (RS)
-http://185.107.58.203:8000/live?channelId=345&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SPORT KLUB 3 HD (RS)
-http://185.107.71.33:8000/live?channelId=346&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SPORT KLUB 4 HD (RS)
-http://185.107.58.203:8000/live?channelId=347&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SPORT KLUB 6 (MULTIAUDIO HR/RS) 
-http://185.107.58.203:8000/live?channelId=348&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SPORT KLUB 7 (RS)
-http://185.107.58.203:8000/live?channelId=349&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SPORT KLUB 8 (RS)
-http://185.107.58.203:8000/live?channelId=350&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SPORT KLUB 9 (RS)
-http://185.107.58.203:8000/live?channelId=351&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SPORT KLUB 10 (RS)
-http://185.107.58.203:8000/live?channelId=352&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,PREMIER LIGA BIH 
-http://185.107.71.33:8000/live?channelId=404&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,EUROSPORT 1 (RS)
-http://185.107.71.33:8000/live?channelId=405&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,EUROSPORT 2 (RS)
-http://185.107.71.33:8000/live?channelId=406&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,BACKUPArena Sport 1 HR (L2)
-http://185.107.71.33:8000/live?channelId=8221&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,BACKUPArena Sport 2 HR (L2)
-http://185.107.71.33:8000/live?channelId=8222&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,BACKUPArena Sport 3 HR (L2)
-http://185.107.71.33:8000/live?channelId=8223&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,BACKUPArena Sport 4 HR (L2)
-http://185.107.71.33:8000/live?channelId=8224&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,BACKUPArena Sport 5 HR (L2)
-http://185.107.71.33:8000/live?channelId=8225&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,BACKUPArena Sport 6 HD HR
-http://185.107.71.33:8000/live?channelId=8226&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,BACKUPArena Sport 1 SR (L2)
-http://185.107.71.33:8000/live?channelId=8227&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,BACKUPArena Sport 2 SR (L2)
-http://185.107.71.33:8000/live?channelId=8228&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,BACKUPArena Sport 3 SR (L2)
-http://185.107.71.33:8000/live?channelId=8229&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,BACKUPArena Sport 4 SR (L2)
-http://185.107.71.33:8000/live?channelId=8230&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,BACKUPArena Sport 5 SR (L2)
-http://185.107.71.33:8000/live?channelId=8231&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Arena Sport 7 HD HR
-http://185.107.71.33:8000/live?channelId=8329&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Arena Sport 8 HD HR
-http://185.107.71.33:8000/live?channelId=8330&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Arena Sport 9 HD HR
-http://185.107.71.33:8000/live?channelId=8331&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Arena Sport 10 HD HR
-http://185.107.71.33:8000/live?channelId=8332&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Arena Sport BIH
-http://185.107.58.203:8000/live?channelId=8333&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-#EXTINF:0,Arena Sport 1 Premium
-http://185.107.58.203:8000/live?channelId=8396&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Arena Sport 2 Premium 
-http://185.107.58.203:8000/live?channelId=8397&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Arena Sport 3 Premium 
-http://185.107.58.203:8000/live?channelId=8398&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-#EXTINF:0,ARENA SPORT PREMIUM 1 (BACKUP)
-http://185.107.58.203:8000/live?channelId=8467&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ARENA SPORT PREMIUM 2 (BACKUP)
-http://185.107.58.203:8000/live?channelId=8468&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ARENA SPORT PREMIUM 3 (BACKUP)
-http://185.107.58.203:8000/live?channelId=8469&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-#EXTINF:0,ARENA SPORT 7 BACKUP
-http://185.107.58.203:8000/live?channelId=8498&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ARENA SPORT 8 BACKUP
-http://185.107.58.203:8000/live?channelId=8499&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ARENA SPORT 9 BACKUP
-http://185.107.58.203:8000/live?channelId=8500&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ARENA SPORT 10 BACKUP
-http://185.107.58.203:8000/live?channelId=8501&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ARENA SPORT 3 SLO
-http://185.107.58.203:8000/live?channelId=8514&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ARENA SPORT 4 SLO
-http://185.107.58.203:8000/live?channelId=8515&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ARENA SPORT 1 (HR)ARENA SPORT 1 (HR)
-http://185.107.71.33:8000/live?channelId=27&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ARENA SPORT 2 (HR)ARENA SPORT 2 (HR)
-http://185.107.58.203:8000/live?channelId=28&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ARENA SPORT 3 (HR)ARENA SPORT 3 (HR)
-http://185.107.58.203:8000/live?channelId=29&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ARENA SPORT 4 (HR)ARENA SPORT 4 (HR)
-http://185.107.58.203:8000/live?channelId=30&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ARENA SPORT 5 (HR)ARENA SPORT 5 (HR)
-http://185.107.58.203:8000/live?channelId=31&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ARENA SPORT 6 (HR)ARENA SPORT 6 (HR)
-http://185.107.58.203:8000/live?channelId=32&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-#EXTINF:0,====== GERMANY ======
-http://185.107.58.203:8000/live?channelId=89&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Sky Krimi (DE)Sky Krimi (DE)
-http://185.107.58.203:8000/live?channelId=193&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Sport Bundesliga 2 HD (During Games only)
-http://185.107.58.203:8000/live?channelId=213&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Sport Bundesliga 6 HD (During Games only)
-http://185.107.58.203:8000/live?channelId=221&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Sport Bundesliga 7 HD (During Games only)
-http://185.107.58.203:8000/live?channelId=223&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Universal TV FHD (DE)Universal TV FHD (DE)
-http://185.107.58.203:8000/live?channelId=232&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-#EXTINF:0,SOS KANAL (RS)
-http://185.107.71.33:8000/live?channelId=278&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-
-
-
-#EXTINF:0,DE: Sky Sport Bundesliga 1 HD
-http://185.107.58.203:8000/live?channelId=407&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Sport Bundesliga 3 HD (During Games only)
-http://185.107.71.33:8000/live?channelId=408&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Sport Bundesliga 4 HD (During Games only)
-http://185.107.71.33:8000/live?channelId=409&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Sport Bundesliga 5 HD (During Games only)
-http://185.107.71.33:8000/live?channelId=410&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DAZN SPORT 1 HD DE (DE)
-http://185.107.71.33:8000/live?channelId=411&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DAZN SPORT 2 HD DE (DE)
-http://185.107.71.33:8000/live?channelId=412&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SKY SPORT 1 (DE)
-http://185.107.71.33:8000/live?channelId=413&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SKY SPORT AUSTRIA 
-http://185.107.71.33:8000/live?channelId=414&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: SPORT1DE: SPORT1
-http://185.107.71.33:8000/live?channelId=415&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-#EXTINF:0,SOS
-http://185.107.58.203:8000/live?channelId=417&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-
-#EXTINF:0,>>>>>DOKUMENTARNI<<<<<
-http://185.107.71.33:8000/live?channelId=613&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ANIMAL PLANET (HR)ANIMAL PLANET (HR)
-http://185.107.71.33:8000/live?channelId=614&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DOKU TV (HR)
-http://185.107.71.33:8000/live?channelId=615&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DOCU BOXDOCU BOX
-http://185.107.71.33:8000/live?channelId=616&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DISCOVERY SCIDISCOVERY SCI
-http://185.107.71.33:8000/live?channelId=617&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DISCOVERY ID (HR)
-http://185.107.71.33:8000/live?channelId=618&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DISCOVERY CHANNELDISCOVERY CHANNEL
-http://185.107.71.33:8000/live?channelId=620&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DAVINCI LEARING
-http://185.107.71.33:8000/live?channelId=621&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DISCOVERY SCI HD (HR)
-http://185.107.71.33:8000/live?channelId=624&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,FINE LIVING (HR)
-http://185.107.71.33:8000/live?channelId=625&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,VIASAT NATURE (HR)VIASAT NATURE (HR)
-http://185.107.71.33:8000/live?channelId=626&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,VIASAT HISTORY (HR)VIASAT HISTORY (HR)
-http://185.107.71.33:8000/live?channelId=627&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,VIASAT EXPLORE (HR)VIASAT EXPLORE (HR)
-http://185.107.71.33:8000/live?channelId=628&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,NGC WILD HD (HR)
-http://185.107.71.33:8000/live?channelId=629&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,NATIONAL GEOGRAPHIC (HR)NATIONAL GEOGRAPHIC (HR)
-http://185.107.71.33:8000/live?channelId=630&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,NATIONAL GEOGRAPHIC WILD (HR)
-http://185.107.71.33:8000/live?channelId=631&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,CBS REALITY 
-http://185.107.71.33:8000/live?channelId=633&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,CRIME & INVESTIGATION
-http://185.107.58.203:8000/live?channelId=634&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,TRAVEL 
-http://185.107.71.33:8000/live?channelId=635&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,TLC EUROPE 
-http://185.107.71.33:8000/live?channelId=636&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,BBC EARTH HDBBC EARTH HD
-http://185.107.71.33:8000/live?channelId=639&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,LOV I RIBOLOV (HR)
-http://185.107.71.33:8000/live?channelId=642&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-#EXTINF:0,SKY SPORT F1 HD (UK)
-http://185.107.58.203:8000/live?channelId=651&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DAZN 1 HD (ENG)
-http://185.107.71.33:8000/live?channelId=652&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-#EXTINF:0,RTL DE
-http://185.107.71.33:8000/live?channelId=659&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,RTL 2 DE
-http://185.107.71.33:8000/live?channelId=660&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SUPER RTL DE
-http://185.107.71.33:8000/live?channelId=661&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,VOX (DE)
-http://185.107.71.33:8000/live?channelId=662&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ORF 1 (DE)
-http://185.107.71.33:8000/live?channelId=663&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ORF 2 (DE)
-http://185.107.71.33:8000/live?channelId=664&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DAS ERSTE DE (DE)
-http://185.107.71.33:8000/live?channelId=665&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-#EXTINF:0,ZDF HD (DE)
-http://185.107.71.33:8000/live?channelId=679&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,PRO 7 (DE)
-http://185.107.71.33:8000/live?channelId=681&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SAT EINS (DE)
-http://185.107.71.33:8000/live?channelId=683&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,N 24 (DE)
-http://185.107.71.33:8000/live?channelId=684&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DMAX (DE)
-http://185.107.71.33:8000/live?channelId=685&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-#EXTINF:0,ARENA SPORT 1 HD RS)
-http://185.107.71.33:8000/live?channelId=692&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ARENA SPORT  2 HD (RS)
-http://185.107.71.33:8000/live?channelId=693&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ARENA SPORT  3 HD (RS)
-http://185.107.71.33:8000/live?channelId=694&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ARENA SPORT  4 HD (RS)
-http://185.107.58.203:8000/live?channelId=695&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ARENA SPORT 5 HD (RS)
-http://185.107.71.33:8000/live?channelId=696&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-#EXTINF:0,***** Suisse Channel *****
-http://185.107.58.203:8000/live?channelId=979&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,TAQUILLA 1 (ES)
-http://185.107.58.203:8000/live?channelId=1007&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,TAQUILLA 2 (ES)
-http://185.107.58.203:8000/live?channelId=1008&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,TAQUILLA 3 (ES)
-http://185.107.58.203:8000/live?channelId=1009&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,TAQUILLA 4 (ES)
-http://185.107.58.203:8000/live?channelId=1010&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,TAQUILLA 5 (ES)
-http://185.107.71.33:8000/live?channelId=1011&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,TAQUILLA 6 (ES)
-http://185.107.71.33:8000/live?channelId=1012&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: SPORTDIGITALDE: SPORTDIGITAL
-http://185.107.71.33:8000/live?channelId=1038&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Pruga TVPruga TV
-http://185.107.71.33:8000/live?channelId=1039&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,FR: Eurosport 1 HD
-http://185.107.71.33:8000/live?channelId=1040&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sport 1+ HD
-http://185.107.71.33:8000/live?channelId=1042&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Sport HD 1
-http://185.107.71.33:8000/live?channelId=1043&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Sport HD 2
-http://185.107.71.33:8000/live?channelId=1044&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Sport FHD 3 (only on match time)
-http://185.107.71.33:8000/live?channelId=1045&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Sport FHD 4 (only on match time)
-http://185.107.71.33:8000/live?channelId=1046&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Sport HD 5 (only on match time)
-http://185.107.71.33:8000/live?channelId=1047&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Sport HD 6 (only on match time)
-http://185.107.71.33:8000/live?channelId=1048&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Sport HD 7 (only on match time)
-http://185.107.71.33:8000/live?channelId=1049&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Sport HD 8 (only on match time)
-http://185.107.71.33:8000/live?channelId=1050&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Sport HD 9 (only on match time)
-http://185.107.71.33:8000/live?channelId=1051&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Sport HD 10 (only on match time)
-http://185.107.71.33:8000/live?channelId=1052&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Sport HD 11 (only on match time)
-http://185.107.71.33:8000/live?channelId=1053&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Bundesliga HD 8 (only on match time)
-http://185.107.71.33:8000/live?channelId=1055&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Bundesliga HD 9 (only on match time)
-http://185.107.71.33:8000/live?channelId=1056&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Bundesliga HD 10 (only on match time)
-http://185.107.71.33:8000/live?channelId=1057&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Sport 1 HD FHD
-http://185.107.71.33:8000/live?channelId=1058&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,De: Sky Sport 2 HD FHD
-http://185.107.71.33:8000/live?channelId=1059&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Sport 3 FHD (only on match time)
-http://185.107.71.33:8000/live?channelId=1060&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Sport 4 FHD (only on match time)
-http://185.107.71.33:8000/live?channelId=1061&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Sport 5 FHD (only on match time)
-http://185.107.71.33:8000/live?channelId=1062&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-#EXTINF:0,SPORT KLUB 2 HD (HR)
-http://185.107.71.33:8000/live?channelId=1120&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SPORT KLUB 3 HD (HR)
-http://185.107.71.33:8000/live?channelId=1121&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SPORT KLUB 4 HD (HR)
-http://185.107.71.33:8000/live?channelId=1122&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SPORT KLUB 5 HD (HR)
-http://185.107.71.33:8000/live?channelId=1123&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SPORT KLUB 1 HD (RS) LOCAL
-http://185.107.71.33:8000/live?channelId=1124&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-
-
-#EXTINF:0,DE: ZDF HD
-http://185.107.71.33:8000/live?channelId=2130&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Pro7 HD
-http://185.107.71.33:8000/live?channelId=2131&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sat.1 HD
-http://185.107.71.33:8000/live?channelId=2132&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sixx HD
-http://185.107.71.33:8000/live?channelId=2133&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: TLC HD
-http://185.107.71.33:8000/live?channelId=2134&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sat1 Gold HD
-http://185.107.71.33:8000/live?channelId=2135&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Super RTL HD
-http://185.107.71.33:8000/live?channelId=2136&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Nitro HD
-http://185.107.71.33:8000/live?channelId=2137&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: ProSieben Maxx HD
-http://185.107.71.33:8000/live?channelId=2138&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: One HD
-http://185.107.71.33:8000/live?channelId=2139&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: NTV HD
-http://185.107.71.33:8000/live?channelId=2140&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: WDR HD
-http://185.107.71.33:8000/live?channelId=2141&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: MDR HD
-http://185.107.71.33:8000/live?channelId=2142&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: HR Fernsehen
-http://185.107.71.33:8000/live?channelId=2143&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: SWR Fernsehen
-http://185.107.71.33:8000/live?channelId=2144&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: BR Fernsehen
-http://185.107.71.33:8000/live?channelId=2145&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Welt HD
-http://185.107.71.33:8000/live?channelId=2146&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Servus TV Deutschland HD
-http://185.107.71.33:8000/live?channelId=2147&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Comedy Central HD
-http://185.107.71.33:8000/live?channelId=2148&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Dmax HD
-http://185.107.71.33:8000/live?channelId=2149&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Motorvision HD
-http://185.107.71.33:8000/live?channelId=2150&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Disney Channel HD
-http://185.107.71.33:8000/live?channelId=2151&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Cinema Action HD
-http://185.107.71.33:8000/live?channelId=2152&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Hits HD
-http://185.107.71.33:8000/live?channelId=2153&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky 1 HD
-http://185.107.71.33:8000/live?channelId=2154&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: FOX HD
-http://185.107.71.33:8000/live?channelId=2155&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Spiegel TV Wissen HD
-http://185.107.71.33:8000/live?channelId=2156&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Nat Geo Wild HD
-http://185.107.71.33:8000/live?channelId=2157&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Atlantic HD
-http://185.107.71.33:8000/live?channelId=2158&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: TNT Serie HD
-http://185.107.71.33:8000/live?channelId=2159&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Kinowelt TV HD
-http://185.107.71.33:8000/live?channelId=2160&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Discovery HD
-http://185.107.71.33:8000/live?channelId=2161&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Animal Planet HD
-http://185.107.71.33:8000/live?channelId=2162&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Universal HD
-http://185.107.71.33:8000/live?channelId=2163&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: History HD
-http://185.107.71.33:8000/live?channelId=2164&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Nostalgie
-http://185.107.71.33:8000/live?channelId=2165&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Sky Cinema Emotion
-http://185.107.71.33:8000/live?channelId=2166&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Kabel Eins Classic HD
-http://185.107.71.33:8000/live?channelId=2167&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Pro7 Fun HD
-http://185.107.71.33:8000/live?channelId=2168&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Planet HD
-http://185.107.71.33:8000/live?channelId=2169&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: RTL Living HD
-http://185.107.71.33:8000/live?channelId=2170&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Romance TV HD
-http://185.107.71.33:8000/live?channelId=2171&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: A&E HD
-http://185.107.71.33:8000/live?channelId=2172&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: RTL Crime HD
-http://185.107.71.33:8000/live?channelId=2173&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: 13th Street HD
-http://185.107.71.33:8000/live?channelId=2174&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: Syfy HD
-http://185.107.71.33:8000/live?channelId=2175&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: AXN HD
-http://185.107.71.33:8000/live?channelId=2176&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE: TNT Film HD
-http://185.107.71.33:8000/live?channelId=2177&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-
-#EXTINF:0,ARD HD (DE)
-http://185.107.71.33:8000/live?channelId=2831&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ZDF INFO HD (DE)
-http://185.107.71.33:8000/live?channelId=2832&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,ZDF Neo HD (DE)
-http://185.107.71.33:8000/live?channelId=2833&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,3SAT (DE)
-http://185.107.71.33:8000/live?channelId=2834&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,RTL LUX (DE)
-http://185.107.71.33:8000/live?channelId=2835&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,KABEL 1 DOKU HD (DE)
-http://185.107.71.33:8000/live?channelId=2836&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,National Geographic HD (DE)
-http://185.107.71.33:8000/live?channelId=2837&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Spiegel_Geschichte
-http://185.107.71.33:8000/live?channelId=2838&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,TAGESSCHAU 24 (DE)
-http://185.107.71.33:8000/live?channelId=2839&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-#EXTINF:0,Arte HD (DE)
-http://185.107.71.33:8000/live?channelId=2846&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-#EXTINF:0,PARTIZAN TVPARTIZAN TV
-http://185.107.71.33:8000/live?channelId=3991&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-#EXTINF:0,SRF 1 HD (DE)
-http://185.107.71.33:8000/live?channelId=4081&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,SRF 2 HD (DE)
-http://185.107.71.33:8000/live?channelId=4082&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-
-
-#EXTINF:0,Swiss: SRF 1 HD
-http://185.107.71.33:8000/live?channelId=6075&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: SRF 2 HD
-http://185.107.71.33:8000/live?channelId=6076&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: TV 25 HD
-http://185.107.71.33:8000/live?channelId=6077&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: SRF Info FHD
-http://185.107.71.33:8000/live?channelId=6078&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: 4  HD
-http://185.107.71.33:8000/live?channelId=6079&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: 3  HD
-http://185.107.71.33:8000/live?channelId=6080&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: Teleclub Zoom HD
-http://185.107.71.33:8000/live?channelId=6081&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: Teleclub Cinema FHD
-http://185.107.71.33:8000/live?channelId=6082&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: Teleclub Action FHD
-http://185.107.71.33:8000/live?channelId=6083&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: RTS Un HD
-http://185.107.71.33:8000/live?channelId=6084&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: RTS Deux HD
-http://185.107.71.33:8000/live?channelId=6085&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: RSI LA 2 HD
-http://185.107.71.33:8000/live?channelId=6086&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: RSI LA 1 HD
-http://185.107.71.33:8000/live?channelId=6087&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: TeleBärn
-http://185.107.71.33:8000/live?channelId=6088&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: W9 Suisse HD
-http://185.107.71.33:8000/live?channelId=6089&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: Comedy Central
-http://185.107.71.33:8000/live?channelId=6090&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: TeleBielingue
-http://185.107.71.33:8000/live?channelId=6091&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: Tele Ostschweiz
-http://185.107.71.33:8000/live?channelId=6092&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: Rouge TV
-http://185.107.71.33:8000/live?channelId=6093&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: TeleTicino
-http://185.107.71.33:8000/live?channelId=6094&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: MTV Schweiz HD
-http://185.107.71.33:8000/live?channelId=6095&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: Tele S
-http://185.107.71.33:8000/live?channelId=6096&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: Tele 1
-http://185.107.71.33:8000/live?channelId=6097&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: Telebasel
-http://185.107.71.33:8000/live?channelId=6098&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: S1TV HD
-http://185.107.71.33:8000/live?channelId=6099&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: Tele M1
-http://185.107.71.33:8000/live?channelId=6100&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: lemanbleu
-http://185.107.71.33:8000/live?channelId=6101&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: TVM3
-http://185.107.71.33:8000/live?channelId=6102&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: M6 Suisse HD
-http://185.107.71.33:8000/live?channelId=6103&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: Kanal 9
-http://185.107.71.33:8000/live?channelId=6104&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: VIVA Schweiz HD
-http://185.107.71.33:8000/live?channelId=6105&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: Tele Z
-http://185.107.71.33:8000/live?channelId=6106&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: 6+ HD
-http://185.107.71.33:8000/live?channelId=6107&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: SWISS 1 HD
-http://185.107.71.33:8000/live?channelId=6108&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss: Tele Top ZH
-http://185.107.71.33:8000/live?channelId=6109&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | 1 HD
-http://185.107.71.33:8000/live?channelId=6110&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | 3  HD
-http://185.107.71.33:8000/live?channelId=6111&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | 4  FHD
-http://185.107.71.33:8000/live?channelId=6112&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | 5  FHD
-http://185.107.71.33:8000/live?channelId=6113&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | 5  HD
-http://185.107.71.33:8000/live?channelId=6114&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | 6  FHD
-http://185.107.71.33:8000/live?channelId=6115&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | M6 Suisse HD
-http://185.107.71.33:8000/live?channelId=6116&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Kanal 9
-http://185.107.71.33:8000/live?channelId=6117&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | QS24 HD
-http://185.107.71.33:8000/live?channelId=6118&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Tele Ticino HD
-http://185.107.71.33:8000/live?channelId=6119&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Tele Z HD
-http://185.107.71.33:8000/live?channelId=6120&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | TVM 3
-http://185.107.71.33:8000/live?channelId=6121&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Teleclub Discovery Channel
-http://185.107.71.33:8000/live?channelId=6122&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Disney Channel
-http://185.107.71.33:8000/live?channelId=6123&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Nickelodeon
-http://185.107.71.33:8000/live?channelId=6124&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Comedy Central / VIVA
-http://185.107.71.33:8000/live?channelId=6125&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | MySports Preview HD
-http://185.107.71.33:8000/live?channelId=6126&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | MySports FHD
-http://185.107.71.33:8000/live?channelId=6127&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Puls 8 FHD
-http://185.107.71.33:8000/live?channelId=6128&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Red Bull TV
-http://185.107.71.33:8000/live?channelId=6129&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Puls 8 HD
-http://185.107.71.33:8000/live?channelId=6130&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | RSI LA 1 FHD
-http://185.107.71.33:8000/live?channelId=6131&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | RSI LA 2 FHD
-http://185.107.71.33:8000/live?channelId=6132&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | RTS Deux FHD
-http://185.107.71.33:8000/live?channelId=6133&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | RTS Un FHD
-http://185.107.71.33:8000/live?channelId=6134&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | S1 FHD
-http://185.107.71.33:8000/live?channelId=6135&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Schweiz 5 FHD
-http://185.107.71.33:8000/live?channelId=6136&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | TLC FHD
-http://185.107.71.33:8000/live?channelId=6137&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | TV24
-http://185.107.71.33:8000/live?channelId=6138&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | TV25
-http://185.107.71.33:8000/live?channelId=6139&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Wetter TV
-http://185.107.71.33:8000/live?channelId=6140&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | ORF 1 HD
-http://185.107.71.33:8000/live?channelId=6141&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | ORF 2 HD
-http://185.107.71.33:8000/live?channelId=6142&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Servus TV
-http://185.107.71.33:8000/live?channelId=6143&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | NDR HD
-http://185.107.71.33:8000/live?channelId=6144&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | SRF 1 FHD
-http://185.107.71.33:8000/live?channelId=6145&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | SRF 1 HD
-http://185.107.71.33:8000/live?channelId=6146&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | SRF 2 FHD
-http://185.107.71.33:8000/live?channelId=6147&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | SRF 2 HD
-http://185.107.71.33:8000/live?channelId=6148&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | SRF Info HD
-http://185.107.71.33:8000/live?channelId=6149&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Star TV FHD
-http://185.107.71.33:8000/live?channelId=6150&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | TC Action
-http://185.107.71.33:8000/live?channelId=6151&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | TC Action FHD
-http://185.107.71.33:8000/live?channelId=6152&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | TC Animal Planet HD
-http://185.107.71.33:8000/live?channelId=6153&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | TC Cinema FHD
-http://185.107.71.33:8000/live?channelId=6154&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | TC Emotion
-http://185.107.71.33:8000/live?channelId=6155&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | TC Emotion FHD
-http://185.107.71.33:8000/live?channelId=6156&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | TC Sport 1
-http://185.107.71.33:8000/live?channelId=6157&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | TC Sport 1 FHD
-http://185.107.71.33:8000/live?channelId=6158&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | TC Sport 2 FHD
-http://185.107.71.33:8000/live?channelId=6159&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | TC ZOOM
-http://185.107.71.33:8000/live?channelId=6160&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Tele Baern FHD
-http://185.107.71.33:8000/live?channelId=6161&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Tele M1 FHD
-http://185.107.71.33:8000/live?channelId=6162&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Tele Top FHD
-http://185.107.71.33:8000/live?channelId=6163&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Tele Z FHD
-http://185.107.71.33:8000/live?channelId=6164&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Tele1 FHD
-http://185.107.71.33:8000/live?channelId=6165&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Telebasel FHD
-http://185.107.71.33:8000/live?channelId=6166&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | TV24 FHD
-http://185.107.71.33:8000/live?channelId=6167&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | TV25 FHD
-http://185.107.71.33:8000/live?channelId=6168&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | 3  FHD
-http://185.107.71.33:8000/live?channelId=6169&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Comedy Central/Viva FHD
-http://185.107.71.33:8000/live?channelId=6170&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,Swiss | Disney Channel HD
-http://185.107.71.33:8000/live?channelId=6171&uid=4796&deviceMac=00:1A:79:54:D5:00
-
-#EXTINF:0,DE:: Das Erste HD
-http://185.107.58.203:8000/live?channelId=8009&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: ZDF HD
-http://185.107.58.203:8000/live?channelId=8010&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: ZDF info HD
-http://185.107.58.203:8000/live?channelId=8011&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: ZDF neo HD
-http://185.107.58.203:8000/live?channelId=8012&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Tagesschau 24
-http://185.107.58.203:8000/live?channelId=8013&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: ONE
-http://185.107.58.203:8000/live?channelId=8014&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sat 1 HD+
-http://185.107.58.203:8000/live?channelId=8015&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: SAT.1 HEVC
-http://185.107.58.203:8000/live?channelId=8016&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sat 1 HD
-http://185.107.58.203:8000/live?channelId=8017&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: SAT 1 Emotions
-http://185.107.58.203:8000/live?channelId=8018&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: SAT 1 Gold HD+
-http://185.107.58.203:8000/live?channelId=8019&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: SAT.1 Gold HEVC
-http://185.107.58.203:8000/live?channelId=8020&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: SAT 1 Gold HD
-http://185.107.58.203:8000/live?channelId=8021&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: RTL HD+
-http://185.107.58.203:8000/live?channelId=8022&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: RTL HEVC
-http://185.107.58.203:8000/live?channelId=8023&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: RTL HD
-http://185.107.58.203:8000/live?channelId=8024&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: RTL Crime
-http://185.107.58.203:8000/live?channelId=8025&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: RTL Living
-http://185.107.58.203:8000/live?channelId=8026&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: RTL Passion
-http://185.107.58.203:8000/live?channelId=8027&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: RTL PLUS 
-http://185.107.58.203:8000/live?channelId=8028&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Pro 7 HD+
-http://185.107.58.203:8000/live?channelId=8029&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: ProSieben HEVC
-http://185.107.58.203:8000/live?channelId=8030&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Pro 7 HD
-http://185.107.58.203:8000/live?channelId=8031&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Pro 7 Maxx HD+
-http://185.107.58.203:8000/live?channelId=8032&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Pro7 MAXX HEVC
-http://185.107.58.203:8000/live?channelId=8033&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Pro 7 Maxx HD
-http://185.107.58.203:8000/live?channelId=8034&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Pro 7 Fun HD+
-http://185.107.58.203:8000/live?channelId=8035&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Kabel 1 HD+
-http://185.107.58.203:8000/live?channelId=8036&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: kabel eins HEVC
-http://185.107.58.203:8000/live?channelId=8037&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Kabel 1 HD
-http://185.107.58.203:8000/live?channelId=8038&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Kabel 1 Classics
-http://185.107.58.203:8000/live?channelId=8039&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: RTL 2 HD+
-http://185.107.58.203:8000/live?channelId=8040&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: RTLII HEVC
-http://185.107.58.203:8000/live?channelId=8041&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: RTL 2 HD
-http://185.107.58.203:8000/live?channelId=8042&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: VOX HD+
-http://185.107.58.203:8000/live?channelId=8043&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: VOX HEVC
-http://185.107.58.203:8000/live?channelId=8044&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: VOX HD
-http://185.107.58.203:8000/live?channelId=8045&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: VOXup
-http://185.107.58.203:8000/live?channelId=8046&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: RTL NITRO HD+
-http://185.107.58.203:8000/live?channelId=8047&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: NITRO HEVC
-http://185.107.58.203:8000/live?channelId=8048&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: NITRO HD
-http://185.107.58.203:8000/live?channelId=8049&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: TLC HEVC
-http://185.107.58.203:8000/live?channelId=8050&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: TLC HD
-http://185.107.58.203:8000/live?channelId=8051&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sixx HD+
-http://185.107.58.203:8000/live?channelId=8052&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: SIXX HEVC
-http://185.107.58.203:8000/live?channelId=8053&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sixx HD
-http://185.107.58.203:8000/live?channelId=8054&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Comedy Central HD+
-http://185.107.58.203:8000/live?channelId=8055&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Comedy Central HEVC
-http://185.107.58.203:8000/live?channelId=8056&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: TELE 5 HD
-http://185.107.58.203:8000/live?channelId=8057&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: TELE 5 HEVC
-http://185.107.58.203:8000/live?channelId=8058&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Phoenix
-http://185.107.58.203:8000/live?channelId=8059&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: 3 sat HD
-http://185.107.58.203:8000/live?channelId=8060&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: arte HD
-http://185.107.58.203:8000/live?channelId=8061&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,--REGIONALEN-- 
-http://185.107.58.203:8000/live?channelId=8062&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: SWR BW HD
-http://185.107.58.203:8000/live?channelId=8063&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: WDR HD
-http://185.107.58.203:8000/live?channelId=8064&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Heimatkanal
-http://185.107.58.203:8000/live?channelId=8065&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: HR
-http://185.107.58.203:8000/live?channelId=8066&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: MDR
-http://185.107.58.203:8000/live?channelId=8067&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: NDR HD
-http://185.107.58.203:8000/live?channelId=8068&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: rbb HD
-http://185.107.58.203:8000/live?channelId=8069&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: BR
-http://185.107.58.203:8000/live?channelId=8070&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sonnenklar TV
-http://185.107.58.203:8000/live?channelId=8071&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Classica
-http://185.107.58.203:8000/live?channelId=8072&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,-- SKYCINEMA-- 
-http://185.107.58.203:8000/live?channelId=8073&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema Premieren  HD+
-http://185.107.58.203:8000/live?channelId=8074&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema Premieren HEVC
-http://185.107.58.203:8000/live?channelId=8075&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema premieren
-http://185.107.58.203:8000/live?channelId=8076&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema  Premieren 24 HD+
-http://185.107.58.203:8000/live?channelId=8077&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema Premieren +24 HEVC
-http://185.107.58.203:8000/live?channelId=8078&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema  Premieren  24 HD
-http://185.107.58.203:8000/live?channelId=8079&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema Best Of HD+
-http://185.107.58.203:8000/live?channelId=8080&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema Best Of HEVC
-http://185.107.58.203:8000/live?channelId=8081&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema  Thriller  HD+
-http://185.107.58.203:8000/live?channelId=8082&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema Thriller HEVC
-http://185.107.58.203:8000/live?channelId=8083&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema  Thriller  HD
-http://185.107.58.203:8000/live?channelId=8084&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema Action HD+
-http://185.107.58.203:8000/live?channelId=8085&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema Action HEVC
-http://185.107.58.203:8000/live?channelId=8086&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema Action HD
-http://185.107.58.203:8000/live?channelId=8087&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema Action
-http://185.107.58.203:8000/live?channelId=8088&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema Family HD+
-http://185.107.58.203:8000/live?channelId=8089&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema Family HEVC
-http://185.107.58.203:8000/live?channelId=8090&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema Family HD
-http://185.107.58.203:8000/live?channelId=8091&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema Family
-http://185.107.58.203:8000/live?channelId=8092&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema Fun
-http://185.107.58.203:8000/live?channelId=8093&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema Classics
-http://185.107.58.203:8000/live?channelId=8094&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema Emotion / Serien Shows  HD
-http://185.107.58.203:8000/live?channelId=8095&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema Special HD+
-http://185.107.58.203:8000/live?channelId=8096&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Cinema Special HEVC 
-http://185.107.58.203:8000/live?channelId=8097&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,--UNTERHALTUNG-- 
-http://185.107.58.203:8000/live?channelId=8098&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky one HD+
-http://185.107.58.203:8000/live?channelId=8099&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky one HD
-http://185.107.58.203:8000/live?channelId=8100&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Serien & Shows HEVC
-http://185.107.58.203:8000/live?channelId=8101&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Atlantic HD+
-http://185.107.58.203:8000/live?channelId=8102&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Atlantic HD
-http://185.107.58.203:8000/live?channelId=8103&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Krimi HD+
-http://185.107.58.203:8000/live?channelId=8104&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Krimi HD
-http://185.107.58.203:8000/live?channelId=8105&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Fox HD+
-http://185.107.58.203:8000/live?channelId=8106&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Fox HD
-http://185.107.58.203:8000/live?channelId=8107&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: TNT Film HD+
-http://185.107.58.203:8000/live?channelId=8108&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: TNT Film HD
-http://185.107.58.203:8000/live?channelId=8109&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: TNT Serie HD+
-http://185.107.58.203:8000/live?channelId=8110&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: TNT Serie HD
-http://185.107.58.203:8000/live?channelId=8111&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: TNT Comedy HD+
-http://185.107.58.203:8000/live?channelId=8112&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: TNT Comedy HD
-http://185.107.58.203:8000/live?channelId=8113&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: 13th Street HD+
-http://185.107.58.203:8000/live?channelId=8114&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: 13th Street HD
-http://185.107.58.203:8000/live?channelId=8115&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Universal TV HD+
-http://185.107.58.203:8000/live?channelId=8116&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Universal TV HD
-http://185.107.58.203:8000/live?channelId=8117&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: SYFY HD+
-http://185.107.58.203:8000/live?channelId=8118&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: SYFY HD
-http://185.107.58.203:8000/live?channelId=8119&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: E! Entertainm. HEVC
-http://185.107.58.203:8000/live?channelId=8120&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: E Entertainment HD
-http://185.107.58.203:8000/live?channelId=8121&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: SILVERLINE HD 
-http://185.107.58.203:8000/live?channelId=8122&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Romance TV
-http://185.107.58.203:8000/live?channelId=8123&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,--DOKUKULTUR-- 
-http://185.107.58.203:8000/live?channelId=8124&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Waidwerk HD+
-http://185.107.58.203:8000/live?channelId=8125&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: HGTV
-http://185.107.58.203:8000/live?channelId=8126&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Dmax HD+
-http://185.107.58.203:8000/live?channelId=8127&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: DMAX HEVC
-http://185.107.58.203:8000/live?channelId=8128&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Dmax HD
-http://185.107.58.203:8000/live?channelId=8129&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: DMAX Austria
-http://185.107.58.203:8000/live?channelId=8130&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: N24 DOKU Austria
-http://185.107.58.203:8000/live?channelId=8131&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Nat Geo HD+
-http://185.107.58.203:8000/live?channelId=8132&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: NatGeo HEVC
-http://185.107.58.203:8000/live?channelId=8133&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Nat Geo HD
-http://185.107.58.203:8000/live?channelId=8134&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Nat Geo Wild HD+
-http://185.107.58.203:8000/live?channelId=8135&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Nat Geo Wild HEVC
-http://185.107.58.203:8000/live?channelId=8136&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Nat Geo Wild HD
-http://185.107.58.203:8000/live?channelId=8137&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Discovery HD+
-http://185.107.58.203:8000/live?channelId=8138&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Discovery HEVC
-http://185.107.58.203:8000/live?channelId=8139&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Discovery HD
-http://185.107.58.203:8000/live?channelId=8140&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: History HD+
-http://185.107.58.203:8000/live?channelId=8141&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: History HEVC
-http://185.107.58.203:8000/live?channelId=8142&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: History HD
-http://185.107.58.203:8000/live?channelId=8143&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: WELT HEVC
-http://185.107.58.203:8000/live?channelId=8144&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Welt HD
-http://185.107.58.203:8000/live?channelId=8145&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: N-tv HD
-http://185.107.58.203:8000/live?channelId=8146&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: n-tv HEVC
-http://185.107.58.203:8000/live?channelId=8147&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Kabel Eins Doku HD+
-http://185.107.58.203:8000/live?channelId=8148&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Kabel Eins Doku HEVC
-http://185.107.58.203:8000/live?channelId=8149&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: kabel 1 Doku Austria
-http://185.107.58.203:8000/live?channelId=8150&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: N24 DOKU
-http://185.107.58.203:8000/live?channelId=8151&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Welt der Wunder
-http://185.107.58.203:8000/live?channelId=8152&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Spiegel Geschichte HD
-http://185.107.58.203:8000/live?channelId=8153&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Spiegel Geschichte HEVC
-http://185.107.58.203:8000/live?channelId=8154&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Spiegel TV Wissen
-http://185.107.58.203:8000/live?channelId=8155&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Animal Planet
-http://185.107.58.203:8000/live?channelId=8156&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: ANIXE
-http://185.107.58.203:8000/live?channelId=8157&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Crime Investigation
-http://185.107.58.203:8000/live?channelId=8158&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Genius family
-http://185.107.58.203:8000/live?channelId=8159&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,--Kids--
-http://185.107.58.203:8000/live?channelId=8160&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Boomerang
-http://185.107.58.203:8000/live?channelId=8161&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Cartoon Network
-http://185.107.58.203:8000/live?channelId=8162&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Disney Channel HD 
-http://185.107.58.203:8000/live?channelId=8163&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Disney Channel HEVC
-http://185.107.58.203:8000/live?channelId=8164&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Fix & Foxi
-http://185.107.58.203:8000/live?channelId=8165&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Disney XD
-http://185.107.58.203:8000/live?channelId=8166&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Junior
-http://185.107.58.203:8000/live?channelId=8167&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Nick Jr.
-http://185.107.58.203:8000/live?channelId=8168&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: KiKa HD
-http://185.107.58.203:8000/live?channelId=8169&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: KiKA HEVC
-http://185.107.58.203:8000/live?channelId=8170&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: NICK/MTV
-http://185.107.58.203:8000/live?channelId=8171&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: NICKELODEON AT
-http://185.107.58.203:8000/live?channelId=8172&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: TOGGO plus
-http://185.107.58.203:8000/live?channelId=8173&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Nicktoons
-http://185.107.58.203:8000/live?channelId=8174&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Super RTL HD
-http://185.107.58.203:8000/live?channelId=8175&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: SUPER RTL HEVC
-http://185.107.58.203:8000/live?channelId=8176&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: SUPER RTL HD
-http://185.107.58.203:8000/live?channelId=8177&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,#### GERMANY SELECT ####
-http://185.107.58.203:8000/live?channelId=8178&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Select Programmübersicht
-http://185.107.58.203:8000/live?channelId=8179&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Select 1 HD
-http://185.107.58.203:8000/live?channelId=8180&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Select 2 HD
-http://185.107.58.203:8000/live?channelId=8181&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Select 3 HD
-http://185.107.58.203:8000/live?channelId=8182&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Select 4 HD
-http://185.107.58.203:8000/live?channelId=8183&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Select 5 HD
-http://185.107.58.203:8000/live?channelId=8184&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Select 6 HD
-http://185.107.58.203:8000/live?channelId=8185&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Select 7 HD
-http://185.107.58.203:8000/live?channelId=8186&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Select 8 HD
-http://185.107.58.203:8000/live?channelId=8187&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Select 9 HD
-http://185.107.58.203:8000/live?channelId=8188&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Sky Select 10 HD
-http://185.107.58.203:8000/live?channelId=8189&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,--MAXSELECT--
-http://185.107.58.203:8000/live?channelId=8190&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: MAX KINO COLLECTION
-http://185.107.58.203:8000/live?channelId=8191&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: MAX SELECT 1 HD
-http://185.107.58.203:8000/live?channelId=8192&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: MAX SELECT 2 HD
-http://185.107.58.203:8000/live?channelId=8193&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: MAX SELECT 3 HD
-http://185.107.58.203:8000/live?channelId=8194&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: MAX SELECT 4 HD
-http://185.107.58.203:8000/live?channelId=8195&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: MAX SELECT HD 5
-http://185.107.58.203:8000/live?channelId=8196&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: MAX SELECT 6 HD
-http://185.107.58.203:8000/live?channelId=8197&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Max Select 2 4K
-http://185.107.58.203:8000/live?channelId=8198&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Max Select 3 4K
-http://185.107.58.203:8000/live?channelId=8199&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Max Select 4 4K
-http://185.107.58.203:8000/live?channelId=8200&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Max Select 5 4K
-http://185.107.58.203:8000/live?channelId=8201&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,--HYPERCINEMA-- 
-http://185.107.58.203:8000/live?channelId=8202&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: HyperCinema INFO
-http://185.107.58.203:8000/live?channelId=8203&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: HyperCinema 1
-http://185.107.58.203:8000/live?channelId=8204&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: HyperCinema 2
-http://185.107.58.203:8000/live?channelId=8205&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: HyperCinema 3
-http://185.107.58.203:8000/live?channelId=8206&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: HyperCinema 4
-http://185.107.58.203:8000/live?channelId=8207&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: HyperCinema 5
-http://185.107.58.203:8000/live?channelId=8208&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: HyperCinema 6
-http://185.107.58.203:8000/live?channelId=8209&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: HyperCinema 7
-http://185.107.58.203:8000/live?channelId=8210&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: HyperCinema 8
-http://185.107.58.203:8000/live?channelId=8211&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: HyperCinema 9
-http://185.107.58.203:8000/live?channelId=8212&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: HyperCinema 10
-http://185.107.58.203:8000/live?channelId=8213&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: HyperCinema Boxset
-http://185.107.58.203:8000/live?channelId=8214&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,--Musik--
-http://185.107.58.203:8000/live?channelId=8215&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Schlager Deluxe
-http://185.107.58.203:8000/live?channelId=8216&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Deluxe Music
-http://185.107.58.203:8000/live?channelId=8217&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Deluxe Music HD
-http://185.107.58.203:8000/live?channelId=8218&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: Deluxe Music HEVC
-http://185.107.58.203:8000/live?channelId=8219&uid=4796&deviceMac=00:1A:79:54:D5:00
-#EXTINF:0,DE:: MTV 
-http://185.107.58.203:8000/live?channelId=8220&uid=4796&deviceMac=00:1A:79:54:D5:00
-
+#EXTINF:-1,=======  SERBIA  =======
+http://62.182.80.87:8081/Test22/Test22/638
+#EXTINF:-1,RTS 1 HD
+http://62.182.80.87:8081/Test22/Test22/645
+#EXTINF:-1,RTS 1 HD (B)
+http://62.182.80.87:8081/Test22/Test22/6622
+#EXTINF:-1,RTS 2 HD
+http://62.182.80.87:8081/Test22/Test22/647
+#EXTINF:-1,RTS 3 HD
+http://62.182.80.87:8081/Test22/Test22/648
+#EXTINF:-1,RTS DRAMA
+http://62.182.80.87:8081/Test22/Test22/649
+#EXTINF:-1,RTS TREZOR
+http://62.182.80.87:8081/Test22/Test22/652
+#EXTINF:-1,RTS ZIVOT
+http://62.182.80.87:8081/Test22/Test22/653
+#EXTINF:-1,NOVA S HD
+http://62.182.80.87:8081/Test22/Test22/668
+#EXTINF:-1,NOVA S
+http://62.182.80.87:8081/Test22/Test22/667
+#EXTINF:-1,O2 TV (B92)
+http://62.182.80.87:8081/Test22/Test22/670
+#EXTINF:-1,N1 HD
+http://62.182.80.87:8081/Test22/Test22/665
+#EXTINF:-1,PRVA TV HD
+http://62.182.80.87:8081/Test22/Test22/639
+#EXTINF:-1,Prva TV
+http://62.182.80.87:8081/Test22/Test22/6391
+#EXTINF:-1,PRVA PLUS
+http://62.182.80.87:8081/Test22/Test22/642
+#EXTINF:-1,PRVA WORLD
+http://62.182.80.87:8081/Test22/Test22/643
+#EXTINF:-1,PRVA MAX
+http://62.182.80.87:8081/Test22/Test22/641
+#EXTINF:-1,PRVA KICK
+http://62.182.80.87:8081/Test22/Test22/640
+#EXTINF:-1,Happy TV
+http://62.182.80.87:8081/Test22/Test22/658
+#EXTINF:-1,Happy TV (B)
+http://62.182.80.87:8081/Test22/Test22/22720
+#EXTINF:-1,K1 SR
+http://62.182.80.87:8081/Test22/Test22/8163
+#EXTINF:-1,KURIR TV HD
+http://62.182.80.87:8081/Test22/Test22/11540
+#EXTINF:-1,RTV VOJVODINA 1
+http://62.182.80.87:8081/Test22/Test22/654
+#EXTINF:-1,RTV VOJVODINA 2
+http://62.182.80.87:8081/Test22/Test22/655
+#EXTINF:-1,KCN
+http://62.182.80.87:8081/Test22/Test22/663
+#EXTINF:-1,Palma Plus
+http://62.182.80.87:8081/Test22/Test22/679
+#EXTINF:-1,ISTOK TV
+http://62.182.80.87:8081/Test22/Test22/660
+#EXTINF:-1,HRAM TV HD
+http://62.182.80.87:8081/Test22/Test22/659
+#EXTINF:-1,TV Leskovac
+http://62.182.80.87:8081/Test22/Test22/678
+#EXTINF:-1,NOVI PAZAR TV
+http://62.182.80.87:8081/Test22/Test22/669
+#EXTINF:-1,Sandzak TV
+http://62.182.80.87:8081/Test22/Test22/674
+#EXTINF:-1,PAROVI LIVE L1
+http://62.182.80.87:8081/Test22/Test22/671
+#EXTINF:-1,=======  PINKOVI  =======
+http://62.182.80.87:8081/Test22/Test22/680
+#EXTINF:-1,PINK Srbija
+http://62.182.80.87:8081/Test22/Test22/686
+#EXTINF:-1,Pink Srbija 1 (B)
+http://62.182.80.87:8081/Test22/Test22/6623
+#EXTINF:-1,PINK BH
+http://62.182.80.87:8081/Test22/Test22/692
+#EXTINF:-1,RED TV
+http://62.182.80.87:8081/Test22/Test22/687
+#EXTINF:-1,RED TV (sr)
+http://62.182.80.87:8081/Test22/Test22/11545
+#EXTINF:-1,PINK 3 Info
+http://62.182.80.87:8081/Test22/Test22/689
+#EXTINF:-1,PINK EXTRA
+http://62.182.80.87:8081/Test22/Test22/698
+#EXTINF:-1,PINK PLUS
+http://62.182.80.87:8081/Test22/Test22/715
+#EXTINF:-1,Pink Family
+http://62.182.80.87:8081/Test22/Test22/699
+#EXTINF:-1,Pink Film
+http://62.182.80.87:8081/Test22/Test22/701
+#EXTINF:-1,PINK PREMIUM
+http://62.182.80.87:8081/Test22/Test22/716
+#EXTINF:-1,PINK ACTION
+http://62.182.80.87:8081/Test22/Test22/691
+#EXTINF:-1,PINK Classic
+http://62.182.80.87:8081/Test22/Test22/694
+#EXTINF:-1,PINK COMEDY
+http://62.182.80.87:8081/Test22/Test22/696
+#EXTINF:-1,PINK ROMANCE
+http://62.182.80.87:8081/Test22/Test22/718
+#EXTINF:-1,Pink Crime & Mystery
+http://62.182.80.87:8081/Test22/Test22/697
+#EXTINF:-1,PINK SCI FI / FANTASY
+http://62.182.80.87:8081/Test22/Test22/719
+#EXTINF:-1,PINK HOROR
+http://62.182.80.87:8081/Test22/Test22/707
+#EXTINF:-1,Pink Thriller
+http://62.182.80.87:8081/Test22/Test22/724
+#EXTINF:-1,PINK WESTERN
+http://62.182.80.87:8081/Test22/Test22/725
+#EXTINF:-1,Pink Movies
+http://62.182.80.87:8081/Test22/Test22/711
+#EXTINF:-1,PINK SERIJE
+http://62.182.80.87:8081/Test22/Test22/720
+#EXTINF:-1,PINK FOLK 1
+http://62.182.80.87:8081/Test22/Test22/702
+#EXTINF:-1,PINK FOLK 2
+http://62.182.80.87:8081/Test22/Test22/703
+#EXTINF:-1,PINK HITS
+http://62.182.80.87:8081/Test22/Test22/706
+#EXTINF:-1,Pink Hits 2
+http://62.182.80.87:8081/Test22/Test22/705
+#EXTINF:-1,PINK MUSIC 1
+http://62.182.80.87:8081/Test22/Test22/712
+#EXTINF:-1,PINK ZABAVA
+http://62.182.80.87:8081/Test22/Test22/728
+#EXTINF:-1,PINK KONCERT
+http://62.182.80.87:8081/Test22/Test22/708
+#EXTINF:-1,PINK PEDIA
+http://62.182.80.87:8081/Test22/Test22/714
+#EXTINF:-1,PINK Style
+http://62.182.80.87:8081/Test22/Test22/723
+#EXTINF:-1,Pink Fashion
+http://62.182.80.87:8081/Test22/Test22/700
+#EXTINF:-1,PINK KUVAR
+http://62.182.80.87:8081/Test22/Test22/709
+#EXTINF:-1,PINK REALITY
+http://62.182.80.87:8081/Test22/Test22/717
+#EXTINF:-1,PINK SHOW
+http://62.182.80.87:8081/Test22/Test22/721
+#EXTINF:-1,PINK haha
+http://62.182.80.87:8081/Test22/Test22/704
+#EXTINF:-1,PINK LoL
+http://62.182.80.87:8081/Test22/Test22/710
+#EXTINF:-1,PINK M
+http://62.182.80.87:8081/Test22/Test22/690
+#EXTINF:-1,Pink Soap
+http://62.182.80.87:8081/Test22/Test22/722
+#EXTINF:-1,Pink World
+http://62.182.80.87:8081/Test22/Test22/726
+#EXTINF:-1,Pink World Cinema
+http://62.182.80.87:8081/Test22/Test22/727
+#EXTINF:-1,ZADRUGA LIVE
+http://62.182.80.87:8081/Test22/Test22/685
+#EXTINF:-1,Zadruga 1
+http://62.182.80.87:8081/Test22/Test22/681
+#EXTINF:-1,Zadruga 2
+http://62.182.80.87:8081/Test22/Test22/682
+#EXTINF:-1,Zadruga 3
+http://62.182.80.87:8081/Test22/Test22/683
+#EXTINF:-1,Zadruga 4
+http://62.182.80.87:8081/Test22/Test22/684
+#EXTINF:-1,====  CROATIA  ===
+http://62.182.80.87:8081/Test22/Test22/361
+#EXTINF:-1,HRT 1 (HR)
+http://62.182.80.87:8081/Test22/Test22/362
+#EXTINF:-1,HRT 1 HD (HR)
+http://62.182.80.87:8081/Test22/Test22/367
+#EXTINF:-1,HRT 2 (HR)
+http://62.182.80.87:8081/Test22/Test22/363
+#EXTINF:-1,HRT 2 HD (HR)
+http://62.182.80.87:8081/Test22/Test22/368
+#EXTINF:-1,HRT 3 (HR)
+http://62.182.80.87:8081/Test22/Test22/364
+#EXTINF:-1,HRT 3 HD (HR)
+http://62.182.80.87:8081/Test22/Test22/369
+#EXTINF:-1,HRT 4 (HR)
+http://62.182.80.87:8081/Test22/Test22/365
+#EXTINF:-1,HRT 4 HD (HR)
+http://62.182.80.87:8081/Test22/Test22/370
+#EXTINF:-1,HRT 5 Int (HR)
+http://62.182.80.87:8081/Test22/Test22/366
+#EXTINF:-1,NOVA TV (HR)
+http://62.182.80.87:8081/Test22/Test22/371
+#EXTINF:-1,NOVA TV HD (HR)
+http://62.182.80.87:8081/Test22/Test22/372
+#EXTINF:-1,Nova TV HD (HR) (B)
+http://62.182.80.87:8081/Test22/Test22/5001
+#EXTINF:-1,NOVA CINEMA (HR)
+http://62.182.80.87:8081/Test22/Test22/22717
+#EXTINF:-1,Nova CINEMA 1 (HR)
+http://62.182.80.87:8081/Test22/Test22/22711
+#EXTINF:-1,NOVA FAMILY (HR)
+http://62.182.80.87:8081/Test22/Test22/22716
+#EXTINF:-1,RTL Televizija HD (HR)
+http://62.182.80.87:8081/Test22/Test22/376
+#EXTINF:-1,RTL HD hr  (hevc)
+http://62.182.80.87:8081/Test22/Test22/11543
+#EXTINF:-1,RTL 2 HD (HR)
+http://62.182.80.87:8081/Test22/Test22/377
+#EXTINF:-1,RTL 2 HD (HR) (B)
+http://62.182.80.87:8081/Test22/Test22/5000
+#EXTINF:-1,RTL ADRIA HD (HR)
+http://62.182.80.87:8081/Test22/Test22/22710
+#EXTINF:-1,DOMA TV (HR)
+http://62.182.80.87:8081/Test22/Test22/374
+#EXTINF:-1,DOMA TV HD (HR)
+http://62.182.80.87:8081/Test22/Test22/375
+#EXTINF:-1,N1 TV (HR)
+http://62.182.80.87:8081/Test22/Test22/383
+#EXTINF:-1,Z1 (HR)
+http://62.182.80.87:8081/Test22/Test22/1095
+#EXTINF:-1,RTL CROATIA WORLD
+http://62.182.80.87:8081/Test22/Test22/11544
+#EXTINF:-1,Vinkovacka (HR)
+http://62.182.80.87:8081/Test22/Test22/7940
+#EXTINF:-1,POSAVINA TV (HR)
+http://62.182.80.87:8081/Test22/Test22/386
+#EXTINF:-1,OSJECKA TV (HR)
+http://62.182.80.87:8081/Test22/Test22/385
+#EXTINF:-1,BANOVINA TV (HR)
+http://62.182.80.87:8081/Test22/Test22/391
+#EXTINF:-1,TV DUBROVNIK (HR)
+http://62.182.80.87:8081/Test22/Test22/22718
+#EXTINF:-1,TV SIBENIK (HR)
+http://62.182.80.87:8081/Test22/Test22/22715
+#EXTINF:-1,Aurora TV HD (HR)
+http://62.182.80.87:8081/Test22/Test22/22712
+#EXTINF:-1,SABOR TV (HR)
+http://62.182.80.87:8081/Test22/Test22/392
+#EXTINF:-1,Slavonsko Brodska TV (HR)
+http://62.182.80.87:8081/Test22/Test22/373
+#EXTINF:-1,PODRINJE
+http://62.182.80.87:8081/Test22/Test22/11542
+#EXTINF:-1,Mreza TV Zagreb (HR)
+http://62.182.80.87:8081/Test22/Test22/390
+#EXTINF:-1,KANAL RI (HR)
+http://62.182.80.87:8081/Test22/Test22/388
+#EXTINF:-1,TREND TV (HR)
+http://62.182.80.87:8081/Test22/Test22/381
+#EXTINF:-1,=======  BIH  =======
+http://62.182.80.87:8081/Test22/Test22/575
+#EXTINF:-1,BHT1 (BiH)
+http://62.182.80.87:8081/Test22/Test22/577
+#EXTINF:-1,BHT HD (BiH)
+http://62.182.80.87:8081/Test22/Test22/576
+#EXTINF:-1,BHT HD /B/
+http://62.182.80.87:8081/Test22/Test22/6638
+#EXTINF:-1,FEDERALNA TV (BIH)
+http://62.182.80.87:8081/Test22/Test22/578
+#EXTINF:-1,FEDERALNA TV /B/
+http://62.182.80.87:8081/Test22/Test22/6637
+#EXTINF:-1,OBN (BiH)
+http://62.182.80.87:8081/Test22/Test22/581
+#EXTINF:-1,OBN /B/
+http://62.182.80.87:8081/Test22/Test22/6639
+#EXTINF:-1,TV Sarajevo (BiH)
+http://62.182.80.87:8081/Test22/Test22/616
+#EXTINF:-1,TV SARAJEVO HD /B/
+http://62.182.80.87:8081/Test22/Test22/6644
+#EXTINF:-1,RTRS (BIH)
+http://62.182.80.87:8081/Test22/Test22/582
+#EXTINF:-1,RTRS /B/
+http://62.182.80.87:8081/Test22/Test22/6659
+#EXTINF:-1,RTRS Plus (BiH)
+http://62.182.80.87:8081/Test22/Test22/583
+#EXTINF:-1,RTRS PLUS /B/
+http://62.182.80.87:8081/Test22/Test22/6660
+#EXTINF:-1,ATV Alternativna
+http://62.182.80.87:8081/Test22/Test22/2828
+#EXTINF:-1,ALTERNATIVNA TV /B/
+http://62.182.80.87:8081/Test22/Test22/6658
+#EXTINF:-1,BN Televizija (BIH)
+http://62.182.80.87:8081/Test22/Test22/580
+#EXTINF:-1,BN BIH HD /B/
+http://62.182.80.87:8081/Test22/Test22/6656
+#EXTINF:-1,BN 2 HD
+http://62.182.80.87:8081/Test22/Test22/6657
+#EXTINF:-1,NOVA BH (BiH)
+http://62.182.80.87:8081/Test22/Test22/606
+#EXTINF:-1,NOVABH HD /B/
+http://62.182.80.87:8081/Test22/Test22/6640
+#EXTINF:-1,OTV Valentino
+http://62.182.80.87:8081/Test22/Test22/7941
+#EXTINF:-1,FACE TV (BIH)
+http://62.182.80.87:8081/Test22/Test22/579
+#EXTINF:-1,FACE TV HD /B/
+http://62.182.80.87:8081/Test22/Test22/6643
+#EXTINF:-1,HAYAT TV (BIH)
+http://62.182.80.87:8081/Test22/Test22/586
+#EXTINF:-1,HAYAT HD /B/
+http://62.182.80.87:8081/Test22/Test22/6641
+#EXTINF:-1,HAYAT PLUS (BIH)
+http://62.182.80.87:8081/Test22/Test22/587
+#EXTINF:-1,HAYAT PLUS /B/
+http://62.182.80.87:8081/Test22/Test22/6642
+#EXTINF:-1,AL JAZEERA BALKAN (BIH)
+http://62.182.80.87:8081/Test22/Test22/599
+#EXTINF:-1,N1 (BIH)
+http://62.182.80.87:8081/Test22/Test22/584
+#EXTINF:-1,N1 BiH /B/
+http://62.182.80.87:8081/Test22/Test22/6667
+#EXTINF:-1,RTV HERCEG BOSNE (BIH)
+http://62.182.80.87:8081/Test22/Test22/585
+#EXTINF:-1,TV Kanal 6 (BiH)
+http://62.182.80.87:8081/Test22/Test22/614
+#EXTINF:-1,ALFA TV SARAJEVO (BIH)
+http://62.182.80.87:8081/Test22/Test22/600
+#EXTINF:-1,ALFA TV /B/
+http://62.182.80.87:8081/Test22/Test22/6653
+#EXTINF:-1,TV USK (BIH)
+http://62.182.80.87:8081/Test22/Test22/617
+#EXTINF:-1,IZVORNA TV (BIH)
+http://62.182.80.87:8081/Test22/Test22/597
+#EXTINF:-1,K3 TV (BiH)
+http://62.182.80.87:8081/Test22/Test22/601
+#EXTINF:-1,GLAS DRINE TV (BIH)
+http://62.182.80.87:8081/Test22/Test22/594
+#EXTINF:-1,CITY TV (BIH)
+http://62.182.80.87:8081/Test22/Test22/591
+#EXTINF:-1,RTV ZENICA (BIH)
+http://62.182.80.87:8081/Test22/Test22/611
+#EXTINF:-1,RTV TK TUZLA (BIH)
+http://62.182.80.87:8081/Test22/Test22/610
+#EXTINF:-1,HIT TV BRCKO (BIH)
+http://62.182.80.87:8081/Test22/Test22/596
+#EXTINF:-1,HEMA TV (BiH)
+http://62.182.80.87:8081/Test22/Test22/595
+#EXTINF:-1,RTV Slon (BiH)
+http://62.182.80.87:8081/Test22/Test22/609
+#EXTINF:-1,TV Sandzak (BiH)
+http://62.182.80.87:8081/Test22/Test22/603
+#EXTINF:-1,BIR Televizija HD (BIH)
+http://62.182.80.87:8081/Test22/Test22/598
+#EXTINF:-1,RTV Mir (BIH)
+http://62.182.80.87:8081/Test22/Test22/615
+#EXTINF:-1,MTV IGMAN TV (BiH)
+http://62.182.80.87:8081/Test22/Test22/605
+#EXTINF:-1,MEKA TV (BiH)
+http://62.182.80.87:8081/Test22/Test22/602
+#EXTINF:-1,TV 5 Islam (BIH)
+http://62.182.80.87:8081/Test22/Test22/613
+#EXTINF:-1,==== Crna Gora ====
+http://62.182.80.87:8081/Test22/Test22/1257
+#EXTINF:-1,TVCG1
+http://62.182.80.87:8081/Test22/Test22/1249
+#EXTINF:-1,TVCG2
+http://62.182.80.87:8081/Test22/Test22/1250
+#EXTINF:-1,RTCG SAT
+http://62.182.80.87:8081/Test22/Test22/1255
+#EXTINF:-1,Prva CG
+http://62.182.80.87:8081/Test22/Test22/1253
+#EXTINF:-1,Vijesti CG
+http://62.182.80.87:8081/Test22/Test22/1251
+#EXTINF:-1,Nova M
+http://62.182.80.87:8081/Test22/Test22/1252
+#EXTINF:-1,===== MAKEDONIJA =====
+http://62.182.80.87:8081/Test22/Test22/618
+#EXTINF:-1,MK: MRT 1
+http://62.182.80.87:8081/Test22/Test22/619
+#EXTINF:-1,MK: MRT 2
+http://62.182.80.87:8081/Test22/Test22/620
+#EXTINF:-1,MK: Sitel
+http://62.182.80.87:8081/Test22/Test22/622
+#EXTINF:-1,MK: Sitel HD
+http://62.182.80.87:8081/Test22/Test22/621
+#EXTINF:-1,MK: Kanal 5
+http://62.182.80.87:8081/Test22/Test22/624
+#EXTINF:-1,MK: Kanal 5 HD
+http://62.182.80.87:8081/Test22/Test22/623
+#EXTINF:-1,MK: Telma HD
+http://62.182.80.87:8081/Test22/Test22/626
+#EXTINF:-1,MK: Alfa TV
+http://62.182.80.87:8081/Test22/Test22/627
+#EXTINF:-1,MK: 24 VESTI
+http://62.182.80.87:8081/Test22/Test22/628
+#EXTINF:-1,MK: TV Sonce
+http://62.182.80.87:8081/Test22/Test22/637
+#EXTINF:-1,MK: TV+ Kumanovo
+http://62.182.80.87:8081/Test22/Test22/630
+#EXTINF:-1,MK: Alsat-M
+http://62.182.80.87:8081/Test22/Test22/629
+#EXTINF:-1,MK: Kanal 8 Kocani
+http://62.182.80.87:8081/Test22/Test22/636
+#EXTINF:-1,MK: Tera Bitola
+http://62.182.80.87:8081/Test22/Test22/635
+#EXTINF:-1,MK: Edo
+http://62.182.80.87:8081/Test22/Test22/625
+#EXTINF:-1,MK: FOX
+http://62.182.80.87:8081/Test22/Test22/632
+#EXTINF:-1,MK: Nasa TV
+http://62.182.80.87:8081/Test22/Test22/631
+#EXTINF:-1,MK: Shutel
+http://62.182.80.87:8081/Test22/Test22/634
+#EXTINF:-1,======= Slovenia =======
+http://62.182.80.87:8081/Test22/Test22/729
+#EXTINF:-1,SLO 1 HD (SL)
+http://62.182.80.87:8081/Test22/Test22/737
+#EXTINF:-1,SLO 2 HD (SL)
+http://62.182.80.87:8081/Test22/Test22/738
+#EXTINF:-1,SLO 3 HD (SL)
+http://62.182.80.87:8081/Test22/Test22/739
+#EXTINF:-1,Kanal A (SL)
+http://62.182.80.87:8081/Test22/Test22/758
+#EXTINF:-1,Koper TV (SL)
+http://62.182.80.87:8081/Test22/Test22/751
+#EXTINF:-1,NOVA 24 (SL)
+http://62.182.80.87:8081/Test22/Test22/730
+#EXTINF:-1,Nova 24 Sata (SL)
+http://62.182.80.87:8081/Test22/Test22/760
+#EXTINF:-1,POP BRIO HD (SL)
+http://62.182.80.87:8081/Test22/Test22/745
+#EXTINF:-1,POP KINO HD (SL)
+http://62.182.80.87:8081/Test22/Test22/744
+#EXTINF:-1,POP TV (HD) (SL)
+http://62.182.80.87:8081/Test22/Test22/743
+#EXTINF:-1,PLANET HD (SL)
+http://62.182.80.87:8081/Test22/Test22/746
+#EXTINF:-1,PLANET PLUS HD (SL)
+http://62.182.80.87:8081/Test22/Test22/747
+#EXTINF:-1,====  Germany  ===
+http://62.182.80.87:8081/Test22/Test22/765
+#EXTINF:-1,Das Erste HD
+http://62.182.80.87:8081/Test22/Test22/795
+#EXTINF:-1,DE: Das Erste FHD
+http://62.182.80.87:8081/Test22/Test22/11233
+#EXTINF:-1,ZDF HD
+http://62.182.80.87:8081/Test22/Test22/767
+#EXTINF:-1,DE: ZDF HD
+http://62.182.80.87:8081/Test22/Test22/11234
+#EXTINF:-1,Zdf Info HD
+http://62.182.80.87:8081/Test22/Test22/792
+#EXTINF:-1,DE: ZDF info
+http://62.182.80.87:8081/Test22/Test22/11284
+#EXTINF:-1,RTL HD
+http://62.182.80.87:8081/Test22/Test22/768
+#EXTINF:-1,RTL UHD
+http://62.182.80.87:8081/Test22/Test22/769
+#EXTINF:-1,DE: RTL HEVC
+http://62.182.80.87:8081/Test22/Test22/11242
+#EXTINF:-1,DE: RTL FHD
+http://62.182.80.87:8081/Test22/Test22/11243
+#EXTINF:-1,RTL 2 HD
+http://62.182.80.87:8081/Test22/Test22/771
+#EXTINF:-1,DE: RTL 2 FHD
+http://62.182.80.87:8081/Test22/Test22/11246
+#EXTINF:-1,Sat.1 HD
+http://62.182.80.87:8081/Test22/Test22/778
+#EXTINF:-1,DE: Sat.1 FHD
+http://62.182.80.87:8081/Test22/Test22/11236
+#EXTINF:-1,3 SAT
+http://62.182.80.87:8081/Test22/Test22/789
+#EXTINF:-1,Pro 7 HD
+http://62.182.80.87:8081/Test22/Test22/775
+#EXTINF:-1,DE: Prosieben FHD
+http://62.182.80.87:8081/Test22/Test22/11255
+#EXTINF:-1,Vox HD
+http://62.182.80.87:8081/Test22/Test22/779
+#EXTINF:-1,DE: VOX FHD
+http://62.182.80.87:8081/Test22/Test22/11266
+#EXTINF:-1,Kabel 1 HD
+http://62.182.80.87:8081/Test22/Test22/782
+#EXTINF:-1,DE: Kabel 1 FHD
+http://62.182.80.87:8081/Test22/Test22/11262
+#EXTINF:-1,N-TV HD
+http://62.182.80.87:8081/Test22/Test22/785
+#EXTINF:-1,DE: n-tv HD
+http://62.182.80.87:8081/Test22/Test22/11287
+#EXTINF:-1,N24 Doku
+http://62.182.80.87:8081/Test22/Test22/852
+#EXTINF:-1,DE: N24 DOKU HD
+http://62.182.80.87:8081/Test22/Test22/11285
+#EXTINF:-1,Tagesschau 24 HD
+http://62.182.80.87:8081/Test22/Test22/787
+#EXTINF:-1,Tele 5 HD
+http://62.182.80.87:8081/Test22/Test22/825
+#EXTINF:-1,DMAX HD
+http://62.182.80.87:8081/Test22/Test22/831
+#EXTINF:-1,DE: DMAX FHD
+http://62.182.80.87:8081/Test22/Test22/11291
+#EXTINF:-1,RTL Nitro HD
+http://62.182.80.87:8081/Test22/Test22/772
+#EXTINF:-1,Sixx HD
+http://62.182.80.87:8081/Test22/Test22/780
+#EXTINF:-1,DE: Sixx FHD
+http://62.182.80.87:8081/Test22/Test22/11274
+#EXTINF:-1,Sat.1 Gold HD
+http://62.182.80.87:8081/Test22/Test22/781
+#EXTINF:-1,Pro 7 Maxx HD
+http://62.182.80.87:8081/Test22/Test22/776
+#EXTINF:-1,WDR HD
+http://62.182.80.87:8081/Test22/Test22/788
+#EXTINF:-1,DE: WDR HD
+http://62.182.80.87:8081/Test22/Test22/11318
+#EXTINF:-1,NDR HD
+http://62.182.80.87:8081/Test22/Test22/766
+#EXTINF:-1,Deluxe Music HD
+http://62.182.80.87:8081/Test22/Test22/796
+#EXTINF:-1,Tlc HD
+http://62.182.80.87:8081/Test22/Test22/813
+#EXTINF:-1,Welt HD
+http://62.182.80.87:8081/Test22/Test22/786
+#EXTINF:-1,DE: Welt HEVC
+http://62.182.80.87:8081/Test22/Test22/11286
+#EXTINF:-1,HR HD
+http://62.182.80.87:8081/Test22/Test22/790
+#EXTINF:-1,Arte HD
+http://62.182.80.87:8081/Test22/Test22/794
+#EXTINF:-1,Kabel 1 Doku
+http://62.182.80.87:8081/Test22/Test22/783
+#EXTINF:-1,Phoenix HD
+http://62.182.80.87:8081/Test22/Test22/793
+#EXTINF:-1,Kabel Eins Classics HD
+http://62.182.80.87:8081/Test22/Test22/784
+#EXTINF:-1,DE: Kabel 1 Classics
+http://62.182.80.87:8081/Test22/Test22/11264
+#EXTINF:-1,Zdf Neo HD
+http://62.182.80.87:8081/Test22/Test22/791
+#EXTINF:-1,DE: WAIDWERK (test)
+http://62.182.80.87:8081/Test22/Test22/11408
+#EXTINF:-1,DE: BR Fernsehen Sued HD RAW (Direct Source)
+http://62.182.80.87:8081/Test22/Test22/11409
+#EXTINF:-1,DE: hr-fernsehen HD RAW (Direct Source)
+http://62.182.80.87:8081/Test22/Test22/11410
+#EXTINF:-1,DE: MDR S-Anhalt HD RAW (Direct Source)
+http://62.182.80.87:8081/Test22/Test22/11411
+#EXTINF:-1,DE: rbb Berlin HD RAW (Direct Source)
+http://62.182.80.87:8081/Test22/Test22/11413
+#EXTINF:-1,DE: SWR RP HD RAW (Direct Source)
+http://62.182.80.87:8081/Test22/Test22/11415
+#EXTINF:-1,=== Germany SKY ===
+http://62.182.80.87:8081/Test22/Test22/1070
+#EXTINF:-1,Sky 1 HD
+http://62.182.80.87:8081/Test22/Test22/817
+#EXTINF:-1,DE: SKY 1 FHD
+http://62.182.80.87:8081/Test22/Test22/11331
+#EXTINF:-1,Sky Atlantic HD
+http://62.182.80.87:8081/Test22/Test22/819
+#EXTINF:-1,DE: Sky Atlantic FHD
+http://62.182.80.87:8081/Test22/Test22/11334
+#EXTINF:-1,SKY CINEMA PREMIEREN HD
+http://62.182.80.87:8081/Test22/Test22/804
+#EXTINF:-1,Sky Cinema Premieren HD
+http://62.182.80.87:8081/Test22/Test22/801
+#EXTINF:-1,SKY CINEMA PREMIEREN
+http://62.182.80.87:8081/Test22/Test22/5794
+#EXTINF:-1,DE: Sky Cinema Premieren FHD
+http://62.182.80.87:8081/Test22/Test22/11337
+#EXTINF:-1,SKY CINEMA PREMIEREN +24
+http://62.182.80.87:8081/Test22/Test22/5796
+#EXTINF:-1,Sky Cinema Premieren 24 HD
+http://62.182.80.87:8081/Test22/Test22/802
+#EXTINF:-1,DE: Sky Cinema Premieren +24 FHD
+http://62.182.80.87:8081/Test22/Test22/11340
+#EXTINF:-1,Sky Action HD
+http://62.182.80.87:8081/Test22/Test22/803
+#EXTINF:-1,DE: Sky Cinema Action FHD
+http://62.182.80.87:8081/Test22/Test22/11343
+#EXTINF:-1,SKY CINEMA BEST OF
+http://62.182.80.87:8081/Test22/Test22/5791
+#EXTINF:-1,SKY CINEMA BEST OF HD
+http://62.182.80.87:8081/Test22/Test22/800
+#EXTINF:-1,DE: Sky Cinema Best Of FHD
+http://62.182.80.87:8081/Test22/Test22/11346
+#EXTINF:-1,DE | Sky Comedy FHD
+http://62.182.80.87:8081/Test22/Test22/22721
+#EXTINF:-1,SKY CINEMA FAMILY
+http://62.182.80.87:8081/Test22/Test22/5795
+#EXTINF:-1,SKY CINEMA EMOTION HD B
+http://62.182.80.87:8081/Test22/Test22/807
+#EXTINF:-1,SKY CINEMA EMOTION HD
+http://62.182.80.87:8081/Test22/Test22/5792
+#EXTINF:-1,Sky Cinema Family HD
+http://62.182.80.87:8081/Test22/Test22/806
+#EXTINF:-1,DE: Sky Cinema Family FHD
+http://62.182.80.87:8081/Test22/Test22/11349
+#EXTINF:-1,DE: Sky Cinema Special FHD
+http://62.182.80.87:8081/Test22/Test22/11352
+#EXTINF:-1,SKY CINEMA THRILLER HD
+http://62.182.80.87:8081/Test22/Test22/5797
+#EXTINF:-1,DE: Sky Cinema Thriller FHD
+http://62.182.80.87:8081/Test22/Test22/11355
+#EXTINF:-1,Sky Krimi HD
+http://62.182.80.87:8081/Test22/Test22/815
+#EXTINF:-1,SKY KRIMI HD
+http://62.182.80.87:8081/Test22/Test22/5790
+#EXTINF:-1,SKY CINEMA CLASSICS
+http://62.182.80.87:8081/Test22/Test22/5789
+#EXTINF:-1,Sky Cinema FUN HD
+http://62.182.80.87:8081/Test22/Test22/805
+#EXTINF:-1,SKY CINEMA FUN
+http://62.182.80.87:8081/Test22/Test22/5793
+#EXTINF:-1,Sky Nostalgie HD
+http://62.182.80.87:8081/Test22/Test22/808
+#EXTINF:-1,13th Street HD
+http://62.182.80.87:8081/Test22/Test22/818
+#EXTINF:-1,DE: 13th Street RAW
+http://62.182.80.87:8081/Test22/Test22/11366
+#EXTINF:-1,E! Entertainment HD
+http://62.182.80.87:8081/Test22/Test22/832
+#EXTINF:-1,DE: E! Entertainment FHD
+http://62.182.80.87:8081/Test22/Test22/11368
+#EXTINF:-1,Fox Premiere HD
+http://62.182.80.87:8081/Test22/Test22/820
+#EXTINF:-1,DE: Fox FHD
+http://62.182.80.87:8081/Test22/Test22/11371
+#EXTINF:-1,RTL Passion HD
+http://62.182.80.87:8081/Test22/Test22/827
+#EXTINF:-1,Romance TV
+http://62.182.80.87:8081/Test22/Test22/828
+#EXTINF:-1,Sky Syfy HD
+http://62.182.80.87:8081/Test22/Test22/821
+#EXTINF:-1,TNT Film HD
+http://62.182.80.87:8081/Test22/Test22/811
+#EXTINF:-1,DE: TNT Film RAW
+http://62.182.80.87:8081/Test22/Test22/11382
+#EXTINF:-1,TNT Comedy HD
+http://62.182.80.87:8081/Test22/Test22/809
+#EXTINF:-1,DE: TNT Comedy RAW
+http://62.182.80.87:8081/Test22/Test22/11380
+#EXTINF:-1,TNT Serie HD
+http://62.182.80.87:8081/Test22/Test22/812
+#EXTINF:-1,DE: TNT Serie RAW
+http://62.182.80.87:8081/Test22/Test22/11384
+#EXTINF:-1,Universal Channel HD
+http://62.182.80.87:8081/Test22/Test22/822
+#EXTINF:-1,Animal Planet HD
+http://62.182.80.87:8081/Test22/Test22/837
+#EXTINF:-1,AXN HD
+http://62.182.80.87:8081/Test22/Test22/824
+#EXTINF:-1,Silverline
+http://62.182.80.87:8081/Test22/Test22/814
+#EXTINF:-1,Discovery Channel HD
+http://62.182.80.87:8081/Test22/Test22/836
+#EXTINF:-1,DE: Discovery FHD
+http://62.182.80.87:8081/Test22/Test22/11392
+#EXTINF:-1,History Channel HD
+http://62.182.80.87:8081/Test22/Test22/841
+#EXTINF:-1,DE: History FHD
+http://62.182.80.87:8081/Test22/Test22/11395
+#EXTINF:-1,Nat Geo HD
+http://62.182.80.87:8081/Test22/Test22/840
+#EXTINF:-1,DE: NatGeo RAW
+http://62.182.80.87:8081/Test22/Test22/11399
+#EXTINF:-1,Nat Geo Wild HD
+http://62.182.80.87:8081/Test22/Test22/839
+#EXTINF:-1,DE: Nat Geo Wild FHD
+http://62.182.80.87:8081/Test22/Test22/11401
+#EXTINF:-1,DE: Planet HD
+http://62.182.80.87:8081/Test22/Test22/11403
+#EXTINF:-1,Spiegel TV Geschichte HD
+http://62.182.80.87:8081/Test22/Test22/834
+#EXTINF:-1,DE: Spiegel Geschichte RAW
+http://62.182.80.87:8081/Test22/Test22/11406
+#EXTINF:-1,DE: Spiegel TV Wissen
+http://62.182.80.87:8081/Test22/Test22/11407
+#EXTINF:-1,Kinowelt TV
+http://62.182.80.87:8081/Test22/Test22/810
+#EXTINF:-1,Sony Entertainment TV HD
+http://62.182.80.87:8081/Test22/Test22/823
+#EXTINF:-1,DE: Deluxe Music RAW
+http://62.182.80.87:8081/Test22/Test22/11320
+#EXTINF:-1,Pro 7 Fun HD
+http://62.182.80.87:8081/Test22/Test22/777
+#EXTINF:-1,RTL Crime HD
+http://62.182.80.87:8081/Test22/Test22/826
+#EXTINF:-1,RTL Living HD
+http://62.182.80.87:8081/Test22/Test22/773
+#EXTINF:-1,RTL Plus HD
+http://62.182.80.87:8081/Test22/Test22/770
+#EXTINF:-1,Spiegel TV Wissen
+http://62.182.80.87:8081/Test22/Test22/835
+#EXTINF:-1,ANIXE HD
+http://62.182.80.87:8081/Test22/Test22/816
+#EXTINF:-1,SKY SELECT 1 HD
+http://62.182.80.87:8081/Test22/Test22/5788
+#EXTINF:-1,SKY SELECT 2 HD
+http://62.182.80.87:8081/Test22/Test22/5787
+#EXTINF:-1,SKY SELECT 3 HD
+http://62.182.80.87:8081/Test22/Test22/5786
+#EXTINF:-1,SKY SELECT 4 HD
+http://62.182.80.87:8081/Test22/Test22/5785
+#EXTINF:-1,SKY SELECT 5 HD
+http://62.182.80.87:8081/Test22/Test22/5784
+#EXTINF:-1,SKY SELECT 6 HD
+http://62.182.80.87:8081/Test22/Test22/5783
+#EXTINF:-1,SKY SELECT 7 HD
+http://62.182.80.87:8081/Test22/Test22/5782
+#EXTINF:-1,SKY SELECT 8 HD
+http://62.182.80.87:8081/Test22/Test22/5781
+#EXTINF:-1,MAX KINO COLLECTION DE
+http://62.182.80.87:8081/Test22/Test22/4020
+#EXTINF:-1,MAX Premiere HD DE
+http://62.182.80.87:8081/Test22/Test22/6869
+#EXTINF:-1,MAX KINO DE
+http://62.182.80.87:8081/Test22/Test22/4023
+#EXTINF:-1,MAX KINO 2 DE
+http://62.182.80.87:8081/Test22/Test22/4022
+#EXTINF:-1,MAX KINO 3 DE
+http://62.182.80.87:8081/Test22/Test22/4021
+#EXTINF:-1,MAX KINO 4 HD DE
+http://62.182.80.87:8081/Test22/Test22/6870
+#EXTINF:-1,MAX KINO 5 HD DE
+http://62.182.80.87:8081/Test22/Test22/6871
+#EXTINF:-1,MAX SELECT HD 1 DE
+http://62.182.80.87:8081/Test22/Test22/6878
+#EXTINF:-1,MAX SELECT HD 2 DE
+http://62.182.80.87:8081/Test22/Test22/6877
+#EXTINF:-1,MAX SELECT HD 3 DE
+http://62.182.80.87:8081/Test22/Test22/6876
+#EXTINF:-1,MAX SELECT HD 4  DE
+http://62.182.80.87:8081/Test22/Test22/6875
+#EXTINF:-1,MAX SELECT HD 5 DE
+http://62.182.80.87:8081/Test22/Test22/6874
+#EXTINF:-1,DE MAX SELECT HD 6
+http://62.182.80.87:8081/Test22/Test22/6873
+#EXTINF:-1,MAX SELECT HD 7 DE
+http://62.182.80.87:8081/Test22/Test22/6872
+#EXTINF:-1,MAX SELECT HD 1 DE
+http://62.182.80.87:8081/Test22/Test22/4019
+#EXTINF:-1,MAX SELECT HD 2 DE
+http://62.182.80.87:8081/Test22/Test22/4018
+#EXTINF:-1,MAX SELECT HD 3 DE
+http://62.182.80.87:8081/Test22/Test22/4017
+#EXTINF:-1,MAX SELECT HD 4 DE
+http://62.182.80.87:8081/Test22/Test22/4016
+#EXTINF:-1,MAX SELECT HD 5 DE
+http://62.182.80.87:8081/Test22/Test22/4015
+#EXTINF:-1,MAX SELECT HD 6 DE
+http://62.182.80.87:8081/Test22/Test22/4014
+#EXTINF:-1,MAX SELECT HD 7 DE
+http://62.182.80.87:8081/Test22/Test22/4013
+#EXTINF:-1,MTV HD
+http://62.182.80.87:8081/Test22/Test22/797
+#EXTINF:-1,==== Austria ====
+http://62.182.80.87:8081/Test22/Test22/2917
+#EXTINF:-1,|AT| ORF 1 HD
+http://62.182.80.87:8081/Test22/Test22/2923
+#EXTINF:-1,|AT| ORF 2 HD
+http://62.182.80.87:8081/Test22/Test22/2924
+#EXTINF:-1,|AT| ORF 3 HD
+http://62.182.80.87:8081/Test22/Test22/2925
+#EXTINF:-1,|AT| ATV HD
+http://62.182.80.87:8081/Test22/Test22/2921
+#EXTINF:-1,|AT| ATV 2 HD
+http://62.182.80.87:8081/Test22/Test22/2920
+#EXTINF:-1,|AT| Puls 4 HD
+http://62.182.80.87:8081/Test22/Test22/2928
+#EXTINF:-1,|AT| AUSTRIA 24 TV HD
+http://62.182.80.87:8081/Test22/Test22/2922
+#EXTINF:-1,|AT| 4+ HD
+http://62.182.80.87:8081/Test22/Test22/2918
+#EXTINF:-1,|AT| SRF 1 HD
+http://62.182.80.87:8081/Test22/Test22/2932
+#EXTINF:-1,|AT| SRF 2 HD
+http://62.182.80.87:8081/Test22/Test22/2933
+#EXTINF:-1,=======  SPORT =======
+http://62.182.80.87:8081/Test22/Test22/1096
+#EXTINF:-1,===  SPORT GERMANY ===
+http://62.182.80.87:8081/Test22/Test22/6859
+#EXTINF:-1,DE | Sport News HD
+http://62.182.80.87:8081/Test22/Test22/878
+#EXTINF:-1,DE: Sky Sport News FHD
+http://62.182.80.87:8081/Test22/Test22/11419
+#EXTINF:-1,DE | DAZN Bar 1 HD
+http://62.182.80.87:8081/Test22/Test22/907
+#EXTINF:-1,DE | DAZN Bar 1 FHD
+http://62.182.80.87:8081/Test22/Test22/909
+#EXTINF:-1,DE | DAZN Bar 2 FHD
+http://62.182.80.87:8081/Test22/Test22/910
+#EXTINF:-1,DE | DAZN Bar 2 HD
+http://62.182.80.87:8081/Test22/Test22/908
+#EXTINF:-1,DE: Auto Motor Sport HD
+http://62.182.80.87:8081/Test22/Test22/11426
+#EXTINF:-1,DE: FC Bayern TV
+http://62.182.80.87:8081/Test22/Test22/11427
+#EXTINF:-1,DE | FC Bayern TV HD
+http://62.182.80.87:8081/Test22/Test22/876
+#EXTINF:-1,DE: Motorvision TV
+http://62.182.80.87:8081/Test22/Test22/11428
+#EXTINF:-1,DE | Motorvision TV
+http://62.182.80.87:8081/Test22/Test22/842
+#EXTINF:-1,DE | Sport Digital HD
+http://62.182.80.87:8081/Test22/Test22/877
+#EXTINF:-1,DE: SPORTDIGITAL FUSSBALL RAW
+http://62.182.80.87:8081/Test22/Test22/11429
+#EXTINF:-1,DE: WWE
+http://62.182.80.87:8081/Test22/Test22/11430
+#EXTINF:-1,Z Racing F1
+http://62.182.80.87:8081/Test22/Test22/11537
+#EXTINF:-1,DE: esports1 FHD RAW
+http://62.182.80.87:8081/Test22/Test22/11431
+#EXTINF:-1,DE | Sport1  HD
+http://62.182.80.87:8081/Test22/Test22/879
+#EXTINF:-1,DE | Sports1 HD
+http://62.182.80.87:8081/Test22/Test22/874
+#EXTINF:-1,DE | Sky Sport Austria HD
+http://62.182.80.87:8081/Test22/Test22/875
+#EXTINF:-1,|AT| ORF SPORT+ HD
+http://62.182.80.87:8081/Test22/Test22/2926
+#EXTINF:-1,DE | Eurosport 1 HD
+http://62.182.80.87:8081/Test22/Test22/880
+#EXTINF:-1,DE: Eurosport 1 FHD
+http://62.182.80.87:8081/Test22/Test22/11437
+#EXTINF:-1,DE | Eurosport 2 HD
+http://62.182.80.87:8081/Test22/Test22/881
+#EXTINF:-1,DE: Eurosport 2 FHD
+http://62.182.80.87:8081/Test22/Test22/11440
+#EXTINF:-1,DE | Eurosport 2Xtra HD
+http://62.182.80.87:8081/Test22/Test22/882
+#EXTINF:-1,DE: Eurosport 2 FHD Xtra
+http://62.182.80.87:8081/Test22/Test22/11443
+#EXTINF:-1,DE | Sky Sport 1 HD
+http://62.182.80.87:8081/Test22/Test22/853
+#EXTINF:-1,DE: Sky Sport 1 RAW
+http://62.182.80.87:8081/Test22/Test22/11467
+#EXTINF:-1,DE | Sky Sport 2 HD
+http://62.182.80.87:8081/Test22/Test22/854
+#EXTINF:-1,DE: Sky Sport 2 HEVC (VIP).
+http://62.182.80.87:8081/Test22/Test22/11447
+#EXTINF:-1,DE | Sky Sport 3 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/855
+#EXTINF:-1,DE | Sky Sport 4 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/856
+#EXTINF:-1,DE | Sky Sport 5 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/857
+#EXTINF:-1,DE | Sky Sport 6 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/858
+#EXTINF:-1,DE | Sky Sport 7 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/859
+#EXTINF:-1,DE | Sky Sport 8 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/860
+#EXTINF:-1,DE | Sky Sport 9 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/861
+#EXTINF:-1,DE | Sky Sport 10 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/862
+#EXTINF:-1,DE | Sky Sport 11 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/863
+#EXTINF:-1,DE | Sky Bundesliga 1 HD
+http://62.182.80.87:8081/Test22/Test22/864
+#EXTINF:-1,DE | 3. Bundesliga 1 (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/883
+#EXTINF:-1,DE | Sky Bundesliga 2 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/865
+#EXTINF:-1,DE | 3. Bundesliga 2 (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/884
+#EXTINF:-1,DE | Sky Bundesliga 3 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/866
+#EXTINF:-1,DE | 3. Bundesliga 3 (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/885
+#EXTINF:-1,DE: Sky Bundesliga 3 HD (VIP)
+http://62.182.80.87:8081/Test22/Test22/11477
+#EXTINF:-1,DE | Sky Bundesliga 4 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/867
+#EXTINF:-1,DE | 3. Bundesliga 4 (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/886
+#EXTINF:-1,DE | Sky Bundesliga 5 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/868
+#EXTINF:-1,DE | 3. Bundesliga 5 (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/887
+#EXTINF:-1,DE | Sky Bundesliga 6 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/869
+#EXTINF:-1,DE | 3. Bundesliga 6 (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/888
+#EXTINF:-1,DE | Sky Bundesliga 7 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/870
+#EXTINF:-1,DE | 3. Bundesliga 7 (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/889
+#EXTINF:-1,DE | Sky Bundesliga 8 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/871
+#EXTINF:-1,DE | 3. Bundesliga 8 (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/890
+#EXTINF:-1,DE | Sky Bundesliga 9 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/872
+#EXTINF:-1,DE | Sky Bundesliga 10 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/873
+#EXTINF:-1,DE: Telekom Fussball 1
+http://62.182.80.87:8081/Test22/Test22/11522
+#EXTINF:-1,DE: Telekom Fussball 2
+http://62.182.80.87:8081/Test22/Test22/11499
+#EXTINF:-1,DE: Telekom Fussball 3
+http://62.182.80.87:8081/Test22/Test22/11500
+#EXTINF:-1,DE: Telekom Fussball 4
+http://62.182.80.87:8081/Test22/Test22/11501
+#EXTINF:-1,DE: Telekom Fussball 5
+http://62.182.80.87:8081/Test22/Test22/11502
+#EXTINF:-1,DE: Telekom Fussball  6
+http://62.182.80.87:8081/Test22/Test22/11503
+#EXTINF:-1,DE: Telekom Fussball 7
+http://62.182.80.87:8081/Test22/Test22/11504
+#EXTINF:-1,DE: Telekom Fussball 8
+http://62.182.80.87:8081/Test22/Test22/11505
+#EXTINF:-1,|DE| TELEKOM BUNDESLIGA 1
+http://62.182.80.87:8081/Test22/Test22/5806
+#EXTINF:-1,|DE| TELEKOM BUNDESLIGA 2
+http://62.182.80.87:8081/Test22/Test22/5805
+#EXTINF:-1,|DE| TELEKOM BUNDESLIGA 3
+http://62.182.80.87:8081/Test22/Test22/5804
+#EXTINF:-1,|DE| TELEKOM BUNDESLIGA 4
+http://62.182.80.87:8081/Test22/Test22/5803
+#EXTINF:-1,|DE| TELEKOM BUNDESLIGA 5
+http://62.182.80.87:8081/Test22/Test22/5802
+#EXTINF:-1,|DE| TELEKOM BUNDESLIGA 6
+http://62.182.80.87:8081/Test22/Test22/5801
+#EXTINF:-1,|DE| TELEKOM BUNDESLIGA 7
+http://62.182.80.87:8081/Test22/Test22/5800
+#EXTINF:-1,DE: Telekom Eishockey 1
+http://62.182.80.87:8081/Test22/Test22/11506
+#EXTINF:-1,DE: Telekom Eishockey 2
+http://62.182.80.87:8081/Test22/Test22/11507
+#EXTINF:-1,DE: Telekom Eishockey 3
+http://62.182.80.87:8081/Test22/Test22/11508
+#EXTINF:-1,DE: Telekom Eishockey 4
+http://62.182.80.87:8081/Test22/Test22/11509
+#EXTINF:-1,DE: Telekom Eishockey 5
+http://62.182.80.87:8081/Test22/Test22/11510
+#EXTINF:-1,DE: Telekom Eishockey 6
+http://62.182.80.87:8081/Test22/Test22/11511
+#EXTINF:-1,DE: Telekom Eishockey 7
+http://62.182.80.87:8081/Test22/Test22/11512
+#EXTINF:-1,DE: Telekom Basketball 1
+http://62.182.80.87:8081/Test22/Test22/11513
+#EXTINF:-1,DE: Telekom Basketball 2
+http://62.182.80.87:8081/Test22/Test22/11514
+#EXTINF:-1,DE: Telekom Basketball 3
+http://62.182.80.87:8081/Test22/Test22/11515
+#EXTINF:-1,DE: Telekom Basketball  4
+http://62.182.80.87:8081/Test22/Test22/11516
+#EXTINF:-1,DE: Telekom Basketball 5
+http://62.182.80.87:8081/Test22/Test22/11517
+#EXTINF:-1,DE: Telekom Basketball 6
+http://62.182.80.87:8081/Test22/Test22/11518
+#EXTINF:-1,DE: Telekom Basketball 7
+http://62.182.80.87:8081/Test22/Test22/11519
+#EXTINF:-1,DE: Telekom Basketball 8
+http://62.182.80.87:8081/Test22/Test22/11520
+#EXTINF:-1,DE: Telekom Basketball 9
+http://62.182.80.87:8081/Test22/Test22/11521
+#EXTINF:-1,DE | Sky Sport Kompakt 1 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/902
+#EXTINF:-1,DE | Sky Sport Kompakt 2 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/903
+#EXTINF:-1,DE | Sky Sport Kompakt 3 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/904
+#EXTINF:-1,DE | Sky Sport Kompakt 4 HD (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/905
+#EXTINF:-1,DE | BBL Sport 1 (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/891
+#EXTINF:-1,DE | BBL Sport 2 (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/892
+#EXTINF:-1,DE | BBL Sport 3 (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/893
+#EXTINF:-1,DE | BBL Sport 4 (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/894
+#EXTINF:-1,DE | DEL Sport 1 (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/895
+#EXTINF:-1,DE | DEL Sport 2 (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/896
+#EXTINF:-1,DE | DEL Sport 3 (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/897
+#EXTINF:-1,DE | DEL Sport 4 (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/898
+#EXTINF:-1,DE | DEL Sport 5 (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/899
+#EXTINF:-1,DE | DEL Sport 6 (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/900
+#EXTINF:-1,DE | DEL Sport 7 (ONLY ON MATCHDAY)
+http://62.182.80.87:8081/Test22/Test22/901
+#EXTINF:-1,=== SPORT EX YU ===
+http://62.182.80.87:8081/Test22/Test22/6860
+#EXTINF:-1,Eurosport 1 (SR)
+http://62.182.80.87:8081/Test22/Test22/1129
+#EXTINF:-1,Eurosport 1 HD (SR)
+http://62.182.80.87:8081/Test22/Test22/1130
+#EXTINF:-1,Eurosport 2 (SR)
+http://62.182.80.87:8081/Test22/Test22/1131
+#EXTINF:-1,Eurosport 2 HD (SR)
+http://62.182.80.87:8081/Test22/Test22/1132
+#EXTINF:-1,Nova Sport
+http://62.182.80.87:8081/Test22/Test22/1248
+#EXTINF:-1,NOVA SPORT (SR)
+http://62.182.80.87:8081/Test22/Test22/11550
+#EXTINF:-1,Moja TV Sport
+http://62.182.80.87:8081/Test22/Test22/604
+#EXTINF:-1,SOS (SR)
+http://62.182.80.87:8081/Test22/Test22/1245
+#EXTINF:-1,Sportska TV (HR)
+http://62.182.80.87:8081/Test22/Test22/1139
+#EXTINF:-1,HNTV (HR)
+http://62.182.80.87:8081/Test22/Test22/1247
+#EXTINF:-1,Arena Sport 1 PREMIUM HD
+http://62.182.80.87:8081/Test22/Test22/22706
+#EXTINF:-1,Arena Sport 2 PREMIUM HD
+http://62.182.80.87:8081/Test22/Test22/22707
+#EXTINF:-1,Arena Sport 3 PREMIUM HD
+http://62.182.80.87:8081/Test22/Test22/22708
+#EXTINF:-1,Arena Fight
+http://62.182.80.87:8081/Test22/Test22/22719
+#EXTINF:-1,Arena Sport 1 BiH
+http://62.182.80.87:8081/Test22/Test22/11758
+#EXTINF:-1,ARENA SPORT 1 RS /B/
+http://62.182.80.87:8081/Test22/Test22/6669
+#EXTINF:-1,ARENA SPORT 2 RS /B/
+http://62.182.80.87:8081/Test22/Test22/6670
+#EXTINF:-1,ARENA SPORT 3 RS /B/
+http://62.182.80.87:8081/Test22/Test22/6671
+#EXTINF:-1,ARENA SPORT 4 RS /B/
+http://62.182.80.87:8081/Test22/Test22/6672
+#EXTINF:-1,ARENA SPORT 5 RS /B/
+http://62.182.80.87:8081/Test22/Test22/6673
+#EXTINF:-1,Arena Sport 1 HD (SR)
+http://62.182.80.87:8081/Test22/Test22/3990
+#EXTINF:-1,Arena Sport 2 HD (SR)
+http://62.182.80.87:8081/Test22/Test22/1102
+#EXTINF:-1,Arena Sport 3 HD (SR)
+http://62.182.80.87:8081/Test22/Test22/1105
+#EXTINF:-1,Arena Sport 4 HD (SR)
+http://62.182.80.87:8081/Test22/Test22/1108
+#EXTINF:-1,Arena Sport 1 HD (HR)
+http://62.182.80.87:8081/Test22/Test22/1099
+#EXTINF:-1,Arena Sport 2 HD (HR)
+http://62.182.80.87:8081/Test22/Test22/1101
+#EXTINF:-1,Arena Sport 3 HD (HR)
+http://62.182.80.87:8081/Test22/Test22/1104
+#EXTINF:-1,Arena Sport 4 HD (HR)
+http://62.182.80.87:8081/Test22/Test22/1107
+#EXTINF:-1,Arena Sport 5 HD (HR)
+http://62.182.80.87:8081/Test22/Test22/1110
+#EXTINF:-1,Arena Sport 6 HD (HR)
+http://62.182.80.87:8081/Test22/Test22/1111
+#EXTINF:-1,Sport Klub HD (SR)
+http://62.182.80.87:8081/Test22/Test22/1112
+#EXTINF:-1,Sport Klub 1 HD (SR)
+http://62.182.80.87:8081/Test22/Test22/1114
+#EXTINF:-1,Sport Klub 2 HD (SR)
+http://62.182.80.87:8081/Test22/Test22/1116
+#EXTINF:-1,Sport Klub 3 HD (SR)
+http://62.182.80.87:8081/Test22/Test22/1118
+#EXTINF:-1,Sport Klub 4 (SR)
+http://62.182.80.87:8081/Test22/Test22/1120
+#EXTINF:-1,Sport Klub 5 (SR)
+http://62.182.80.87:8081/Test22/Test22/1122
+#EXTINF:-1,Sport Klub 6 (SR)
+http://62.182.80.87:8081/Test22/Test22/1124
+#EXTINF:-1,Sport Klub 7 (SR)
+http://62.182.80.87:8081/Test22/Test22/1125
+#EXTINF:-1,Sport Klub 8 (SR)
+http://62.182.80.87:8081/Test22/Test22/1126
+#EXTINF:-1,Sport Klub 9 (SR)
+http://62.182.80.87:8081/Test22/Test22/1127
+#EXTINF:-1,Sport Klub 1 HD (HR)
+http://62.182.80.87:8081/Test22/Test22/1113
+#EXTINF:-1,Sport Klub 2 HD (HR)
+http://62.182.80.87:8081/Test22/Test22/1115
+#EXTINF:-1,Sport Klub 3 HD (HR)
+http://62.182.80.87:8081/Test22/Test22/1117
+#EXTINF:-1,Sport Klub 4 (HR)
+http://62.182.80.87:8081/Test22/Test22/1119
+#EXTINF:-1,Sport Klub 5 (HR)
+http://62.182.80.87:8081/Test22/Test22/1121
+#EXTINF:-1,Sport Klub 6 (HR)
+http://62.182.80.87:8081/Test22/Test22/1123
+#EXTINF:-1,Sport Klub Golf HD
+http://62.182.80.87:8081/Test22/Test22/1128
+#EXTINF:-1,Arena Sport 6 HR
+http://62.182.80.87:8081/Test22/Test22/1133
+#EXTINF:-1,Arena Sport 7 HR
+http://62.182.80.87:8081/Test22/Test22/1134
+#EXTINF:-1,Arena Sport 8 HR
+http://62.182.80.87:8081/Test22/Test22/1135
+#EXTINF:-1,Arena Sport 9 HR
+http://62.182.80.87:8081/Test22/Test22/1136
+#EXTINF:-1,Arena Sport 10 HR
+http://62.182.80.87:8081/Test22/Test22/1137
+#EXTINF:-1,FIGHT CHANNEL
+http://62.182.80.87:8081/Test22/Test22/3913
+#EXTINF:-1,Sport TV 1 HD (SLO)
+http://62.182.80.87:8081/Test22/Test22/1140
+#EXTINF:-1,Sport TV 2 HD (SLO)
+http://62.182.80.87:8081/Test22/Test22/1141
+#EXTINF:-1,Sport TV 3 HD (Slo)
+http://62.182.80.87:8081/Test22/Test22/1142
+#EXTINF:-1,Partizan TV
+http://62.182.80.87:8081/Test22/Test22/1138
+#EXTINF:-1,Kreator TV
+http://62.182.80.87:8081/Test22/Test22/6817
+#EXTINF:-1,=== ARAB BEIN SPORT ===
+http://62.182.80.87:8081/Test22/Test22/6843
+#EXTINF:-1,BEIN SPORTS 1 HD+
+http://62.182.80.87:8081/Test22/Test22/6845
+#EXTINF:-1,BEIN SPORTS 2 HD+
+http://62.182.80.87:8081/Test22/Test22/6846
+#EXTINF:-1,BEIN SPORTS 3 HD+
+http://62.182.80.87:8081/Test22/Test22/6847
+#EXTINF:-1,BEIN SPORTS 4 HD+
+http://62.182.80.87:8081/Test22/Test22/6848
+#EXTINF:-1,BEIN SPORTS 5 HD+
+http://62.182.80.87:8081/Test22/Test22/6849
+#EXTINF:-1,BEIN SPORTS 6 HD+
+http://62.182.80.87:8081/Test22/Test22/6850
+#EXTINF:-1,BEIN SPORTS 7 HD+
+http://62.182.80.87:8081/Test22/Test22/6851
+#EXTINF:-1,BEIN SPORTS 8 HD+
+http://62.182.80.87:8081/Test22/Test22/6852
+#EXTINF:-1,BEIN SPORTS 9 HD+
+http://62.182.80.87:8081/Test22/Test22/6853
+#EXTINF:-1,BEIN SPORTS 10 HD+
+http://62.182.80.87:8081/Test22/Test22/6854
+#EXTINF:-1,BEIN SPORTS 11 HD+
+http://62.182.80.87:8081/Test22/Test22/6855
+#EXTINF:-1,BEIN SPORTS 12 HD+
+http://62.182.80.87:8081/Test22/Test22/6856
+#EXTINF:-1,BEIN SPORTS
+http://62.182.80.87:8081/Test22/Test22/6858
+#EXTINF:-1,BEIN NEWS
+http://62.182.80.87:8081/Test22/Test22/6857
+#EXTINF:-1,===  DOCU  ===
+http://62.182.80.87:8081/Test22/Test22/1215
+#EXTINF:-1,E! / Entertainment
+http://62.182.80.87:8081/Test22/Test22/1224
+#EXTINF:-1,National Geographic Channel HD
+http://62.182.80.87:8081/Test22/Test22/1236
+#EXTINF:-1,National Geographic Wild HD
+http://62.182.80.87:8081/Test22/Test22/1237
+#EXTINF:-1,Animal Planet
+http://62.182.80.87:8081/Test22/Test22/1217
+#EXTINF:-1,Discovery Channel
+http://62.182.80.87:8081/Test22/Test22/1221
+#EXTINF:-1,Investigation Discovery HD
+http://62.182.80.87:8081/Test22/Test22/1233
+#EXTINF:-1,History Channel HD
+http://62.182.80.87:8081/Test22/Test22/1229
+#EXTINF:-1,History 2
+http://62.182.80.87:8081/Test22/Test22/1230
+#EXTINF:-1,Viasat History
+http://62.182.80.87:8081/Test22/Test22/1242
+#EXTINF:-1,Viasat Explorer
+http://62.182.80.87:8081/Test22/Test22/1241
+#EXTINF:-1,Viasat Nature
+http://62.182.80.87:8081/Test22/Test22/1243
+#EXTINF:-1,TLC Discovery
+http://62.182.80.87:8081/Test22/Test22/1239
+#EXTINF:-1,DTX Discovery Turbo Extra
+http://62.182.80.87:8081/Test22/Test22/1223
+#EXTINF:-1,Crime Investigation
+http://62.182.80.87:8081/Test22/Test22/1219
+#EXTINF:-1,Travel Channel
+http://62.182.80.87:8081/Test22/Test22/1240
+#EXTINF:-1,24 Kitchen
+http://62.182.80.87:8081/Test22/Test22/1216
+#EXTINF:-1,Laudato TV Zagreb
+http://62.182.80.87:8081/Test22/Test22/1234
+#EXTINF:-1,Da Vinci Learning
+http://62.182.80.87:8081/Test22/Test22/1220
+#EXTINF:-1,BBC Earth
+http://62.182.80.87:8081/Test22/Test22/1218
+#EXTINF:-1,Food Network
+http://62.182.80.87:8081/Test22/Test22/1227
+#EXTINF:-1,Fine Living
+http://62.182.80.87:8081/Test22/Test22/1226
+#EXTINF:-1,Agro TV (SR)
+http://62.182.80.87:8081/Test22/Test22/11546
+#EXTINF:-1,POLJOPRIVREDNA TV
+http://62.182.80.87:8081/Test22/Test22/11541
+#EXTINF:-1,DokuTV
+http://62.182.80.87:8081/Test22/Test22/1222
+#EXTINF:-1,Lov I Ribolov
+http://62.182.80.87:8081/Test22/Test22/1235
+#EXTINF:-1,Lov i Ribolov
+http://62.182.80.87:8081/Test22/Test22/1231
+#EXTINF:-1,ZDRAVA TV (HR)
+http://62.182.80.87:8081/Test22/Test22/1244
+#EXTINF:-1,=======  MOVIE  =======
+http://62.182.80.87:8081/Test22/Test22/1143
+#EXTINF:-1,SUPER STAR TV
+http://62.182.80.87:8081/Test22/Test22/1193
+#EXTINF:-1,STAR TV HD (SR)
+http://62.182.80.87:8081/Test22/Test22/22714
+#EXTINF:-1,Axn Adria
+http://62.182.80.87:8081/Test22/Test22/1144
+#EXTINF:-1,Axn Spin
+http://62.182.80.87:8081/Test22/Test22/1145
+#EXTINF:-1,Cinemax HD
+http://62.182.80.87:8081/Test22/Test22/1150
+#EXTINF:-1,Cinemax 2 HD
+http://62.182.80.87:8081/Test22/Test22/1151
+#EXTINF:-1,Cinemania
+http://62.182.80.87:8081/Test22/Test22/1149
+#EXTINF:-1,Cinestar TV (SR)
+http://62.182.80.87:8081/Test22/Test22/1152
+#EXTINF:-1,CINESTAR TV 1 (HR)
+http://62.182.80.87:8081/Test22/Test22/11547
+#EXTINF:-1,CINESTAR TV 2 (HR)
+http://62.182.80.87:8081/Test22/Test22/11548
+#EXTINF:-1,Cinestar Premiere 1 HD
+http://62.182.80.87:8081/Test22/Test22/1155
+#EXTINF:-1,Cinestar Premiere 2 HD
+http://62.182.80.87:8081/Test22/Test22/1156
+#EXTINF:-1,Cinestar Action
+http://62.182.80.87:8081/Test22/Test22/1153
+#EXTINF:-1,Cinestar Fantasy
+http://62.182.80.87:8081/Test22/Test22/1154
+#EXTINF:-1,CINESTAR FANTASY
+http://62.182.80.87:8081/Test22/Test22/11549
+#EXTINF:-1,M1 Film
+http://62.182.80.87:8081/Test22/Test22/1174
+#EXTINF:-1,Klasik TV
+http://62.182.80.87:8081/Test22/Test22/1173
+#EXTINF:-1,TV 1000
+http://62.182.80.87:8081/Test22/Test22/1194
+#EXTINF:-1,Film box plus SR
+http://62.182.80.87:8081/Test22/Test22/1160
+#EXTINF:-1,Hbo HD
+http://62.182.80.87:8081/Test22/Test22/1169
+#EXTINF:-1,Hbo 2 HD
+http://62.182.80.87:8081/Test22/Test22/1170
+#EXTINF:-1,Hbo 3 HD
+http://62.182.80.87:8081/Test22/Test22/1171
+#EXTINF:-1,Fox HD
+http://62.182.80.87:8081/Test22/Test22/1162
+#EXTINF:-1,Fox Movies HD
+http://62.182.80.87:8081/Test22/Test22/1165
+#EXTINF:-1,Fox Crime HD
+http://62.182.80.87:8081/Test22/Test22/1163
+#EXTINF:-1,Fox Life (HR)
+http://62.182.80.87:8081/Test22/Test22/1164
+#EXTINF:-1,Kino TV HD
+http://62.182.80.87:8081/Test22/Test22/1187
+#EXTINF:-1,RTL CRIME (HR)
+http://62.182.80.87:8081/Test22/Test22/1191
+#EXTINF:-1,RTL LIVING (HR)
+http://62.182.80.87:8081/Test22/Test22/1238
+#EXTINF:-1,RTL PASSION (HR)
+http://62.182.80.87:8081/Test22/Test22/1192
+#EXTINF:-1,SciFi
+http://62.182.80.87:8081/Test22/Test22/1146
+#EXTINF:-1,CBS Reality
+http://62.182.80.87:8081/Test22/Test22/1158
+#EXTINF:-1,AMC (SR)
+http://62.182.80.87:8081/Test22/Test22/1147
+#EXTINF:-1,MaxCro Select 1 HD
+http://62.182.80.87:8081/Test22/Test22/1177
+#EXTINF:-1,MaxCro Select 2 HD
+http://62.182.80.87:8081/Test22/Test22/1178
+#EXTINF:-1,MaxCro Select 3 HD
+http://62.182.80.87:8081/Test22/Test22/1179
+#EXTINF:-1,MaxCro Select 4 HD
+http://62.182.80.87:8081/Test22/Test22/1180
+#EXTINF:-1,MaxCro Select 5 HD
+http://62.182.80.87:8081/Test22/Test22/1181
+#EXTINF:-1,MaxCro Select 6 HD
+http://62.182.80.87:8081/Test22/Test22/1182
+#EXTINF:-1,=== KIDS ===
+http://62.182.80.87:8081/Test22/Test22/1195
+#EXTINF:-1,DE: Super RTL RAW
+http://62.182.80.87:8081/Test22/Test22/11308
+#EXTINF:-1,Toggo Plus
+http://62.182.80.87:8081/Test22/Test22/849
+#EXTINF:-1,DE | Super RTL HD
+http://62.182.80.87:8081/Test22/Test22/774
+#EXTINF:-1,DE | KiKa HD
+http://62.182.80.87:8081/Test22/Test22/848
+#EXTINF:-1,DE | Disney XD
+http://62.182.80.87:8081/Test22/Test22/844
+#EXTINF:-1,DE | Disney Junior HD
+http://62.182.80.87:8081/Test22/Test22/847
+#EXTINF:-1,DE | Disney Cinemagic HD
+http://62.182.80.87:8081/Test22/Test22/845
+#EXTINF:-1,DE | Disney Channel HD
+http://62.182.80.87:8081/Test22/Test22/846
+#EXTINF:-1,DE | Boomerang HD
+http://62.182.80.87:8081/Test22/Test22/850
+#EXTINF:-1,DE | Cartoon Network HD
+http://62.182.80.87:8081/Test22/Test22/851
+#EXTINF:-1,|DE| NICKELODEON HD
+http://62.182.80.87:8081/Test22/Test22/5002
+#EXTINF:-1,RTL KOCKICA (HR)
+http://62.182.80.87:8081/Test22/Test22/1210
+#EXTINF:-1,Nick JUNIOR
+http://62.182.80.87:8081/Test22/Test22/1199
+#EXTINF:-1,NICKELODEON (SR)
+http://62.182.80.87:8081/Test22/Test22/1206
+#EXTINF:-1,HAYATOVCI
+http://62.182.80.87:8081/Test22/Test22/1200
+#EXTINF:-1,MASA I MEDVJED
+http://62.182.80.87:8081/Test22/Test22/1212
+#EXTINF:-1,Minimax
+http://62.182.80.87:8081/Test22/Test22/1204
+#EXTINF:-1,Nick Jr
+http://62.182.80.87:8081/Test22/Test22/1207
+#EXTINF:-1,Universal Kids HD
+http://62.182.80.87:8081/Test22/Test22/1214
+#EXTINF:-1,PINK KIDS
+http://62.182.80.87:8081/Test22/Test22/1208
+#EXTINF:-1,PINK SUPER KIDS
+http://62.182.80.87:8081/Test22/Test22/1209
+#EXTINF:-1,TNT Kids
+http://62.182.80.87:8081/Test22/Test22/1211
+#EXTINF:-1,Tom and Jerry 24H
+http://62.182.80.87:8081/Test22/Test22/1213
+#EXTINF:-1,BABY TV
+http://62.182.80.87:8081/Test22/Test22/1196
+#EXTINF:-1,=======  MUSIC  =======
+http://62.182.80.87:8081/Test22/Test22/1073
+#EXTINF:-1,DM SAT (RS)
+http://62.182.80.87:8081/Test22/Test22/1084
+#EXTINF:-1,BN MUSIC
+http://62.182.80.87:8081/Test22/Test22/1083
+#EXTINF:-1,GRAND NARODNA TV
+http://62.182.80.87:8081/Test22/Test22/1087
+#EXTINF:-1,GRAND 2
+http://62.182.80.87:8081/Test22/Test22/1086
+#EXTINF:-1,Dobra Muzicka
+http://62.182.80.87:8081/Test22/Test22/1092
+#EXTINF:-1,KCN 2 / KCN Music (RS)
+http://62.182.80.87:8081/Test22/Test22/1089
+#EXTINF:-1,KCN 3 / KCN Music 2 (RS)
+http://62.182.80.87:8081/Test22/Test22/1090
+#EXTINF:-1,RTS Muzika
+http://62.182.80.87:8081/Test22/Test22/651
+#EXTINF:-1,RTS Kolo
+http://62.182.80.87:8081/Test22/Test22/650
+#EXTINF:-1,IDJ TV
+http://62.182.80.87:8081/Test22/Test22/1081
+#EXTINF:-1,JUGOTON TV
+http://62.182.80.87:8081/Test22/Test22/1088
+#EXTINF:-1,HAYAT MUSIC
+http://62.182.80.87:8081/Test22/Test22/589
+#EXTINF:-1,HAYAT FOLK
+http://62.182.80.87:8081/Test22/Test22/588
+#EXTINF:-1,OTV VALENTINO (BiH)
+http://62.182.80.87:8081/Test22/Test22/607
+#EXTINF:-1,BALKANIKA
+http://62.182.80.87:8081/Test22/Test22/1082
+#EXTINF:-1,CMC MUSIC
+http://62.182.80.87:8081/Test22/Test22/1085
+#EXTINF:-1,SEVDAH TV
+http://62.182.80.87:8081/Test22/Test22/1091
+#EXTINF:-1,Duga TV
+http://62.182.80.87:8081/Test22/Test22/656
+#EXTINF:-1,Jabuka TV (HR)
+http://62.182.80.87:8081/Test22/Test22/387
+#EXTINF:-1,VH1
+http://62.182.80.87:8081/Test22/Test22/1079
+#EXTINF:-1,VH1 classic
+http://62.182.80.87:8081/Test22/Test22/1080
+#EXTINF:-1,MTV DANCE
+http://62.182.80.87:8081/Test22/Test22/1075
+#EXTINF:-1,MTV HITS
+http://62.182.80.87:8081/Test22/Test22/1076
+#EXTINF:-1,MTV MUSIC
+http://62.182.80.87:8081/Test22/Test22/1077
+#EXTINF:-1,MTV Rocks
+http://62.182.80.87:8081/Test22/Test22/1078
+#EXTINF:-1,======= XXX-Adult =======
+http://62.182.80.87:8081/Test22/Test22/1038
+#EXTINF:-1,XXX #1
+http://62.182.80.87:8081/Test22/Test22/1048
+#EXTINF:-1,XXX #2
+http://62.182.80.87:8081/Test22/Test22/1049
+#EXTINF:-1,XXX #3
+http://62.182.80.87:8081/Test22/Test22/1050
+#EXTINF:-1,XXX #4
+http://62.182.80.87:8081/Test22/Test22/1051
+#EXTINF:-1,XXX #5
+http://62.182.80.87:8081/Test22/Test22/1052
+#EXTINF:-1,XXX #6
+http://62.182.80.87:8081/Test22/Test22/1053
+#EXTINF:-1,XXX #7
+http://62.182.80.87:8081/Test22/Test22/1054
+#EXTINF:-1,XXX #8
+http://62.182.80.87:8081/Test22/Test22/1055
+#EXTINF:-1,XXX #9
+http://62.182.80.87:8081/Test22/Test22/1056
+#EXTINF:-1,XXX #10
+http://62.182.80.87:8081/Test22/Test22/1057
+#EXTINF:-1,SuperOne HD
+http://62.182.80.87:8081/Test22/Test22/1059
+#EXTINF:-1,XXX Dorcel
+http://62.182.80.87:8081/Test22/Test22/1060
+#EXTINF:-1,XXX Blue Movie #1
+http://62.182.80.87:8081/Test22/Test22/1039
+#EXTINF:-1,XXX Blue Movie #2
+http://62.182.80.87:8081/Test22/Test22/1040
+#EXTINF:-1,XXX Blue Movie #3
+http://62.182.80.87:8081/Test22/Test22/1041
+#EXTINF:-1,XXX X1
+http://62.182.80.87:8081/Test22/Test22/1042
+#EXTINF:-1,XXX Blue Movie #5
+http://62.182.80.87:8081/Test22/Test22/1043
+#EXTINF:-1,XXX Blue Movie #6
+http://62.182.80.87:8081/Test22/Test22/1044
+#EXTINF:-1,XXX Blue Movie #7
+http://62.182.80.87:8081/Test22/Test22/1045
+#EXTINF:-1,XXX Blue Movie #9
+http://62.182.80.87:8081/Test22/Test22/1046
+#EXTINF:-1,XXX Blue Movie #10
+http://62.182.80.87:8081/Test22/Test22/1047
+#EXTINF:-1,XXX Net X
+http://62.182.80.87:8081/Test22/Test22/1069
+#EXTINF:-1,Penthouse Gold HD
+http://62.182.80.87:8081/Test22/Test22/1068
+#EXTINF:-1,XXX FAP TV COMPILATION
+http://62.182.80.87:8081/Test22/Test22/1066
+#EXTINF:-1,XXX  FAP TV LESBIAN
+http://62.182.80.87:8081/Test22/Test22/1067
+#EXTINF:-1,EroX HD
+http://62.182.80.87:8081/Test22/Test22/1061
+#EXTINF:-1,XXX ADULT TURKOSAT HD 1
+http://62.182.80.87:8081/Test22/Test22/1062
+#EXTINF:-1,XXX XXL
+http://62.182.80.87:8081/Test22/Test22/1058
+#EXTINF:-1,DORCEL
+http://62.182.80.87:8081/Test22/Test22/1063
+#EXTINF:-1,HUSTLER HD
+http://62.182.80.87:8081/Test22/Test22/1065
+#EXTINF:-1,VIVID RED
+http://62.182.80.87:8081/Test22/Test22/1064
+#EXTINF:-1,===== Albania =====
+http://62.182.80.87:8081/Test22/Test22/911
+#EXTINF:-1,(AL) KTV
+http://62.182.80.87:8081/Test22/Test22/917
+#EXTINF:-1,(AL) KTV HD
+http://62.182.80.87:8081/Test22/Test22/918
+#EXTINF:-1,(AL) Klan Kosova
+http://62.182.80.87:8081/Test22/Test22/919
+#EXTINF:-1,(AL) Klan Kosova HD
+http://62.182.80.87:8081/Test22/Test22/920
+#EXTINF:-1,(AL) Klan TV HD
+http://62.182.80.87:8081/Test22/Test22/921
+#EXTINF:-1,(AL) Klan TV UHD
+http://62.182.80.87:8081/Test22/Test22/922
+#EXTINF:-1,(AL) Klan Plus
+http://62.182.80.87:8081/Test22/Test22/10262
+#EXTINF:-1,(AL) Klan Plus HD
+http://62.182.80.87:8081/Test22/Test22/923
+#EXTINF:-1,(AL) Klan Macedonia
+http://62.182.80.87:8081/Test22/Test22/10261
+#EXTINF:-1,(AL) Top Channel HD
+http://62.182.80.87:8081/Test22/Test22/924
+#EXTINF:-1,(AL) Top Channel UHD
+http://62.182.80.87:8081/Test22/Test22/925
+#EXTINF:-1,(AL) Vizion Plus HD
+http://62.182.80.87:8081/Test22/Test22/926
+#EXTINF:-1,(AL) Vizion Plus UHD
+http://62.182.80.87:8081/Test22/Test22/927
+#EXTINF:-1,(AL) First TV
+http://62.182.80.87:8081/Test22/Test22/928
+#EXTINF:-1,(AL) Kanali 7
+http://62.182.80.87:8081/Test22/Test22/968
+#EXTINF:-1,(AL) Kanal 10
+http://62.182.80.87:8081/Test22/Test22/972
+#EXTINF:-1,(AL) Tema TV
+http://62.182.80.87:8081/Test22/Test22/978
+#EXTINF:-1,(AL) T7
+http://62.182.80.87:8081/Test22/Test22/993
+#EXTINF:-1,(AL) Alsat M
+http://62.182.80.87:8081/Test22/Test22/936
+#EXTINF:-1,(AL) Alsat M HD
+http://62.182.80.87:8081/Test22/Test22/937
+#EXTINF:-1,(AL) RTK 1
+http://62.182.80.87:8081/Test22/Test22/913
+#EXTINF:-1,(AL) RTK 1 HD
+http://62.182.80.87:8081/Test22/Test22/912
+#EXTINF:-1,(AL) RTK 2
+http://62.182.80.87:8081/Test22/Test22/914
+#EXTINF:-1,(AL) RTK 3
+http://62.182.80.87:8081/Test22/Test22/915
+#EXTINF:-1,(AL) RTK 4
+http://62.182.80.87:8081/Test22/Test22/916
+#EXTINF:-1,(AL) RTV 21
+http://62.182.80.87:8081/Test22/Test22/929
+#EXTINF:-1,(AL) RTV 21 HD
+http://62.182.80.87:8081/Test22/Test22/930
+#EXTINF:-1,(AL) RTV 21+
+http://62.182.80.87:8081/Test22/Test22/931
+#EXTINF:-1,(AL) RTV 21 Mix
+http://62.182.80.87:8081/Test22/Test22/933
+#EXTINF:-1,(AL) RTV 21 Junior
+http://62.182.80.87:8081/Test22/Test22/932
+#EXTINF:-1,(AL) RTSH 1
+http://62.182.80.87:8081/Test22/Test22/934
+#EXTINF:-1,(AL) RTSH Muzike
+http://62.182.80.87:8081/Test22/Test22/935
+#EXTINF:-1,(AL) RTV 21 Macedonia
+http://62.182.80.87:8081/Test22/Test22/938
+#EXTINF:-1,(AL) Era TV
+http://62.182.80.87:8081/Test22/Test22/939
+#EXTINF:-1,(AL) TV Uskana
+http://62.182.80.87:8081/Test22/Test22/996
+#EXTINF:-1,(AL) Tirana TV
+http://62.182.80.87:8081/Test22/Test22/1007
+#EXTINF:-1,(AL) RTV Sharri HD
+http://62.182.80.87:8081/Test22/Test22/1004
+#EXTINF:-1,(AL) Folk +
+http://62.182.80.87:8081/Test22/Test22/998
+#EXTINF:-1,(AL) Living HD
+http://62.182.80.87:8081/Test22/Test22/1000
+#EXTINF:-1,(AL) Bang Bang
+http://62.182.80.87:8081/Test22/Test22/994
+#EXTINF:-1,(AL) My Music HD
+http://62.182.80.87:8081/Test22/Test22/992
+#EXTINF:-1,(AL) TV Zico
+http://62.182.80.87:8081/Test22/Test22/991
+#EXTINF:-1,(AL) X Premium 2 HD
+http://62.182.80.87:8081/Test22/Test22/1010
+#EXTINF:-1,(AL) X Premium 4 HD
+http://62.182.80.87:8081/Test22/Test22/1011
+#EXTINF:-1,(AL) X Premium 3 HD
+http://62.182.80.87:8081/Test22/Test22/1012
+#EXTINF:-1,(AL) X Premium 1 HD
+http://62.182.80.87:8081/Test22/Test22/1013
+#EXTINF:-1,(AL) T7
+http://62.182.80.87:8081/Test22/Test22/983
+#EXTINF:-1,(AL) Peace TV
+http://62.182.80.87:8081/Test22/Test22/982
+#EXTINF:-1,(AL) RTSH 24
+http://62.182.80.87:8081/Test22/Test22/981
+#EXTINF:-1,(AL) Dasma TV
+http://62.182.80.87:8081/Test22/Test22/977
+#EXTINF:-1,(AL) Shenja TV
+http://62.182.80.87:8081/Test22/Test22/976
+#EXTINF:-1,(AL) TV Opoja HD
+http://62.182.80.87:8081/Test22/Test22/974
+#EXTINF:-1,(AL) TV Dukagjini
+http://62.182.80.87:8081/Test22/Test22/973
+#EXTINF:-1,(AL) Channel One
+http://62.182.80.87:8081/Test22/Test22/966
+#EXTINF:-1,(AL) Ora News
+http://62.182.80.87:8081/Test22/Test22/963
+#EXTINF:-1,(AL) News 24
+http://62.182.80.87:8081/Test22/Test22/962
+#EXTINF:-1,(AL) Top News
+http://62.182.80.87:8081/Test22/Test22/967
+#EXTINF:-1,(AL) ABC News
+http://62.182.80.87:8081/Test22/Test22/960
+#EXTINF:-1,(AL) Tring Action
+http://62.182.80.87:8081/Test22/Test22/949
+#EXTINF:-1,(AL) Tring Comedy
+http://62.182.80.87:8081/Test22/Test22/950
+#EXTINF:-1,(AL) Tring Fantasy
+http://62.182.80.87:8081/Test22/Test22/951
+#EXTINF:-1,(AL) Tring Jolly UHD
+http://62.182.80.87:8081/Test22/Test22/952
+#EXTINF:-1,(AL) Tring Life
+http://62.182.80.87:8081/Test22/Test22/953
+#EXTINF:-1,(AL) Tring 3+
+http://62.182.80.87:8081/Test22/Test22/958
+#EXTINF:-1,(AL) Tring Tring
+http://62.182.80.87:8081/Test22/Test22/957
+#EXTINF:-1,(AL) Tring Super
+http://62.182.80.87:8081/Test22/Test22/956
+#EXTINF:-1,(AL) Tring Smile
+http://62.182.80.87:8081/Test22/Test22/955
+#EXTINF:-1,(AL) Tring Shqip
+http://62.182.80.87:8081/Test22/Test22/954
+#EXTINF:-1,(AL) Tring World
+http://62.182.80.87:8081/Test22/Test22/990
+#EXTINF:-1,(AL) Tring Planet
+http://62.182.80.87:8081/Test22/Test22/989
+#EXTINF:-1,(AL) Tring History
+http://62.182.80.87:8081/Test22/Test22/988
+#EXTINF:-1,(AL) Film Nje UHD
+http://62.182.80.87:8081/Test22/Test22/940
+#EXTINF:-1,(AL) Film Dy UHD
+http://62.182.80.87:8081/Test22/Test22/941
+#EXTINF:-1,(AL) Film Aksion
+http://62.182.80.87:8081/Test22/Test22/942
+#EXTINF:-1,(AL) Film Autor
+http://62.182.80.87:8081/Test22/Test22/943
+#EXTINF:-1,(AL) Film Dramë
+http://62.182.80.87:8081/Test22/Test22/944
+#EXTINF:-1,(AL) Film Hits
+http://62.182.80.87:8081/Test22/Test22/945
+#EXTINF:-1,(AL) Film Komedi
+http://62.182.80.87:8081/Test22/Test22/946
+#EXTINF:-1,(AL) Film Stinet
+http://62.182.80.87:8081/Test22/Test22/947
+#EXTINF:-1,(AL) Film Thriller
+http://62.182.80.87:8081/Test22/Test22/948
+#EXTINF:-1,(AL) Explorer Histori
+http://62.182.80.87:8081/Test22/Test22/987
+#EXTINF:-1,(AL) Explorer Natyre
+http://62.182.80.87:8081/Test22/Test22/986
+#EXTINF:-1,(AL) Explorer Shkence
+http://62.182.80.87:8081/Test22/Test22/985
+#EXTINF:-1,(AL) Super Sport Kosova 1 HD
+http://62.182.80.87:8081/Test22/Test22/1037
+#EXTINF:-1,(AL) RTSH Sport
+http://62.182.80.87:8081/Test22/Test22/1036
+#EXTINF:-1,(AL) Kujtesa Sport 1 HD
+http://62.182.80.87:8081/Test22/Test22/1032
+#EXTINF:-1,(AL) Kujtesa Sport 2 HD
+http://62.182.80.87:8081/Test22/Test22/1033
+#EXTINF:-1,(AL) Kujtesa Sport 3 HD
+http://62.182.80.87:8081/Test22/Test22/1034
+#EXTINF:-1,(AL) Kujtesa Sport 4 HD
+http://62.182.80.87:8081/Test22/Test22/1035
+#EXTINF:-1,(AL) Tring Sport 1 HD
+http://62.182.80.87:8081/Test22/Test22/1028
+#EXTINF:-1,(AL) Tring Sport 2 HD
+http://62.182.80.87:8081/Test22/Test22/1029
+#EXTINF:-1,(AL) Tring Sport 3 HD
+http://62.182.80.87:8081/Test22/Test22/1030
+#EXTINF:-1,(AL) Tring Sport 4 HD
+http://62.182.80.87:8081/Test22/Test22/1031
+#EXTINF:-1,(AL) Tring Sport News HD
+http://62.182.80.87:8081/Test22/Test22/1027
+#EXTINF:-1,(AL) Tring Sport 1 UHD
+http://62.182.80.87:8081/Test22/Test22/1023
+#EXTINF:-1,(AL) Tring Sport 2 UHD
+http://62.182.80.87:8081/Test22/Test22/1024
+#EXTINF:-1,(AL) Tring Sport 3 UHD
+http://62.182.80.87:8081/Test22/Test22/1025
+#EXTINF:-1,(AL) Tring Sport 4 UHD
+http://62.182.80.87:8081/Test22/Test22/1026
+#EXTINF:-1,(AL) Tring Sport News UHD
+http://62.182.80.87:8081/Test22/Test22/1022
+#EXTINF:-1,(AL) Super Sport 1 HD
+http://62.182.80.87:8081/Test22/Test22/1018
+#EXTINF:-1,(AL) Super Sport 2 HD
+http://62.182.80.87:8081/Test22/Test22/1019
+#EXTINF:-1,(AL) Super Sport 3 HD
+http://62.182.80.87:8081/Test22/Test22/1020
+#EXTINF:-1,(AL) Super Sport 4 HD
+http://62.182.80.87:8081/Test22/Test22/1021
+#EXTINF:-1,(AL) Super Sport 1 UHD
+http://62.182.80.87:8081/Test22/Test22/1014
+#EXTINF:-1,(AL) Super Sport 2 UHD
+http://62.182.80.87:8081/Test22/Test22/1015
+#EXTINF:-1,(AL) Super Sport 3 UHD
+http://62.182.80.87:8081/Test22/Test22/1016
+#EXTINF:-1,(AL) Super Sport 4 UHD
+http://62.182.80.87:8081/Test22/Test22/1017
+#EXTINF:-1,======= BULGARIA =======
+http://62.182.80.87:8081/Test22/Test22/8170
+#EXTINF:-1,BNT1
+http://62.182.80.87:8081/Test22/Test22/7914
+#EXTINF:-1,BNT 2
+http://62.182.80.87:8081/Test22/Test22/7917
+#EXTINF:-1,Kanal 3 HD
+http://62.182.80.87:8081/Test22/Test22/7916
+#EXTINF:-1,BNT Word
+http://62.182.80.87:8081/Test22/Test22/7915
+#EXTINF:-1,BTV
+http://62.182.80.87:8081/Test22/Test22/7912
+#EXTINF:-1,BTV ACTION
+http://62.182.80.87:8081/Test22/Test22/7911
+#EXTINF:-1,BTV CINEMA
+http://62.182.80.87:8081/Test22/Test22/7910
+#EXTINF:-1,bTV Comedy
+http://62.182.80.87:8081/Test22/Test22/7909
+#EXTINF:-1,BTV LADY
+http://62.182.80.87:8081/Test22/Test22/7908
+#EXTINF:-1,Bulgaria ON AIR
+http://62.182.80.87:8081/Test22/Test22/7907
+#EXTINF:-1,BOX TV
+http://62.182.80.87:8081/Test22/Test22/7913
+#EXTINF:-1,BNT 1 HD /lokal/
+http://62.182.80.87:8081/Test22/Test22/7929
+#EXTINF:-1,BNT 3 HD /lokal/
+http://62.182.80.87:8081/Test22/Test22/7928
+#EXTINF:-1,bTV HD /lokal/
+http://62.182.80.87:8081/Test22/Test22/7930
+#EXTINF:-1,KinoNova /lokal/
+http://62.182.80.87:8081/Test22/Test22/7926
+#EXTINF:-1,Sport Plus HD /lokal/
+http://62.182.80.87:8081/Test22/Test22/7925
+#EXTINF:-1,24KITCHEN
+http://62.182.80.87:8081/Test22/Test22/7924
+#EXTINF:-1,ACTION PLUS HD
+http://62.182.80.87:8081/Test22/Test22/7923
+#EXTINF:-1,AMC
+http://62.182.80.87:8081/Test22/Test22/7922
+#EXTINF:-1,B1B ACTION
+http://62.182.80.87:8081/Test22/Test22/7920
+#EXTINF:-1,BALKANIKA MTV
+http://62.182.80.87:8081/Test22/Test22/7919
+#EXTINF:-1,BLOOMBERG
+http://62.182.80.87:8081/Test22/Test22/7918
+#EXTINF:-1,CARTOON NETWORK
+http://62.182.80.87:8081/Test22/Test22/7906
+#EXTINF:-1,CINEMAX
+http://62.182.80.87:8081/Test22/Test22/7904
+#EXTINF:-1,CINEMAX 2
+http://62.182.80.87:8081/Test22/Test22/7903
+#EXTINF:-1,CINEMA PLUS
+http://62.182.80.87:8081/Test22/Test22/7905
+#EXTINF:-1,FOX
+http://62.182.80.87:8081/Test22/Test22/7890
+#EXTINF:-1,FOX CRIME
+http://62.182.80.87:8081/Test22/Test22/7889
+#EXTINF:-1,FOX LIFE
+http://62.182.80.87:8081/Test22/Test22/7888
+#EXTINF:-1,HBO
+http://62.182.80.87:8081/Test22/Test22/7887
+#EXTINF:-1,HBO 2
+http://62.182.80.87:8081/Test22/Test22/7886
+#EXTINF:-1,HBO 3
+http://62.182.80.87:8081/Test22/Test22/7885
+#EXTINF:-1,COMEDY PLUS
+http://62.182.80.87:8081/Test22/Test22/7902
+#EXTINF:-1,Diema Family.
+http://62.182.80.87:8081/Test22/Test22/7901
+#EXTINF:-1,F Plus HD
+http://62.182.80.87:8081/Test22/Test22/7896
+#EXTINF:-1,FAN TV
+http://62.182.80.87:8081/Test22/Test22/7895
+#EXTINF:-1,FILMBOX PLUS
+http://62.182.80.87:8081/Test22/Test22/7894
+#EXTINF:-1,FINE LIVING
+http://62.182.80.87:8081/Test22/Test22/7893
+#EXTINF:-1,FOLKLOR TV
+http://62.182.80.87:8081/Test22/Test22/7892
+#EXTINF:-1,FOOD NETWORK HD
+http://62.182.80.87:8081/Test22/Test22/7891
+#EXTINF:-1,HIT MIX BG
+http://62.182.80.87:8081/Test22/Test22/7884
+#EXTINF:-1,KINONOVA
+http://62.182.80.87:8081/Test22/Test22/7883
+#EXTINF:-1,NICKELODEON
+http://62.182.80.87:8081/Test22/Test22/7881
+#EXTINF:-1,NOVA TV
+http://62.182.80.87:8081/Test22/Test22/7879
+#EXTINF:-1,Planeta
+http://62.182.80.87:8081/Test22/Test22/7878
+#EXTINF:-1,Planeta Folk
+http://62.182.80.87:8081/Test22/Test22/7877
+#EXTINF:-1,RING BG
+http://62.182.80.87:8081/Test22/Test22/7876
+#EXTINF:-1,ROMA TV
+http://62.182.80.87:8081/Test22/Test22/7875
+#EXTINF:-1,THE VOICE
+http://62.182.80.87:8081/Test22/Test22/7873
+#EXTINF:-1,TIANKOV ORIENT FOLK
+http://62.182.80.87:8081/Test22/Test22/7872
+#EXTINF:-1,TLC Balkans.
+http://62.182.80.87:8081/Test22/Test22/7871
+#EXTINF:-1,VIASAT TV 1000
+http://62.182.80.87:8081/Test22/Test22/7869
+#EXTINF:-1,AXN
+http://62.182.80.87:8081/Test22/Test22/7867
+#EXTINF:-1,DSTV
+http://62.182.80.87:8081/Test22/Test22/7865
+#EXTINF:-1,BG MUSIC
+http://62.182.80.87:8081/Test22/Test22/7864
+#EXTINF:-1,BNT 1
+http://62.182.80.87:8081/Test22/Test22/7862
+#EXTINF:-1,BTV
+http://62.182.80.87:8081/Test22/Test22/7861
+#EXTINF:-1,BTV Action
+http://62.182.80.87:8081/Test22/Test22/7860
+#EXTINF:-1,BTV Cinema
+http://62.182.80.87:8081/Test22/Test22/7859
+#EXTINF:-1,Cinema Plus
+http://62.182.80.87:8081/Test22/Test22/7858
+#EXTINF:-1,Planeta
+http://62.182.80.87:8081/Test22/Test22/7848
+#EXTINF:-1,FEN TV
+http://62.182.80.87:8081/Test22/Test22/7854
+#EXTINF:-1,KinoNova
+http://62.182.80.87:8081/Test22/Test22/7853
+#EXTINF:-1,Nat Geo
+http://62.182.80.87:8081/Test22/Test22/7852
+#EXTINF:-1,Nova
+http://62.182.80.87:8081/Test22/Test22/7850
+#EXTINF:-1,BG Music
+http://62.182.80.87:8081/Test22/Test22/7863
+#EXTINF:-1,RING TV
+http://62.182.80.87:8081/Test22/Test22/7847
+#EXTINF:-1,Roma TV
+http://62.182.80.87:8081/Test22/Test22/7846
+#EXTINF:-1,The Voice
+http://62.182.80.87:8081/Test22/Test22/7845
+#EXTINF:-1,Travel TV
+http://62.182.80.87:8081/Test22/Test22/7844
+#EXTINF:-1,NatGeo Wild HD /lokal/
+http://62.182.80.87:8081/Test22/Test22/7932
+#EXTINF:-1,NatGeo HD /lokkal/
+http://62.182.80.87:8081/Test22/Test22/7931
+#EXTINF:-1,ANIMAL PLANET..
+http://62.182.80.87:8081/Test22/Test22/7921
+#EXTINF:-1,Discovery Channel HD.
+http://62.182.80.87:8081/Test22/Test22/7897
+#EXTINF:-1,Nat Geo Wild HD.
+http://62.182.80.87:8081/Test22/Test22/7882
+#EXTINF:-1,TRAVEL TV
+http://62.182.80.87:8081/Test22/Test22/7870
+#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL
+http://62.182.80.87:8081/Test22/Test22/7866
+#EXTINF:-1,Nat Geo Wild
+http://62.182.80.87:8081/Test22/Test22/7851
+#EXTINF:-1,Nova Sport HD
+http://62.182.80.87:8081/Test22/Test22/7849
+#EXTINF:-1,Sport   HD
+http://62.182.80.87:8081/Test22/Test22/7874
+#EXTINF:-1,NOVA SPORT
+http://62.182.80.87:8081/Test22/Test22/7880
+#EXTINF:-1,MAX SPORT  HD /lokal/
+http://62.182.80.87:8081/Test22/Test22/7936
+#EXTINF:-1,MAX SPORT 3
+http://62.182.80.87:8081/Test22/Test22/7868
+#EXTINF:-1,Diema Sport HD /lokal/
+http://62.182.80.87:8081/Test22/Test22/7934
+#EXTINF:-1,Sportal HD /lokal/
+http://62.182.80.87:8081/Test22/Test22/7933
+#EXTINF:-1,DIEMA SPORT
+http://62.182.80.87:8081/Test22/Test22/7900
+#EXTINF:-1,DIEMA SPORT 2
+http://62.182.80.87:8081/Test22/Test22/7899
+#EXTINF:-1,Diema /lokal/
+http://62.182.80.87:8081/Test22/Test22/7927
+#EXTINF:-1,Diema TV
+http://62.182.80.87:8081/Test22/Test22/7898
+#EXTINF:-1,Diema TV
+http://62.182.80.87:8081/Test22/Test22/7855
+#EXTINF:-1,Diema Sport
+http://62.182.80.87:8081/Test22/Test22/7857
+#EXTINF:-1,Diema Sport 2
+http://62.182.80.87:8081/Test22/Test22/7856
+#EXTINF:-1,======= ROMANIA =======
+http://62.182.80.87:8081/Test22/Test22/8169
+#EXTINF:-1,Antena 1 HD
+http://62.182.80.87:8081/Test22/Test22/6997
+#EXTINF:-1,Antena 3 FHD
+http://62.182.80.87:8081/Test22/Test22/6998
+#EXTINF:-1,Antena Stars FHD
+http://62.182.80.87:8081/Test22/Test22/6999
+#EXTINF:-1,Arcadia World FHD
+http://62.182.80.87:8081/Test22/Test22/7000
+#EXTINF:-1,AXN FHD
+http://62.182.80.87:8081/Test22/Test22/7001
+#EXTINF:-1,AXN White
+http://62.182.80.87:8081/Test22/Test22/7002
+#EXTINF:-1,Bollywood HD
+http://62.182.80.87:8081/Test22/Test22/7003
+#EXTINF:-1,Cinemaraton FHD
+http://62.182.80.87:8081/Test22/Test22/7004
+#EXTINF:-1,Cinemax 2 FHD
+http://62.182.80.87:8081/Test22/Test22/7005
+#EXTINF:-1,Cinemax FHD RO
+http://62.182.80.87:8081/Test22/Test22/7006
+#EXTINF:-1,Cromtel Tv HD
+http://62.182.80.87:8081/Test22/Test22/7007
+#EXTINF:-1,DaVinci Learning
+http://62.182.80.87:8081/Test22/Test22/7008
+#EXTINF:-1,Digi 24
+http://62.182.80.87:8081/Test22/Test22/7009
+#EXTINF:-1,Digi 24 FHD
+http://62.182.80.87:8081/Test22/Test22/7010
+#EXTINF:-1,DIGI ANIMAL WORLD
+http://62.182.80.87:8081/Test22/Test22/6995
+#EXTINF:-1,Animal Planet FHD
+http://62.182.80.87:8081/Test22/Test22/6996
+#EXTINF:-1,Digi Animal World FHD
+http://62.182.80.87:8081/Test22/Test22/7011
+#EXTINF:-1,Digi Life
+http://62.182.80.87:8081/Test22/Test22/7012
+#EXTINF:-1,Digi Life FHD
+http://62.182.80.87:8081/Test22/Test22/7013
+#EXTINF:-1,Digi World
+http://62.182.80.87:8081/Test22/Test22/7022
+#EXTINF:-1,Digi World FHD
+http://62.182.80.87:8081/Test22/Test22/7023
+#EXTINF:-1,Discovery RO
+http://62.182.80.87:8081/Test22/Test22/7024
+#EXTINF:-1,Discovery Science FHD
+http://62.182.80.87:8081/Test22/Test22/7025
+#EXTINF:-1,Discovery Showcase FHD
+http://62.182.80.87:8081/Test22/Test22/7026
+#EXTINF:-1,Discovery Turbo Xtra FHD
+http://62.182.80.87:8081/Test22/Test22/7027
+#EXTINF:-1,Disney Junior
+http://62.182.80.87:8081/Test22/Test22/7028
+#EXTINF:-1,Diva Universal
+http://62.182.80.87:8081/Test22/Test22/7029
+#EXTINF:-1,Film Now HD
+http://62.182.80.87:8081/Test22/Test22/7030
+#EXTINF:-1,Duna Tv
+http://62.182.80.87:8081/Test22/Test22/7031
+#EXTINF:-1,E! Entertainment FHD
+http://62.182.80.87:8081/Test22/Test22/7032
+#EXTINF:-1,Epic Drama FHD
+http://62.182.80.87:8081/Test22/Test22/7033
+#EXTINF:-1,Film Now FHD
+http://62.182.80.87:8081/Test22/Test22/7037
+#EXTINF:-1,FilmBox Extra FHD
+http://62.182.80.87:8081/Test22/Test22/7038
+#EXTINF:-1,Happy Channel FHD
+http://62.182.80.87:8081/Test22/Test22/7040
+#EXTINF:-1,HBO 2 RO FHD
+http://62.182.80.87:8081/Test22/Test22/7041
+#EXTINF:-1,HBO 3 RO FHD
+http://62.182.80.87:8081/Test22/Test22/7042
+#EXTINF:-1,HBO RO FHD
+http://62.182.80.87:8081/Test22/Test22/7043
+#EXTINF:-1,History Channel RO
+http://62.182.80.87:8081/Test22/Test22/7044
+#EXTINF:-1,History FHD
+http://62.182.80.87:8081/Test22/Test22/7045
+#EXTINF:-1,Investigation Discovery FHD
+http://62.182.80.87:8081/Test22/Test22/7047
+#EXTINF:-1,Kanal D FHD
+http://62.182.80.87:8081/Test22/Test22/7048
+#EXTINF:-1,Kiss TV FHD
+http://62.182.80.87:8081/Test22/Test22/7049
+#EXTINF:-1,Look Plus FHD
+http://62.182.80.87:8081/Test22/Test22/7050
+#EXTINF:-1,Look Sport 1 FHD
+http://62.182.80.87:8081/Test22/Test22/7051
+#EXTINF:-1,MTV Live FHD
+http://62.182.80.87:8081/Test22/Test22/7052
+#EXTINF:-1,NatGeo FHD
+http://62.182.80.87:8081/Test22/Test22/7053
+#EXTINF:-1,NatGeo Wild FHD
+http://62.182.80.87:8081/Test22/Test22/7054
+#EXTINF:-1,Nickelodeon FHD
+http://62.182.80.87:8081/Test22/Test22/7055
+#EXTINF:-1,Pro 2 FHD
+http://62.182.80.87:8081/Test22/Test22/7056
+#EXTINF:-1,PRO-X FHD
+http://62.182.80.87:8081/Test22/Test22/7057
+#EXTINF:-1,ProTV FHD
+http://62.182.80.87:8081/Test22/Test22/7058
+#EXTINF:-1,ANTENA 1
+http://62.182.80.87:8081/Test22/Test22/7059
+#EXTINF:-1,ANTENA 3
+http://62.182.80.87:8081/Test22/Test22/7060
+#EXTINF:-1,AXN BLACK
+http://62.182.80.87:8081/Test22/Test22/7061
+#EXTINF:-1,AXN SPIN
+http://62.182.80.87:8081/Test22/Test22/7062
+#EXTINF:-1,CINEMARATON
+http://62.182.80.87:8081/Test22/Test22/7063
+#EXTINF:-1,COMEDY CENTRAL
+http://62.182.80.87:8081/Test22/Test22/7064
+#EXTINF:-1,COMEDY EST
+http://62.182.80.87:8081/Test22/Test22/7065
+#EXTINF:-1,ENTERTAINMENT
+http://62.182.80.87:8081/Test22/Test22/7066
+#EXTINF:-1,MINIMAX RO
+http://62.182.80.87:8081/Test22/Test22/7067
+#EXTINF:-1,Rock TV Full HD
+http://62.182.80.87:8081/Test22/Test22/7072
+#EXTINF:-1,Travel Channel FHD
+http://62.182.80.87:8081/Test22/Test22/7078
+#EXTINF:-1,Travel Mix FHD
+http://62.182.80.87:8081/Test22/Test22/7079
+#EXTINF:-1,TVR 1 HD
+http://62.182.80.87:8081/Test22/Test22/7080
+#EXTINF:-1,UTV FHD
+http://62.182.80.87:8081/Test22/Test22/7081
+#EXTINF:-1,Viasat Nature FHD
+http://62.182.80.87:8081/Test22/Test22/7082
+#EXTINF:-1,ZUTV FHD
+http://62.182.80.87:8081/Test22/Test22/7083
+#EXTINF:-1,UTV
+http://62.182.80.87:8081/Test22/Test22/7228
+#EXTINF:-1,Viasat History FHD
+http://62.182.80.87:8081/Test22/Test22/7227
+#EXTINF:-1,==========Romania SD==========
+http://62.182.80.87:8081/Test22/Test22/7084
+#EXTINF:-1,TVR 1
+http://62.182.80.87:8081/Test22/Test22/7091
+#EXTINF:-1,TVR 2
+http://62.182.80.87:8081/Test22/Test22/7092
+#EXTINF:-1,TVR 3
+http://62.182.80.87:8081/Test22/Test22/7093
+#EXTINF:-1,Agro TV
+http://62.182.80.87:8081/Test22/Test22/7099
+#EXTINF:-1,Antena 1
+http://62.182.80.87:8081/Test22/Test22/7085
+#EXTINF:-1,Antena Stars
+http://62.182.80.87:8081/Test22/Test22/7088
+#EXTINF:-1,Happy Channel
+http://62.182.80.87:8081/Test22/Test22/7089
+#EXTINF:-1,Kanal D
+http://62.182.80.87:8081/Test22/Test22/7087
+#EXTINF:-1,Prima Tv
+http://62.182.80.87:8081/Test22/Test22/7090
+#EXTINF:-1,Pro 2
+http://62.182.80.87:8081/Test22/Test22/7094
+#EXTINF:-1,Pro Cinema
+http://62.182.80.87:8081/Test22/Test22/7096
+#EXTINF:-1,Pro Tv
+http://62.182.80.87:8081/Test22/Test22/7086
+#EXTINF:-1,Pro Tv International
+http://62.182.80.87:8081/Test22/Test22/7097
+#EXTINF:-1,Pro Gold
+http://62.182.80.87:8081/Test22/Test22/7095
+#EXTINF:-1,==========RO Documentare==========
+http://62.182.80.87:8081/Test22/Test22/7140
+#EXTINF:-1,Animal Planet
+http://62.182.80.87:8081/Test22/Test22/7148
+#EXTINF:-1,BBC Earth
+http://62.182.80.87:8081/Test22/Test22/7155
+#EXTINF:-1,CBS Reality
+http://62.182.80.87:8081/Test22/Test22/7158
+#EXTINF:-1,Cinethronix
+http://62.182.80.87:8081/Test22/Test22/7153
+#EXTINF:-1,Crime+ Investigation
+http://62.182.80.87:8081/Test22/Test22/7142
+#EXTINF:-1,Discovery Science
+http://62.182.80.87:8081/Test22/Test22/7149
+#EXTINF:-1,Discovery Turbo Xtra
+http://62.182.80.87:8081/Test22/Test22/7150
+#EXTINF:-1,E!
+http://62.182.80.87:8081/Test22/Test22/7141
+#EXTINF:-1,Epic Drama
+http://62.182.80.87:8081/Test22/Test22/7159
+#EXTINF:-1,Fine Living
+http://62.182.80.87:8081/Test22/Test22/7156
+#EXTINF:-1,Fishing & Hunting
+http://62.182.80.87:8081/Test22/Test22/7157
+#EXTINF:-1,Food Network
+http://62.182.80.87:8081/Test22/Test22/7160
+#EXTINF:-1,Nat Geo Wild
+http://62.182.80.87:8081/Test22/Test22/7147
+#EXTINF:-1,National Geographic
+http://62.182.80.87:8081/Test22/Test22/7146
+#EXTINF:-1,TLC RO
+http://62.182.80.87:8081/Test22/Test22/7152
+#EXTINF:-1,Tv Paprika
+http://62.182.80.87:8081/Test22/Test22/7154
+#EXTINF:-1,Viasat Explore
+http://62.182.80.87:8081/Test22/Test22/7144
+#EXTINF:-1,Viasat History
+http://62.182.80.87:8081/Test22/Test22/7143
+#EXTINF:-1,Viasat Nature
+http://62.182.80.87:8081/Test22/Test22/7145
+#EXTINF:-1,==========RO Sport==========
+http://62.182.80.87:8081/Test22/Test22/7132
+#EXTINF:-1,DIGI Sport 1
+http://62.182.80.87:8081/Test22/Test22/7014
+#EXTINF:-1,Digi Sport 1 FHD
+http://62.182.80.87:8081/Test22/Test22/7015
+#EXTINF:-1,DIGI Sport 2
+http://62.182.80.87:8081/Test22/Test22/7016
+#EXTINF:-1,Digi Sport 2 FHD
+http://62.182.80.87:8081/Test22/Test22/7017
+#EXTINF:-1,DIGI Sport 3
+http://62.182.80.87:8081/Test22/Test22/7018
+#EXTINF:-1,Digi Sport 3 FHD
+http://62.182.80.87:8081/Test22/Test22/7019
+#EXTINF:-1,DIGI Sport 4
+http://62.182.80.87:8081/Test22/Test22/7020
+#EXTINF:-1,Digi Sport 4 FHD
+http://62.182.80.87:8081/Test22/Test22/7021
+#EXTINF:-1,EUROSPORT
+http://62.182.80.87:8081/Test22/Test22/7034
+#EXTINF:-1,Eurosport 1 FHD
+http://62.182.80.87:8081/Test22/Test22/7035
+#EXTINF:-1,Eurosport 2 FHD
+http://62.182.80.87:8081/Test22/Test22/7036
+#EXTINF:-1,Telekom 1 HD
+http://62.182.80.87:8081/Test22/Test22/7068
+#EXTINF:-1,Telekom 2 HD
+http://62.182.80.87:8081/Test22/Test22/7069
+#EXTINF:-1,Telekom 3 HD
+http://62.182.80.87:8081/Test22/Test22/7070
+#EXTINF:-1,Telekom 4 HD
+http://62.182.80.87:8081/Test22/Test22/7071
+#EXTINF:-1,Telekom Sport 1
+http://62.182.80.87:8081/Test22/Test22/7074
+#EXTINF:-1,Telekom Sport 2
+http://62.182.80.87:8081/Test22/Test22/7075
+#EXTINF:-1,Telekom Sport 3
+http://62.182.80.87:8081/Test22/Test22/7076
+#EXTINF:-1,Telekom Sport 4
+http://62.182.80.87:8081/Test22/Test22/7077
+#EXTINF:-1,Eurosport 1 Romania
+http://62.182.80.87:8081/Test22/Test22/7133
+#EXTINF:-1,Eurosport 2
+http://62.182.80.87:8081/Test22/Test22/7134
+#EXTINF:-1,Extreme Sports Channel
+http://62.182.80.87:8081/Test22/Test22/7138
+#EXTINF:-1,Look Plus
+http://62.182.80.87:8081/Test22/Test22/7137
+#EXTINF:-1,Look Sport 1
+http://62.182.80.87:8081/Test22/Test22/7136
+#EXTINF:-1,PRO-X
+http://62.182.80.87:8081/Test22/Test22/7135
+#EXTINF:-1,==========RO Filme==========
+http://62.182.80.87:8081/Test22/Test22/7108
+#EXTINF:-1,AMC
+http://62.182.80.87:8081/Test22/Test22/7121
+#EXTINF:-1,AXN Black
+http://62.182.80.87:8081/Test22/Test22/7118
+#EXTINF:-1,AXN Romania
+http://62.182.80.87:8081/Test22/Test22/7117
+#EXTINF:-1,Bollywood Clasic
+http://62.182.80.87:8081/Test22/Test22/7127
+#EXTINF:-1,Bollywood TV
+http://62.182.80.87:8081/Test22/Test22/7126
+#EXTINF:-1,Cinemax 2
+http://62.182.80.87:8081/Test22/Test22/7114
+#EXTINF:-1,Cinemax Ro
+http://62.182.80.87:8081/Test22/Test22/7113
+#EXTINF:-1,Comedy Central
+http://62.182.80.87:8081/Test22/Test22/7124
+#EXTINF:-1,ComedyEst
+http://62.182.80.87:8081/Test22/Test22/7125
+#EXTINF:-1,Diva Universal
+http://62.182.80.87:8081/Test22/Test22/7122
+#EXTINF:-1,Film Cafe
+http://62.182.80.87:8081/Test22/Test22/7116
+#EXTINF:-1,Film Now
+http://62.182.80.87:8081/Test22/Test22/7109
+#EXTINF:-1,Filmbox
+http://62.182.80.87:8081/Test22/Test22/7128
+#EXTINF:-1,FilmBox Family
+http://62.182.80.87:8081/Test22/Test22/7130
+#EXTINF:-1,FilmBox Plus
+http://62.182.80.87:8081/Test22/Test22/7131
+#EXTINF:-1,Filmbox Premium
+http://62.182.80.87:8081/Test22/Test22/7129
+#EXTINF:-1,HBO 2 RO
+http://62.182.80.87:8081/Test22/Test22/7111
+#EXTINF:-1,HBO 3 RO
+http://62.182.80.87:8081/Test22/Test22/7112
+#EXTINF:-1,HBO RO
+http://62.182.80.87:8081/Test22/Test22/7110
+#EXTINF:-1,Paramount Channel
+http://62.182.80.87:8081/Test22/Test22/7123
+#EXTINF:-1,TNT
+http://62.182.80.87:8081/Test22/Test22/7120
+#EXTINF:-1,TV1000
+http://62.182.80.87:8081/Test22/Test22/7115
+#EXTINF:-1,==========RO Stiri==========
+http://62.182.80.87:8081/Test22/Test22/7100
+#EXTINF:-1,Antena 3
+http://62.182.80.87:8081/Test22/Test22/7101
+#EXTINF:-1,B1 TV
+http://62.182.80.87:8081/Test22/Test22/7107
+#EXTINF:-1,National 24
+http://62.182.80.87:8081/Test22/Test22/7104
+#EXTINF:-1,Nasul TV
+http://62.182.80.87:8081/Test22/Test22/7106
+#EXTINF:-1,National Tv
+http://62.182.80.87:8081/Test22/Test22/7105
+#EXTINF:-1,Realitatea Plus
+http://62.182.80.87:8081/Test22/Test22/7102
+#EXTINF:-1,Romania Tv
+http://62.182.80.87:8081/Test22/Test22/7103
+#EXTINF:-1,==========RO Desene==========
+http://62.182.80.87:8081/Test22/Test22/7180
+#EXTINF:-1,Boomerang
+http://62.182.80.87:8081/Test22/Test22/7184
+#EXTINF:-1,Cartoon Network
+http://62.182.80.87:8081/Test22/Test22/7182
+#EXTINF:-1,Disney Channel
+http://62.182.80.87:8081/Test22/Test22/7181
+#EXTINF:-1,Duck Tv
+http://62.182.80.87:8081/Test22/Test22/7189
+#EXTINF:-1,JimJam
+http://62.182.80.87:8081/Test22/Test22/7188
+#EXTINF:-1,Minimax
+http://62.182.80.87:8081/Test22/Test22/7183
+#EXTINF:-1,Nick Jr.
+http://62.182.80.87:8081/Test22/Test22/7187
+#EXTINF:-1,Nickelodeon Ro
+http://62.182.80.87:8081/Test22/Test22/7185
+#EXTINF:-1,Nicktoons RO
+http://62.182.80.87:8081/Test22/Test22/7186
+#EXTINF:-1,==========RO Muzica==========
+http://62.182.80.87:8081/Test22/Test22/7161
+#EXTINF:-1,1 Music Channel
+http://62.182.80.87:8081/Test22/Test22/7178
+#EXTINF:-1,Etno
+http://62.182.80.87:8081/Test22/Test22/7162
+#EXTINF:-1,Favorit TV
+http://62.182.80.87:8081/Test22/Test22/7163
+#EXTINF:-1,Hit Music
+http://62.182.80.87:8081/Test22/Test22/7168
+#EXTINF:-1,Hora Tv
+http://62.182.80.87:8081/Test22/Test22/7166
+#EXTINF:-1,Kiss Tv
+http://62.182.80.87:8081/Test22/Test22/7170
+#EXTINF:-1,Mezzo
+http://62.182.80.87:8081/Test22/Test22/7179
+#EXTINF:-1,MTV Dance
+http://62.182.80.87:8081/Test22/Test22/7173
+#EXTINF:-1,MTV HITS
+http://62.182.80.87:8081/Test22/Test22/7174
+#EXTINF:-1,Taraf Tv
+http://62.182.80.87:8081/Test22/Test22/7164
+#EXTINF:-1,Travel MIX
+http://62.182.80.87:8081/Test22/Test22/7165
+#EXTINF:-1,TV5 Monde
+http://62.182.80.87:8081/Test22/Test22/7171
+#EXTINF:-1,UTV
+http://62.182.80.87:8081/Test22/Test22/7169
+#EXTINF:-1,VH 1
+http://62.182.80.87:8081/Test22/Test22/7176
+#EXTINF:-1,VH 1 Classic
+http://62.182.80.87:8081/Test22/Test22/7177
+#EXTINF:-1,ZU TV
+http://62.182.80.87:8081/Test22/Test22/7167
+#EXTINF:-1,==========RO Religie==========
+http://62.182.80.87:8081/Test22/Test22/7190
+#EXTINF:-1,Alfa & Omega
+http://62.182.80.87:8081/Test22/Test22/7193
+#EXTINF:-1,Credo Tv
+http://62.182.80.87:8081/Test22/Test22/7192
+#EXTINF:-1,Medika RO
+http://62.182.80.87:8081/Test22/Test22/7196
+#EXTINF:-1,Profit TV
+http://62.182.80.87:8081/Test22/Test22/7195
+#EXTINF:-1,Speranta Tv
+http://62.182.80.87:8081/Test22/Test22/7194
+#EXTINF:-1,Trinitas
+http://62.182.80.87:8081/Test22/Test22/7191
+#EXTINF:-1,==========Regional==========
+http://62.182.80.87:8081/Test22/Test22/7197
+#EXTINF:-1,6 TV
+http://62.182.80.87:8081/Test22/Test22/7205
+#EXTINF:-1,Bucovina Tv
+http://62.182.80.87:8081/Test22/Test22/7208
+#EXTINF:-1,Bucuresti Tv
+http://62.182.80.87:8081/Test22/Test22/7222
+#EXTINF:-1,Canal 33
+http://62.182.80.87:8081/Test22/Test22/7215
+#EXTINF:-1,National Cluj
+http://62.182.80.87:8081/Test22/Test22/7198
+#EXTINF:-1,ProTv News
+http://62.182.80.87:8081/Test22/Test22/7212
+#EXTINF:-1,Sangeorz Tv
+http://62.182.80.87:8081/Test22/Test22/7221
+#EXTINF:-1,Travel Mix
+http://62.182.80.87:8081/Test22/Test22/7202
+#EXTINF:-1,Jak pokochałam gangstera (2022)
+http://62.182.80.87:8081/movie/Test22/Test22/33205.mkv
+#EXTINF:-1,======= POLAND =======
+http://62.182.80.87:8081/Test22/Test22/8168
+#EXTINF:-1,PL: TVP HD
+http://62.182.80.87:8081/Test22/Test22/7266
+#EXTINF:-1,PL: TVP 1 HD
+http://62.182.80.87:8081/Test22/Test22/7271
+#EXTINF:-1,PL: TVP 1
+http://62.182.80.87:8081/Test22/Test22/7272
+#EXTINF:-1,PL: TVP 2 HD
+http://62.182.80.87:8081/Test22/Test22/7269
+#EXTINF:-1,PL: TVP 2
+http://62.182.80.87:8081/Test22/Test22/7270
+#EXTINF:-1,PL: TVP 3
+http://62.182.80.87:8081/Test22/Test22/7268
+#EXTINF:-1,PL: TVP ABC
+http://62.182.80.87:8081/Test22/Test22/7267
+#EXTINF:-1,PL: TVP Historia
+http://62.182.80.87:8081/Test22/Test22/7265
+#EXTINF:-1,PL: TVP INFO HD
+http://62.182.80.87:8081/Test22/Test22/7264
+#EXTINF:-1,PL: TVP Kultura
+http://62.182.80.87:8081/Test22/Test22/7263
+#EXTINF:-1,PL: TVP POLONIA 1
+http://62.182.80.87:8081/Test22/Test22/7262
+#EXTINF:-1,PL: TVP Rozrywka
+http://62.182.80.87:8081/Test22/Test22/7261
+#EXTINF:-1,PL: TVP Seriale
+http://62.182.80.87:8081/Test22/Test22/7260
+#EXTINF:-1,PL: TVN HD
+http://62.182.80.87:8081/Test22/Test22/7277
+#EXTINF:-1,PL: TV Republika
+http://62.182.80.87:8081/Test22/Test22/7282
+#EXTINF:-1,PL: TV4
+http://62.182.80.87:8081/Test22/Test22/7281
+#EXTINF:-1,PL: TV6
+http://62.182.80.87:8081/Test22/Test22/7280
+#EXTINF:-1,PL: TVN 7 HD
+http://62.182.80.87:8081/Test22/Test22/7279
+#EXTINF:-1,PL: TVN Fabula HD
+http://62.182.80.87:8081/Test22/Test22/7278
+#EXTINF:-1,PL: TVN Style HD
+http://62.182.80.87:8081/Test22/Test22/7276
+#EXTINF:-1,PL: TVN Turbo HD
+http://62.182.80.87:8081/Test22/Test22/7275
+#EXTINF:-1,PL: TVN24 BiS HD
+http://62.182.80.87:8081/Test22/Test22/7274
+#EXTINF:-1,PL: TVN24 HD
+http://62.182.80.87:8081/Test22/Test22/7273
+#EXTINF:-1,PL: Puls 2
+http://62.182.80.87:8081/Test22/Test22/7300
+#EXTINF:-1,PL: PULS HD
+http://62.182.80.87:8081/Test22/Test22/7299
+#EXTINF:-1,PL: Romance TV
+http://62.182.80.87:8081/Test22/Test22/7298
+#EXTINF:-1,PL: Ale Kino+ HD
+http://62.182.80.87:8081/Test22/Test22/7439
+#EXTINF:-1,PL: AMC
+http://62.182.80.87:8081/Test22/Test22/7438
+#EXTINF:-1,PL: TVP Rozrywka
+http://62.182.80.87:8081/Test22/Test22/7436
+#EXTINF:-1,PL: AXN
+http://62.182.80.87:8081/Test22/Test22/7435
+#EXTINF:-1,PL: AXN Black
+http://62.182.80.87:8081/Test22/Test22/7434
+#EXTINF:-1,PL: AXN HD
+http://62.182.80.87:8081/Test22/Test22/7433
+#EXTINF:-1,PL: AXN SPIN HD
+http://62.182.80.87:8081/Test22/Test22/7432
+#EXTINF:-1,PL: AXN White
+http://62.182.80.87:8081/Test22/Test22/7431
+#EXTINF:-1,PL: CANAL+ 1 HD
+http://62.182.80.87:8081/Test22/Test22/7423
+#EXTINF:-1,PL: CANAL+ DOKUMENT HD
+http://62.182.80.87:8081/Test22/Test22/7421
+#EXTINF:-1,PL: CANAL+ FAMILY HD
+http://62.182.80.87:8081/Test22/Test22/7420
+#EXTINF:-1,PL: CANAL+ FILM HD
+http://62.182.80.87:8081/Test22/Test22/7419
+#EXTINF:-1,PL: Canal+1 HD
+http://62.182.80.87:8081/Test22/Test22/7418
+#EXTINF:-1,PL: CANAL+ SERIALE HD
+http://62.182.80.87:8081/Test22/Test22/7417
+#EXTINF:-1,PL: CBS Europa HD
+http://62.182.80.87:8081/Test22/Test22/7411
+#EXTINF:-1,PL: CBS Reality
+http://62.182.80.87:8081/Test22/Test22/7410
+#EXTINF:-1,PL: Da Vinci Learning
+http://62.182.80.87:8081/Test22/Test22/7403
+#EXTINF:-1,PL: TNT HD
+http://62.182.80.87:8081/Test22/Test22/7286
+#EXTINF:-1,PL: Travel Channel HD
+http://62.182.80.87:8081/Test22/Test22/7284
+#EXTINF:-1,PL: TTV HD
+http://62.182.80.87:8081/Test22/Test22/7283
+#EXTINF:-1,PL: Disco Polo Music
+http://62.182.80.87:8081/Test22/Test22/7402
+#EXTINF:-1,PL: Discovery
+http://62.182.80.87:8081/Test22/Test22/7401
+#EXTINF:-1,PL: Discovery Channel HD
+http://62.182.80.87:8081/Test22/Test22/7400
+#EXTINF:-1,PL: Discovery HD
+http://62.182.80.87:8081/Test22/Test22/7399
+#EXTINF:-1,PL: Discovery Historia
+http://62.182.80.87:8081/Test22/Test22/7398
+#EXTINF:-1,PL: Discovery Life HD
+http://62.182.80.87:8081/Test22/Test22/7397
+#EXTINF:-1,PL: Discovery Science HD
+http://62.182.80.87:8081/Test22/Test22/7396
+#EXTINF:-1,PL: Disney Channel HD
+http://62.182.80.87:8081/Test22/Test22/7395
+#EXTINF:-1,PL: Disney Junior
+http://62.182.80.87:8081/Test22/Test22/7394
+#EXTINF:-1,PL: Disney XD
+http://62.182.80.87:8081/Test22/Test22/7393
+#EXTINF:-1,PL: Baby Tv
+http://62.182.80.87:8081/Test22/Test22/7430
+#EXTINF:-1,PL: Boomerang
+http://62.182.80.87:8081/Test22/Test22/7424
+#EXTINF:-1,PL: Cartoon Network HD
+http://62.182.80.87:8081/Test22/Test22/7412
+#EXTINF:-1,PL: MiniMini HD
+http://62.182.80.87:8081/Test22/Test22/7350
+#EXTINF:-1,PL: Nick Jr Polska
+http://62.182.80.87:8081/Test22/Test22/7340
+#EXTINF:-1,PL: Nickelodeon
+http://62.182.80.87:8081/Test22/Test22/7339
+#EXTINF:-1,PL: Nicktoons HD
+http://62.182.80.87:8081/Test22/Test22/7338
+#EXTINF:-1,PL: DOMO+ HD
+http://62.182.80.87:8081/Test22/Test22/7392
+#EXTINF:-1,PL: DTX
+http://62.182.80.87:8081/Test22/Test22/7391
+#EXTINF:-1,PL: E! Entertainment
+http://62.182.80.87:8081/Test22/Test22/7390
+#EXTINF:-1,PL: Epic Drama HD
+http://62.182.80.87:8081/Test22/Test22/7385
+#EXTINF:-1,PL: ESKA ROCK TV
+http://62.182.80.87:8081/Test22/Test22/7384
+#EXTINF:-1,PL: Eska TV
+http://62.182.80.87:8081/Test22/Test22/7383
+#EXTINF:-1,PL: ESKA TV Extra
+http://62.182.80.87:8081/Test22/Test22/7382
+#EXTINF:-1,PL: FOKUS TV
+http://62.182.80.87:8081/Test22/Test22/7370
+#EXTINF:-1,PL: Food Network HD
+http://62.182.80.87:8081/Test22/Test22/7369
+#EXTINF:-1,PL: Golf Channel HD
+http://62.182.80.87:8081/Test22/Test22/7365
+#EXTINF:-1,PL: H2 HD
+http://62.182.80.87:8081/Test22/Test22/7364
+#EXTINF:-1,PL: HGTV HD
+http://62.182.80.87:8081/Test22/Test22/7360
+#EXTINF:-1,PL: 13 Ulica HD
+http://62.182.80.87:8081/Test22/Test22/7445
+#EXTINF:-1,PL: 4Fun Dance
+http://62.182.80.87:8081/Test22/Test22/7444
+#EXTINF:-1,PL: 4Fun Gold Hits
+http://62.182.80.87:8081/Test22/Test22/7443
+#EXTINF:-1,PL: 4Fun.TV
+http://62.182.80.87:8081/Test22/Test22/7442
+#EXTINF:-1,PL: Active Family
+http://62.182.80.87:8081/Test22/Test22/7441
+#EXTINF:-1,PL: ADVENTURE HD
+http://62.182.80.87:8081/Test22/Test22/7440
+#EXTINF:-1,PL: Cinemax HD
+http://62.182.80.87:8081/Test22/Test22/7408
+#EXTINF:-1,PL: Cinemax 2 HD
+http://62.182.80.87:8081/Test22/Test22/7409
+#EXTINF:-1,PL: Comedy Central
+http://62.182.80.87:8081/Test22/Test22/7407
+#EXTINF:-1,PL: Comedy Central Family
+http://62.182.80.87:8081/Test22/Test22/7406
+#EXTINF:-1,PL: Comedy Central Poland HD
+http://62.182.80.87:8081/Test22/Test22/7405
+#EXTINF:-1,PL: Crime and Investigation hd
+http://62.182.80.87:8081/Test22/Test22/7404
+#EXTINF:-1,PL: Filmbox Action
+http://62.182.80.87:8081/Test22/Test22/7375
+#EXTINF:-1,PL: Filmbox Arthouse
+http://62.182.80.87:8081/Test22/Test22/7374
+#EXTINF:-1,PL: FILMBOX EXTRA HD
+http://62.182.80.87:8081/Test22/Test22/7373
+#EXTINF:-1,PL: Filmbox Family
+http://62.182.80.87:8081/Test22/Test22/7372
+#EXTINF:-1,PL: Filmbox Premium
+http://62.182.80.87:8081/Test22/Test22/7371
+#EXTINF:-1,PL: HBO HD
+http://62.182.80.87:8081/Test22/Test22/7361
+#EXTINF:-1,PL: HBO 2 HD
+http://62.182.80.87:8081/Test22/Test22/7363
+#EXTINF:-1,PL: HBO 3 HD
+http://62.182.80.87:8081/Test22/Test22/7362
+#EXTINF:-1,PL: FOX HD
+http://62.182.80.87:8081/Test22/Test22/7366
+#EXTINF:-1,PL: Fox Comedy
+http://62.182.80.87:8081/Test22/Test22/7368
+#EXTINF:-1,PL: Fox Comedy HD
+http://62.182.80.87:8081/Test22/Test22/7367
+#EXTINF:-1,PL: Animal Planet HD
+http://62.182.80.87:8081/Test22/Test22/7437
+#EXTINF:-1,PL: BBC BRIT
+http://62.182.80.87:8081/Test22/Test22/7429
+#EXTINF:-1,PL: BBC CBeebies
+http://62.182.80.87:8081/Test22/Test22/7428
+#EXTINF:-1,PL: BBC Earth HD
+http://62.182.80.87:8081/Test22/Test22/7427
+#EXTINF:-1,PL: BBC FIRST HD
+http://62.182.80.87:8081/Test22/Test22/7426
+#EXTINF:-1,PL: BBC LIFESTYLE HD
+http://62.182.80.87:8081/Test22/Test22/7425
+#EXTINF:-1,PL: History
+http://62.182.80.87:8081/Test22/Test22/7359
+#EXTINF:-1,PL: History HD
+http://62.182.80.87:8081/Test22/Test22/7358
+#EXTINF:-1,PL: ID HD
+http://62.182.80.87:8081/Test22/Test22/7357
+#EXTINF:-1,PL: KINO POLSKA
+http://62.182.80.87:8081/Test22/Test22/7356
+#EXTINF:-1,PL: Kino Polska Muzyka
+http://62.182.80.87:8081/Test22/Test22/7355
+#EXTINF:-1,PL: Kino Tv
+http://62.182.80.87:8081/Test22/Test22/7354
+#EXTINF:-1,PL: Kuchnia+ HD
+http://62.182.80.87:8081/Test22/Test22/7353
+#EXTINF:-1,PL: Lifetime HD
+http://62.182.80.87:8081/Test22/Test22/7352
+#EXTINF:-1,PL: MTV Live HD
+http://62.182.80.87:8081/Test22/Test22/7348
+#EXTINF:-1,PL: MTV MUSIC
+http://62.182.80.87:8081/Test22/Test22/7347
+#EXTINF:-1,PL: MTV POLSKA
+http://62.182.80.87:8081/Test22/Test22/7346
+#EXTINF:-1,PL: MTV Polska HD
+http://62.182.80.87:8081/Test22/Test22/7345
+#EXTINF:-1,PL: MTV ROCKS
+http://62.182.80.87:8081/Test22/Test22/7344
+#EXTINF:-1,PL: Nat Geo People HD
+http://62.182.80.87:8081/Test22/Test22/7343
+#EXTINF:-1,PL: Nat Geo Wild HD
+http://62.182.80.87:8081/Test22/Test22/7342
+#EXTINF:-1,PL: NATIONAL GEOGRAPHIC HD
+http://62.182.80.87:8081/Test22/Test22/7341
+#EXTINF:-1,PL: Novela Tv
+http://62.182.80.87:8081/Test22/Test22/7337
+#EXTINF:-1,PL: NOWA TV
+http://62.182.80.87:8081/Test22/Test22/7336
+#EXTINF:-1,PL: Nuta TV
+http://62.182.80.87:8081/Test22/Test22/7334
+#EXTINF:-1,PL: Paramount Channel HD
+http://62.182.80.87:8081/Test22/Test22/7333
+#EXTINF:-1,PL: Planete+ HD
+http://62.182.80.87:8081/Test22/Test22/7332
+#EXTINF:-1,PL: Zoom TV
+http://62.182.80.87:8081/Test22/Test22/7249
+#EXTINF:-1,PL: Polo TV
+http://62.182.80.87:8081/Test22/Test22/7331
+#EXTINF:-1,PL: Polonia
+http://62.182.80.87:8081/Test22/Test22/7330
+#EXTINF:-1,PL: Polsat HD
+http://62.182.80.87:8081/Test22/Test22/7324
+#EXTINF:-1,PL: Polsat 2 HD
+http://62.182.80.87:8081/Test22/Test22/7329
+#EXTINF:-1,PL: Polsat Cafe HD
+http://62.182.80.87:8081/Test22/Test22/7328
+#EXTINF:-1,PL: Polsat Doku HD
+http://62.182.80.87:8081/Test22/Test22/7327
+#EXTINF:-1,PL: Polsat Film HD
+http://62.182.80.87:8081/Test22/Test22/7326
+#EXTINF:-1,PL: Polsat Games HD
+http://62.182.80.87:8081/Test22/Test22/7325
+#EXTINF:-1,PL: Polsat Jim Jam
+http://62.182.80.87:8081/Test22/Test22/7323
+#EXTINF:-1,PL: Polsat Music HD
+http://62.182.80.87:8081/Test22/Test22/7322
+#EXTINF:-1,PL: Polsat News 2
+http://62.182.80.87:8081/Test22/Test22/7321
+#EXTINF:-1,PL: Polsat News HD
+http://62.182.80.87:8081/Test22/Test22/7320
+#EXTINF:-1,PL: Polsat Play HD
+http://62.182.80.87:8081/Test22/Test22/7319
+#EXTINF:-1,PL: Polsat Rodzina
+http://62.182.80.87:8081/Test22/Test22/7318
+#EXTINF:-1,PL: Red Carpet TV
+http://62.182.80.87:8081/Test22/Test22/7317
+#EXTINF:-1,PL: Polsat Sport Premium 1 FHD
+http://62.182.80.87:8081/Test22/Test22/7312
+#EXTINF:-1,PL: Polsat Sport Premium 1 SD
+http://62.182.80.87:8081/Test22/Test22/7311
+#EXTINF:-1,PL: Polsat Sport Premium 2 FHD
+http://62.182.80.87:8081/Test22/Test22/7310
+#EXTINF:-1,PL: Polsat Sport Premium 3
+http://62.182.80.87:8081/Test22/Test22/7309
+#EXTINF:-1,PL: Polsat Sport Premium 4
+http://62.182.80.87:8081/Test22/Test22/7308
+#EXTINF:-1,PL: Polsat Sport Premium 5
+http://62.182.80.87:8081/Test22/Test22/7307
+#EXTINF:-1,PL: Polsat Sport Premium 6
+http://62.182.80.87:8081/Test22/Test22/7306
+#EXTINF:-1,PL: Polsat Viasat Explore HD
+http://62.182.80.87:8081/Test22/Test22/7305
+#EXTINF:-1,PL: Polsat Viasat History HD
+http://62.182.80.87:8081/Test22/Test22/7304
+#EXTINF:-1,PL: Polsat Viasat Nature
+http://62.182.80.87:8081/Test22/Test22/7303
+#EXTINF:-1,PL: Power TV
+http://62.182.80.87:8081/Test22/Test22/7302
+#EXTINF:-1,PL: SciFi Universal HD
+http://62.182.80.87:8081/Test22/Test22/7297
+#EXTINF:-1,PL: Sportklub HD
+http://62.182.80.87:8081/Test22/Test22/7296
+#EXTINF:-1,PL: STARS.TV
+http://62.182.80.87:8081/Test22/Test22/7295
+#EXTINF:-1,PL: Stopklatka TV
+http://62.182.80.87:8081/Test22/Test22/7294
+#EXTINF:-1,PL: StudioMed TV HD
+http://62.182.80.87:8081/Test22/Test22/7293
+#EXTINF:-1,PL: Sundance Tv
+http://62.182.80.87:8081/Test22/Test22/7292
+#EXTINF:-1,PL: Super Polsat
+http://62.182.80.87:8081/Test22/Test22/7291
+#EXTINF:-1,PL: Tele 5
+http://62.182.80.87:8081/Test22/Test22/7290
+#EXTINF:-1,PL: TeleToon+ HD
+http://62.182.80.87:8081/Test22/Test22/7289
+#EXTINF:-1,PL: TLC
+http://62.182.80.87:8081/Test22/Test22/7288
+#EXTINF:-1,PL: TLC HD
+http://62.182.80.87:8081/Test22/Test22/7287
+#EXTINF:-1,PL: TVS
+http://62.182.80.87:8081/Test22/Test22/7258
+#EXTINF:-1,PL: VH1
+http://62.182.80.87:8081/Test22/Test22/7257
+#EXTINF:-1,PL: VOD 205
+http://62.182.80.87:8081/Test22/Test22/7256
+#EXTINF:-1,PL: VOD 206
+http://62.182.80.87:8081/Test22/Test22/7255
+#EXTINF:-1,PL: VOD 207
+http://62.182.80.87:8081/Test22/Test22/7254
+#EXTINF:-1,PL: VOD 208
+http://62.182.80.87:8081/Test22/Test22/7253
+#EXTINF:-1,PL: VOX MUSIC TV
+http://62.182.80.87:8081/Test22/Test22/7252
+#EXTINF:-1,PL: Water Planet
+http://62.182.80.87:8081/Test22/Test22/7251
+#EXTINF:-1,PL: WP
+http://62.182.80.87:8081/Test22/Test22/7250
+#EXTINF:-1,PL: CANAL+ SPORT HD
+http://62.182.80.87:8081/Test22/Test22/7413
+#EXTINF:-1,PL: CANAL+ SPORT 2 HD
+http://62.182.80.87:8081/Test22/Test22/7416
+#EXTINF:-1,PL: CANAL+ SPORT 3 HD
+http://62.182.80.87:8081/Test22/Test22/7415
+#EXTINF:-1,PL: CANAL+ SPORT 4 HD
+http://62.182.80.87:8081/Test22/Test22/7414
+#EXTINF:-1,PL: Eleven Sports 1 HD
+http://62.182.80.87:8081/Test22/Test22/7389
+#EXTINF:-1,PL: Eleven Sports 2 HD
+http://62.182.80.87:8081/Test22/Test22/7388
+#EXTINF:-1,PL: Eleven Sports 3 HD
+http://62.182.80.87:8081/Test22/Test22/7387
+#EXTINF:-1,PL: Eleven Sports 4 HD
+http://62.182.80.87:8081/Test22/Test22/7386
+#EXTINF:-1,PL: Eurosport 1
+http://62.182.80.87:8081/Test22/Test22/7381
+#EXTINF:-1,PL: Eurosport 1 HD
+http://62.182.80.87:8081/Test22/Test22/7380
+#EXTINF:-1,PL: Eurosport 2 HD
+http://62.182.80.87:8081/Test22/Test22/7379
+#EXTINF:-1,PL: Extreme Sports HD
+http://62.182.80.87:8081/Test22/Test22/7378
+#EXTINF:-1,PL: Fightbox HD
+http://62.182.80.87:8081/Test22/Test22/7377
+#EXTINF:-1,PL: Fightklub HD
+http://62.182.80.87:8081/Test22/Test22/7376
+#EXTINF:-1,PL: MOTOWIZJA
+http://62.182.80.87:8081/Test22/Test22/7349
+#EXTINF:-1,PL: nsport+ HD
+http://62.182.80.87:8081/Test22/Test22/7335
+#EXTINF:-1,PL: Polsat Sport Extra HD
+http://62.182.80.87:8081/Test22/Test22/7316
+#EXTINF:-1,PL: Polsat Sport Fight HD
+http://62.182.80.87:8081/Test22/Test22/7315
+#EXTINF:-1,PL: Polsat Sport HD
+http://62.182.80.87:8081/Test22/Test22/7314
+#EXTINF:-1,PL: Polsat Sport News HD
+http://62.182.80.87:8081/Test22/Test22/7313
+#EXTINF:-1,PL: TVP Sport HD
+http://62.182.80.87:8081/Test22/Test22/7259
+#EXTINF:-1,======= HOLLAND =======
+http://62.182.80.87:8081/Test22/Test22/8166
+#EXTINF:-1,NPO 1 HD
+http://62.182.80.87:8081/Test22/Test22/7720
+#EXTINF:-1,NPO 2 HD
+http://62.182.80.87:8081/Test22/Test22/7719
+#EXTINF:-1,NPO 3 HD
+http://62.182.80.87:8081/Test22/Test22/7670
+#EXTINF:-1,RTL 4 HD
+http://62.182.80.87:8081/Test22/Test22/7664
+#EXTINF:-1,RTL 5 HD
+http://62.182.80.87:8081/Test22/Test22/7663
+#EXTINF:-1,RTL 7 HD
+http://62.182.80.87:8081/Test22/Test22/7718
+#EXTINF:-1,RTL 8 HD
+http://62.182.80.87:8081/Test22/Test22/7717
+#EXTINF:-1,SBS 9 HD
+http://62.182.80.87:8081/Test22/Test22/7659
+#EXTINF:-1,NET 5 HD
+http://62.182.80.87:8081/Test22/Test22/7675
+#EXTINF:-1,AT 5 HD
+http://62.182.80.87:8081/Test22/Test22/7700
+#EXTINF:-1,SBS 6 HD
+http://62.182.80.87:8081/Test22/Test22/7704
+#EXTINF:-1,NPO POLITIEK HD
+http://62.182.80.87:8081/Test22/Test22/7669
+#EXTINF:-1,NPO ZAPP XTRA HD
+http://62.182.80.87:8081/Test22/Test22/7668
+#EXTINF:-1,OMROEP BRABANT TELEVISIE HD
+http://62.182.80.87:8081/Test22/Test22/7667
+#EXTINF:-1,ONS HD
+http://62.182.80.87:8081/Test22/Test22/7666
+#EXTINF:-1,PEBBLE TV HD
+http://62.182.80.87:8081/Test22/Test22/7665
+#EXTINF:-1,RTL CRIME HD
+http://62.182.80.87:8081/Test22/Test22/7662
+#EXTINF:-1,RTL TELEKIDS HD
+http://62.182.80.87:8081/Test22/Test22/7661
+#EXTINF:-1,RTL Z HD
+http://62.182.80.87:8081/Test22/Test22/7660
+#EXTINF:-1,TLC HD
+http://62.182.80.87:8081/Test22/Test22/7658
+#EXTINF:-1,TV NOORD HD
+http://62.182.80.87:8081/Test22/Test22/7657
+#EXTINF:-1,TV ORANJE HD
+http://62.182.80.87:8081/Test22/Test22/7656
+#EXTINF:-1,TV DRENTHE HD
+http://62.182.80.87:8081/Test22/Test22/7728
+#EXTINF:-1,MTV HD
+http://62.182.80.87:8081/Test22/Test22/7727
+#EXTINF:-1,MEZZO HD
+http://62.182.80.87:8081/Test22/Test22/7726
+#EXTINF:-1,XITE HD
+http://62.182.80.87:8081/Test22/Test22/7725
+#EXTINF:-1,VICELAND HD
+http://62.182.80.87:8081/Test22/Test22/7724
+#EXTINF:-1,FILM 1 ACTION HD
+http://62.182.80.87:8081/Test22/Test22/7710
+#EXTINF:-1,FILM EUROPE HD
+http://62.182.80.87:8081/Test22/Test22/7709
+#EXTINF:-1,24 KITCHEN HD
+http://62.182.80.87:8081/Test22/Test22/7703
+#EXTINF:-1,192 TV HD
+http://62.182.80.87:8081/Test22/Test22/7702
+#EXTINF:-1,ANIMAL PLANET HD
+http://62.182.80.87:8081/Test22/Test22/7701
+#EXTINF:-1,COMEDY CENTRAL  HD
+http://62.182.80.87:8081/Test22/Test22/7695
+#EXTINF:-1,COMEDY CENTRAL EXTRA HD
+http://62.182.80.87:8081/Test22/Test22/7694
+#EXTINF:-1,CRIME INVESTIGATION HD
+http://62.182.80.87:8081/Test22/Test22/7693
+#EXTINF:-1,Discovery HD
+http://62.182.80.87:8081/Test22/Test22/7692
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+http://62.182.80.87:8081/Test22/Test22/7691
+#EXTINF:-1,FILM 1 DRAMA HD
+http://62.182.80.87:8081/Test22/Test22/7686
+#EXTINF:-1,FILM 1 FAMILY HD
+http://62.182.80.87:8081/Test22/Test22/7685
+#EXTINF:-1,FOX HD
+http://62.182.80.87:8081/Test22/Test22/7684
+#EXTINF:-1,HISTORY HD
+http://62.182.80.87:8081/Test22/Test22/7682
+#EXTINF:-1,HISTORY DUT HD
+http://62.182.80.87:8081/Test22/Test22/7681
+#EXTINF:-1,INVESTIGATION DISCOVERY  HD
+http://62.182.80.87:8081/Test22/Test22/7680
+#EXTINF:-1,NATIONAL GEO WILD HD
+http://62.182.80.87:8081/Test22/Test22/7678
+#EXTINF:-1,NATIONAL GEO WILD DUT HD
+http://62.182.80.87:8081/Test22/Test22/7677
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://62.182.80.87:8081/Test22/Test22/7676
+#EXTINF:-1,NICK MUSIC HD
+http://62.182.80.87:8081/Test22/Test22/7674
+#EXTINF:-1,JIMJAM HD
+http://62.182.80.87:8081/Test22/Test22/7679
+#EXTINF:-1,Baby TV HD
+http://62.182.80.87:8081/Test22/Test22/7699
+#EXTINF:-1,BOOMERANG HD
+http://62.182.80.87:8081/Test22/Test22/7698
+#EXTINF:-1,Cartoon Network HD
+http://62.182.80.87:8081/Test22/Test22/7697
+#EXTINF:-1,CARTOON NETWORK HD
+http://62.182.80.87:8081/Test22/Test22/7696
+#EXTINF:-1,DISNEY CHANNEL HD
+http://62.182.80.87:8081/Test22/Test22/7690
+#EXTINF:-1,DISNEY JUNIOR HD
+http://62.182.80.87:8081/Test22/Test22/7689
+#EXTINF:-1,NICK JR HD
+http://62.182.80.87:8081/Test22/Test22/7673
+#EXTINF:-1,NICK TOONS HD
+http://62.182.80.87:8081/Test22/Test22/7672
+#EXTINF:-1,VERONICA / DISNEY XD HD
+http://62.182.80.87:8081/Test22/Test22/7655
+#EXTINF:-1,NICKELODEON HD
+http://62.182.80.87:8081/Test22/Test22/7671
+#EXTINF:-1,ZIGGO SPORT HD
+http://62.182.80.87:8081/Test22/Test22/7723
+#EXTINF:-1,EXTREME SPORTS HD
+http://62.182.80.87:8081/Test22/Test22/7722
+#EXTINF:-1,FILM 1 PREMIER HD
+http://62.182.80.87:8081/Test22/Test22/7721
+#EXTINF:-1,RTL LOUNGE HD
+http://62.182.80.87:8081/Test22/Test22/7716
+#EXTINF:-1,FOX SPORTS 1 EREDIVISIE HD
+http://62.182.80.87:8081/Test22/Test22/7715
+#EXTINF:-1,FOX SPORTS 2 INTERNATIONAL HD
+http://62.182.80.87:8081/Test22/Test22/7714
+#EXTINF:-1,FOX SPORTS 3 EREDIVISIE HD
+http://62.182.80.87:8081/Test22/Test22/7683
+#EXTINF:-1,FOX SPORTS 4 INTERNATIONAL HD
+http://62.182.80.87:8081/Test22/Test22/7713
+#EXTINF:-1,FOX SPORTS 5  EREDIVISIE HD
+http://62.182.80.87:8081/Test22/Test22/7712
+#EXTINF:-1,FOX SPORTS 6 INTERNATIONAL HD
+http://62.182.80.87:8081/Test22/Test22/7711
+#EXTINF:-1,ZIGGO SPORT VOETBAL HD
+http://62.182.80.87:8081/Test22/Test22/7708
+#EXTINF:-1,ZIGGO SPORT SELECT HD
+http://62.182.80.87:8081/Test22/Test22/7707
+#EXTINF:-1,ZIGGO SPORT GOLF HD
+http://62.182.80.87:8081/Test22/Test22/7706
+#EXTINF:-1,ZIGGO SPORT RACING HD
+http://62.182.80.87:8081/Test22/Test22/7705
+#EXTINF:-1,EUROSPORT 1 HD
+http://62.182.80.87:8081/Test22/Test22/7688
+#EXTINF:-1,EUROSPORT 2 HD
+http://62.182.80.87:8081/Test22/Test22/7687
+#EXTINF:-1,NPO 1 FHD
+http://62.182.80.87:8081/Test22/Test22/7729
+#EXTINF:-1,NPO 2 FHD
+http://62.182.80.87:8081/Test22/Test22/7730
+#EXTINF:-1,NPO 3 FHD
+http://62.182.80.87:8081/Test22/Test22/7731
+#EXTINF:-1,NET 5 FHD
+http://62.182.80.87:8081/Test22/Test22/7740
+#EXTINF:-1,SBS 6 FHD
+http://62.182.80.87:8081/Test22/Test22/7739
+#EXTINF:-1,SBS 9 FHD
+http://62.182.80.87:8081/Test22/Test22/7738
+#EXTINF:-1,RTL 4 FHD
+http://62.182.80.87:8081/Test22/Test22/7732
+#EXTINF:-1,RTL 5 FHD
+http://62.182.80.87:8081/Test22/Test22/7733
+#EXTINF:-1,RTL 7 FHD
+http://62.182.80.87:8081/Test22/Test22/7734
+#EXTINF:-1,RTL 8 FHD
+http://62.182.80.87:8081/Test22/Test22/7735
+#EXTINF:-1,RTL Z FHD
+http://62.182.80.87:8081/Test22/Test22/7737
+#EXTINF:-1,RTL LOUNGE FHD
+http://62.182.80.87:8081/Test22/Test22/7736
+#EXTINF:-1,ONS FHD
+http://62.182.80.87:8081/Test22/Test22/7741
+#EXTINF:-1,NPO ZAPP XTRA FHD
+http://62.182.80.87:8081/Test22/Test22/7801
+#EXTINF:-1,NPO POLITIEK FHD
+http://62.182.80.87:8081/Test22/Test22/7800
+#EXTINF:-1,TV ORANJE FHD
+http://62.182.80.87:8081/Test22/Test22/7799
+#EXTINF:-1,192 TV FHD
+http://62.182.80.87:8081/Test22/Test22/7798
+#EXTINF:-1,TV DRENTHE FHD
+http://62.182.80.87:8081/Test22/Test22/7797
+#EXTINF:-1,MTV FHD
+http://62.182.80.87:8081/Test22/Test22/7796
+#EXTINF:-1,MEZZO FHD
+http://62.182.80.87:8081/Test22/Test22/7795
+#EXTINF:-1,VICELAND FHD
+http://62.182.80.87:8081/Test22/Test22/7794
+#EXTINF:-1,OMROEP BRABANT TELEVISIE FHD
+http://62.182.80.87:8081/Test22/Test22/7793
+#EXTINF:-1,TV NOORD FHD
+http://62.182.80.87:8081/Test22/Test22/7792
+#EXTINF:-1,AT 5 FHD
+http://62.182.80.87:8081/Test22/Test22/7791
+#EXTINF:-1,XITE FHD
+http://62.182.80.87:8081/Test22/Test22/7789
+#EXTINF:-1,TLC FHD
+http://62.182.80.87:8081/Test22/Test22/7788
+#EXTINF:-1,24 KITCHEN FHD
+http://62.182.80.87:8081/Test22/Test22/7790
+#EXTINF:-1,FILM EUROPE FHD
+http://62.182.80.87:8081/Test22/Test22/7746
+#EXTINF:-1,FILM 1 FAMILY FHD
+http://62.182.80.87:8081/Test22/Test22/7745
+#EXTINF:-1,FILM 1 ACTION FHD
+http://62.182.80.87:8081/Test22/Test22/7744
+#EXTINF:-1,FILM 1 DRAMA FHD
+http://62.182.80.87:8081/Test22/Test22/7743
+#EXTINF:-1,FILM 1 PREMIER FHD
+http://62.182.80.87:8081/Test22/Test22/7742
+#EXTINF:-1,FOX FHD
+http://62.182.80.87:8081/Test22/Test22/7749
+#EXTINF:-1,FOX SPORTS 1 EREDIVISIE FHD
+http://62.182.80.87:8081/Test22/Test22/7772
+#EXTINF:-1,COMEDY CENTRAL EXTRA FHD
+http://62.182.80.87:8081/Test22/Test22/7748
+#EXTINF:-1,COMEDY CENTRAL  FHD
+http://62.182.80.87:8081/Test22/Test22/7747
+#EXTINF:-1,CRIME INVESTIGATION FHD
+http://62.182.80.87:8081/Test22/Test22/7785
+#EXTINF:-1,INVESTIGATION DISCOVERY  FHD
+http://62.182.80.87:8081/Test22/Test22/7784
+#EXTINF:-1,HISTORY FHD
+http://62.182.80.87:8081/Test22/Test22/7786
+#EXTINF:-1,HISTORY DUT FHD
+http://62.182.80.87:8081/Test22/Test22/7787
+#EXTINF:-1,DISCOVERY SHOWCASE FHD
+http://62.182.80.87:8081/Test22/Test22/7783
+#EXTINF:-1,NATIONAL GEO WILD DUT FHD
+http://62.182.80.87:8081/Test22/Test22/7782
+#EXTINF:-1,NATIONAL GEO WILD FHD
+http://62.182.80.87:8081/Test22/Test22/7781
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+http://62.182.80.87:8081/Test22/Test22/7780
+#EXTINF:-1,ANIMAL PLANET FHD
+http://62.182.80.87:8081/Test22/Test22/7779
+#EXTINF:-1,PEBBLE TV FHD
+http://62.182.80.87:8081/Test22/Test22/7762
+#EXTINF:-1,NICK MUSIC FHD
+http://62.182.80.87:8081/Test22/Test22/7760
+#EXTINF:-1,NICKELODEON FHD
+http://62.182.80.87:8081/Test22/Test22/7759
+#EXTINF:-1,JIMJAM FHD
+http://62.182.80.87:8081/Test22/Test22/7761
+#EXTINF:-1,NICK TOONS FHD
+http://62.182.80.87:8081/Test22/Test22/7758
+#EXTINF:-1,NICK JR FHD
+http://62.182.80.87:8081/Test22/Test22/7757
+#EXTINF:-1,VERONICA / DISNEY XD FHD
+http://62.182.80.87:8081/Test22/Test22/7756
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://62.182.80.87:8081/Test22/Test22/7755
+#EXTINF:-1,CARTOON NETWORK FHD
+http://62.182.80.87:8081/Test22/Test22/7754
+#EXTINF:-1,BOOMERANG FHD
+http://62.182.80.87:8081/Test22/Test22/7753
+#EXTINF:-1,Baby TV FHD
+http://62.182.80.87:8081/Test22/Test22/7752
+#EXTINF:-1,RTL TELEKIDS FHD
+http://62.182.80.87:8081/Test22/Test22/7751
+#EXTINF:-1,RTL CRIME FHD
+http://62.182.80.87:8081/Test22/Test22/7750
+#EXTINF:-1,EXTREME SPORTS FHD
+http://62.182.80.87:8081/Test22/Test22/7778
+#EXTINF:-1,FOX SPORTS 2 INTERNATIONAL FHD
+http://62.182.80.87:8081/Test22/Test22/7773
+#EXTINF:-1,FOX SPORTS 3 EREDIVISIE FHD
+http://62.182.80.87:8081/Test22/Test22/7774
+#EXTINF:-1,FOX SPORTS 4 INTERNATIONAL FHD
+http://62.182.80.87:8081/Test22/Test22/7775
+#EXTINF:-1,FOX SPORTS 5  EREDIVISIE FHD
+http://62.182.80.87:8081/Test22/Test22/7776
+#EXTINF:-1,FOX SPORTS 6 INTERNATIONAL FHD
+http://62.182.80.87:8081/Test22/Test22/7777
+#EXTINF:-1,EUROSPORT 1 FHD
+http://62.182.80.87:8081/Test22/Test22/7763
+#EXTINF:-1,EUROSPORT 2 FHD
+http://62.182.80.87:8081/Test22/Test22/7764
+#EXTINF:-1,ZIGGO SPORT FHD
+http://62.182.80.87:8081/Test22/Test22/7765
+#EXTINF:-1,ZIGGO SPORT SELECT FHD
+http://62.182.80.87:8081/Test22/Test22/7766
+#EXTINF:-1,ZIGGO SPORT EXTRA 1 FHD
+http://62.182.80.87:8081/Test22/Test22/7767
+#EXTINF:-1,ZIGGO SPORT EXTRA 2 FHD
+http://62.182.80.87:8081/Test22/Test22/7768
+#EXTINF:-1,ZIGGO SPORT GOLF FHD
+http://62.182.80.87:8081/Test22/Test22/7769
+#EXTINF:-1,ZIGGO SPORT VOETBAL FHD
+http://62.182.80.87:8081/Test22/Test22/7770
+#EXTINF:-1,ZIGGO SPORT RACING FHD
+http://62.182.80.87:8081/Test22/Test22/7771
+#EXTINF:-1,Npo 1 H265
+http://62.182.80.87:8081/Test22/Test22/7802
+#EXTINF:-1,Npo 2 H265
+http://62.182.80.87:8081/Test22/Test22/7803
+#EXTINF:-1,Npo 3 H265
+http://62.182.80.87:8081/Test22/Test22/7804
+#EXTINF:-1,Net5 H265
+http://62.182.80.87:8081/Test22/Test22/7809
+#EXTINF:-1,SBS6 H265
+http://62.182.80.87:8081/Test22/Test22/7805
+#EXTINF:-1,SBS9 H265
+http://62.182.80.87:8081/Test22/Test22/7808
+#EXTINF:-1,RTL 4 H265
+http://62.182.80.87:8081/Test22/Test22/7810
+#EXTINF:-1,RTL 5 H265
+http://62.182.80.87:8081/Test22/Test22/7811
+#EXTINF:-1,RTL 7 H265
+http://62.182.80.87:8081/Test22/Test22/7806
+#EXTINF:-1,RTL 8 H265
+http://62.182.80.87:8081/Test22/Test22/7807
+#EXTINF:-1,RTL Lounge H265
+http://62.182.80.87:8081/Test22/Test22/7814
+#EXTINF:-1,RTL Crime H265
+http://62.182.80.87:8081/Test22/Test22/7823
+#EXTINF:-1,RTL Z H265
+http://62.182.80.87:8081/Test22/Test22/7815
+#EXTINF:-1,E H265
+http://62.182.80.87:8081/Test22/Test22/7812
+#EXTINF:-1,Spike H265
+http://62.182.80.87:8081/Test22/Test22/7816
+#EXTINF:-1,Viceland H265
+http://62.182.80.87:8081/Test22/Test22/7817
+#EXTINF:-1,XITE H265
+http://62.182.80.87:8081/Test22/Test22/7818
+#EXTINF:-1,FOX H265
+http://62.182.80.87:8081/Test22/Test22/7813
+#EXTINF:-1,Film1 Premiere H265
+http://62.182.80.87:8081/Test22/Test22/7822
+#EXTINF:-1,Film1 Family H265
+http://62.182.80.87:8081/Test22/Test22/7821
+#EXTINF:-1,Film1 Drama H265
+http://62.182.80.87:8081/Test22/Test22/7820
+#EXTINF:-1,Film1 Action H265
+http://62.182.80.87:8081/Test22/Test22/7819
+#EXTINF:-1,Discovery H265
+http://62.182.80.87:8081/Test22/Test22/7841
+#EXTINF:-1,Discovery Science H265
+http://62.182.80.87:8081/Test22/Test22/7842
+#EXTINF:-1,National Geo H265
+http://62.182.80.87:8081/Test22/Test22/7843
+#EXTINF:-1,RTL Telekids H265
+http://62.182.80.87:8081/Test22/Test22/7827
+#EXTINF:-1,Nickelodeon H265
+http://62.182.80.87:8081/Test22/Test22/7826
+#EXTINF:-1,Disney Channel H265
+http://62.182.80.87:8081/Test22/Test22/7825
+#EXTINF:-1,Veronica .Disney XD H265
+http://62.182.80.87:8081/Test22/Test22/7824
+#EXTINF:-1,FOX Sports 1 H265
+http://62.182.80.87:8081/Test22/Test22/7833
+#EXTINF:-1,FOX Sports 2 H265
+http://62.182.80.87:8081/Test22/Test22/7834
+#EXTINF:-1,FOX Sports 3 H265
+http://62.182.80.87:8081/Test22/Test22/7835
+#EXTINF:-1,FOX Sports 4 H265
+http://62.182.80.87:8081/Test22/Test22/7836
+#EXTINF:-1,FOX Sports 5 H265
+http://62.182.80.87:8081/Test22/Test22/7837
+#EXTINF:-1,FOX Sports 6 H265
+http://62.182.80.87:8081/Test22/Test22/7838
+#EXTINF:-1,Eurosport 1 H265
+http://62.182.80.87:8081/Test22/Test22/7839
+#EXTINF:-1,Eurosport 2 H265
+http://62.182.80.87:8081/Test22/Test22/7840
+#EXTINF:-1,Ziggo Sport Voetbal H265
+http://62.182.80.87:8081/Test22/Test22/7832
+#EXTINF:-1,Ziggo Sport Select H265
+http://62.182.80.87:8081/Test22/Test22/7831
+#EXTINF:-1,Ziggo Sport Racing H265
+http://62.182.80.87:8081/Test22/Test22/7830
+#EXTINF:-1,Ziggo EXSTRA  1H 265
+http://62.182.80.87:8081/Test22/Test22/7829
+#EXTINF:-1,Ziggo Sport Golf H265
+http://62.182.80.87:8081/Test22/Test22/7828
+#EXTINF:-1,======= RUSIA =======
+http://62.182.80.87:8081/Test22/Test22/8174
+#EXTINF:-1,RU | Rusia 1
+http://62.182.80.87:8081/Test22/Test22/8226
+#EXTINF:-1,RU | Rusia 24
+http://62.182.80.87:8081/Test22/Test22/8227
+#EXTINF:-1,RU | Prvi Kanal
+http://62.182.80.87:8081/Test22/Test22/8221
+#EXTINF:-1,RU | HTB
+http://62.182.80.87:8081/Test22/Test22/8218
+#EXTINF:-1,RU | HTB HD
+http://62.182.80.87:8081/Test22/Test22/8219
+#EXTINF:-1,RU | Usadba
+http://62.182.80.87:8081/Test22/Test22/8236
+#EXTINF:-1,RU | Tocka TV
+http://62.182.80.87:8081/Test22/Test22/8235
+#EXTINF:-1,RU | CTC 4
+http://62.182.80.87:8081/Test22/Test22/8234
+#EXTINF:-1,RU | Spas
+http://62.182.80.87:8081/Test22/Test22/8233
+#EXTINF:-1,RU | Ruski Ekstrim
+http://62.182.80.87:8081/Test22/Test22/8232
+#EXTINF:-1,RU | Ruski Roman
+http://62.182.80.87:8081/Test22/Test22/8231
+#EXTINF:-1,RU | Ruski Iluzion
+http://62.182.80.87:8081/Test22/Test22/8230
+#EXTINF:-1,RU | Ruski Detektiv
+http://62.182.80.87:8081/Test22/Test22/8229
+#EXTINF:-1,RU | Ruski Bestseler
+http://62.182.80.87:8081/Test22/Test22/8228
+#EXTINF:-1,RU | Retro
+http://62.182.80.87:8081/Test22/Test22/8225
+#EXTINF:-1,RU | Ren TV
+http://62.182.80.87:8081/Test22/Test22/8224
+#EXTINF:-1,RU | Pjatnica
+http://62.182.80.87:8081/Test22/Test22/8223
+#EXTINF:-1,RU | Nat Geo Wild
+http://62.182.80.87:8081/Test22/Test22/8245
+#EXTINF:-1,RU | Disney
+http://62.182.80.87:8081/Test22/Test22/8244
+#EXTINF:-1,RU | Da Vinci Learning
+http://62.182.80.87:8081/Test22/Test22/8243
+#EXTINF:-1,RU | Paramount Comedy HD
+http://62.182.80.87:8081/Test22/Test22/8242
+#EXTINF:-1,RU | Psihologija 21
+http://62.182.80.87:8081/Test22/Test22/8222
+#EXTINF:-1,RU | Ohota i Ribalka
+http://62.182.80.87:8081/Test22/Test22/8220
+#EXTINF:-1,RU | TV1000 Action
+http://62.182.80.87:8081/Test22/Test22/8241
+#EXTINF:-1,RU | TV1000
+http://62.182.80.87:8081/Test22/Test22/8240
+#EXTINF:-1,RU | TV1000 Premium HD
+http://62.182.80.87:8081/Test22/Test22/8239
+#EXTINF:-1,RU | TV1000 Megahit HD
+http://62.182.80.87:8081/Test22/Test22/8238
+#EXTINF:-1,RU | TV1000 Comedy HD
+http://62.182.80.87:8081/Test22/Test22/8237
+#EXTINF:-1,RU | Nase Novoe Kino
+http://62.182.80.87:8081/Test22/Test22/8217
+#EXTINF:-1,RU | Nase Kino
+http://62.182.80.87:8081/Test22/Test22/8216
+#EXTINF:-1,RU | Nase HD
+http://62.182.80.87:8081/Test22/Test22/8215
+#EXTINF:-1,RU | Mulia
+http://62.182.80.87:8081/Test22/Test22/8214
+#EXTINF:-1,RU | Muzika Pervogo
+http://62.182.80.87:8081/Test22/Test22/8213
+#EXTINF:-1,RU | Muz TV
+http://62.182.80.87:8081/Test22/Test22/8212
+#EXTINF:-1,RU | Mnogo TV
+http://62.182.80.87:8081/Test22/Test22/8211
+#EXTINF:-1,RU | Mir Seriala
+http://62.182.80.87:8081/Test22/Test22/8210
+#EXTINF:-1,RU | Matc Fudbol 3
+http://62.182.80.87:8081/Test22/Test22/8208
+#EXTINF:-1,RU | Matc Fudbol 2
+http://62.182.80.87:8081/Test22/Test22/8207
+#EXTINF:-1,RU | Matc Fudbol 1
+http://62.182.80.87:8081/Test22/Test22/8206
+#EXTINF:-1,RU | Matc TV HD
+http://62.182.80.87:8081/Test22/Test22/8205
+#EXTINF:-1,RU | Matc Nas Sport
+http://62.182.80.87:8081/Test22/Test22/8203
+#EXTINF:-1,RU | Matc Igra HD
+http://62.182.80.87:8081/Test22/Test22/8202
+#EXTINF:-1,RU | Matc Igra
+http://62.182.80.87:8081/Test22/Test22/8201
+#EXTINF:-1,RU | Matc Boec
+http://62.182.80.87:8081/Test22/Test22/8200
+#EXTINF:-1,RU | Matc Arena HD
+http://62.182.80.87:8081/Test22/Test22/8199
+#EXTINF:-1,RU | Matc
+http://62.182.80.87:8081/Test22/Test22/8198
+#EXTINF:-1,RU | Lobimoe Kino
+http://62.182.80.87:8081/Test22/Test22/8197
+#EXTINF:-1,RU | Kuhinia TV
+http://62.182.80.87:8081/Test22/Test22/8196
+#EXTINF:-1,RU | Kinohit
+http://62.182.80.87:8081/Test22/Test22/8195
+#EXTINF:-1,RU | Kinopokaz
+http://62.182.80.87:8081/Test22/Test22/8194
+#EXTINF:-1,RU | Kinoklib
+http://62.182.80.87:8081/Test22/Test22/8193
+#EXTINF:-1,RU | Kino Premium HD
+http://62.182.80.87:8081/Test22/Test22/8192
+#EXTINF:-1,RU | Kino Plus
+http://62.182.80.87:8081/Test22/Test22/8191
+#EXTINF:-1,RU | Zdorovoe TV
+http://62.182.80.87:8081/Test22/Test22/8190
+#EXTINF:-1,RU | Evrosport 2
+http://62.182.80.87:8081/Test22/Test22/8189
+#EXTINF:-1,RU | Evrokino
+http://62.182.80.87:8081/Test22/Test22/8188
+#EXTINF:-1,RU | Draiv
+http://62.182.80.87:8081/Test22/Test22/8187
+#EXTINF:-1,RU | Domasni
+http://62.182.80.87:8081/Test22/Test22/8186
+#EXTINF:-1,RU | Domasni Zivotni
+http://62.182.80.87:8081/Test22/Test22/8185
+#EXTINF:-1,RU | Dom Kino Premium HD
+http://62.182.80.87:8081/Test22/Test22/8184
+#EXTINF:-1,RU | Dom Kino
+http://62.182.80.87:8081/Test22/Test22/8183
+#EXTINF:-1,RU | Prasanje i odgovor
+http://62.182.80.87:8081/Test22/Test22/8182
+#EXTINF:-1,RU | Boks TV
+http://62.182.80.87:8081/Test22/Test22/8181
